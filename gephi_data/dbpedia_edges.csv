@@ -1,0 +1,1160 @@
+Source,Target,Type,Id,Label,Weight
+C0000833,C0041834,Directed,C0000833_C0041834,Edge from Abscess to Erythema,1
+C0001080,C0221355,Directed,C0001080_C0221355,Edge from Achondroplasia to Macrocephaly,1
+C0001144,C2004491,Directed,C0001144_C2004491,Edge from Acne to Scar,1
+C0796147,C5441816,Directed,C0796147_C5441816,Edge from Acrocallosal syndrome to Psychomotor retardation,1
+C0796147,C0152427,Directed,C0796147_C0152427,Edge from Acrocallosal syndrome to Polydactyly,1
+C0006277,C0010200,Directed,C0006277_C0010200,Edge from Bronchitis to Cough,1
+C0006277,C0015967,Directed,C0006277_C0015967,Edge from Bronchitis to Fever,1
+C0006277,C0085619,Directed,C0006277_C0085619,Edge from Bronchitis to Shortness of breath,1
+C0162557,C0242183,Directed,C0162557_C0242183,Edge from Acute liver failure to Jaundice,1
+C0162557,C0020649,Directed,C0162557_C0020649,Edge from Acute liver failure to Hypotension,1
+C0162557,C0019087,Directed,C0162557_C0019087,Edge from Acute liver failure to Bleeding diathesis,1
+C0023452,C0024228,Directed,C0023452_C0024228,Edge from Acute lymphoblastic leukemia to Lymphadenopathy,1
+C0023452,C0015967,Directed,C0023452_C0015967,Edge from Acute lymphoblastic leukemia to Fever,1
+C1879321,C0009938,Directed,C1879321_C0009938,Edge from Acute myeloid leukemia to Bruise,1
+C1879321,C0009450,Directed,C1879321_C0009450,Edge from Acute myeloid leukemia to Infection,1
+C1879321,C0019080,Directed,C1879321_C0019080,Edge from Acute myeloid leukemia to Bleeding,1
+C1879321,C0085619,Directed,C1879321_C0085619,Edge from Acute myeloid leukemia to Shortness of breath,1
+C1879321,C0086525,Directed,C1879321_C0086525,Edge from Acute myeloid leukemia to Fatigue,1
+C0034530,C0042963,Directed,C0034530_C0042963,Edge from Acute radiation syndrome to Vomiting,1
+C0034530,C0003123,Directed,C0034530_C0003123,Edge from Acute radiation syndrome to Anorexia (symptom),1
+C2887484,C0008031,Directed,C2887484_C0008031,Edge from Acute respiratory distress syndrome to Chest pain,1
+C2887484,C0010520,Directed,C2887484_C0010520,Edge from Acute respiratory distress syndrome to Cyanosis,1
+C2887484,C0085619,Directed,C2887484_C0085619,Edge from Acute respiratory distress syndrome to Shortness of breath,1
+C0001486,C0009763,Directed,C0001486_C0009763,Edge from Adenovirus infection to Conjunctivitis,1
+C0001486,C0042963,Directed,C0001486_C0042963,Edge from Adenovirus infection to Vomiting,1
+C0001486,C0017160,Directed,C0001486_C0017160,Edge from Adenovirus infection to Gastroenteritis,1
+C0001486,C0042029,Directed,C0001486_C0042029,Edge from Adenovirus infection to Urinary tract infection,1
+C0001486,C0035455,Directed,C0001486_C0035455,Edge from Adenovirus infection to Rhinitis,1
+C0001486,C0000737,Directed,C0001486_C0000737,Edge from Adenovirus infection to Abdominal pain,1
+C0001486,C0040425,Directed,C0001486_C0040425,Edge from Adenovirus infection to Tonsillitis,1
+C0001486,C0024228,Directed,C0001486_C0024228,Edge from Adenovirus infection to Lymphadenopathy,1
+C0001486,C0085593,Directed,C0001486_C0085593,Edge from Adenovirus infection to Chills,1
+C0001486,C0231528,Directed,C0001486_C0231528,Edge from Adenovirus infection to Myalgia,1
+C0001486,C0010200,Directed,C0001486_C0010200,Edge from Adenovirus infection to Cough,1
+C0001486,C0877781,Directed,C0001486_C0877781,Edge from Adenovirus infection to Headache,1
+C0001486,C0015967,Directed,C0001486_C0015967,Edge from Adenovirus infection to Fever,1
+C0001486,C0031350,Directed,C0001486_C0031350,Edge from Adenovirus infection to Pharyngitis,1
+C0001486,C0085636,Directed,C0001486_C0085636,Edge from Adenovirus infection to Photophobia,1
+C0001486,C0086525,Directed,C0001486_C0086525,Edge from Adenovirus infection to Fatigue,1
+C0268126,C0025958,Directed,C0268126_C0025958,Edge from Adenylosuccinate lyase deficiency to Microcephaly,1
+C0027333,C0233407,Directed,C0027333_C0233407,Edge from African trypanosomiasis to Confusion,1
+C0027333,C0003862,Directed,C0027333_C0003862,Edge from African trypanosomiasis to Arthralgia,1
+C0027333,C0541798,Directed,C0027333_C0541798,Edge from African trypanosomiasis to Insomnia,1
+C0027333,C0750937,Directed,C0027333_C0750937,Edge from African trypanosomiasis to Ataxia,1
+C0001818,C0027769,Directed,C0001818_C0027769,Edge from Agoraphobia to Anxiety,1
+C0001818,C0086769,Directed,C0001818_C0086769,Edge from Agoraphobia to Panic disorder,1
+C0013926,C0155503,Directed,C0013926_C0155503,Edge from Air embolism to Vertigo,1
+C0013926,C0220870,Directed,C0013926_C0220870,Edge from Air embolism to Dizziness,1
+C0013926,C0020649,Directed,C0013926_C0020649,Edge from Air embolism to Hypotension,1
+C0013926,C0877781,Directed,C0013926_C0877781,Edge from Air embolism to Headache,1
+C0001956,C0541798,Directed,C0001956_C0541798,Edge from Alcohol abuse to Insomnia,1
+C0001956,C0086525,Directed,C0001956_C0086525,Edge from Alcohol abuse to Fatigue,1
+C0001969,C0042963,Directed,C0001969_C0042963,Edge from Alcohol intoxication to Vomiting,1
+C0001969,C0860634,Directed,C0001969_C0860634,Edge from Alcohol intoxication to Coma,1
+C0001969,C0750937,Directed,C0001969_C0750937,Edge from Alcohol intoxication to Ataxia,1
+C0001969,C3203358,Directed,C0001969_C3203358,Edge from Alcohol intoxication to Hypoventilation,1
+C0001969,C0454596,Directed,C0001969_C0454596,Edge from Alcohol intoxication to Dysarthria,1
+C1527304,C0022577,Directed,C1527304_C0022577,Edge from Allergy to Allergic conjunctivitis,1
+C1527304,C0010200,Directed,C1527304_C0010200,Edge from Allergy to Cough,1
+C1527304,C0013604,Directed,C1527304_C0013604,Edge from Allergy to Edema,1
+C1527304,C0085619,Directed,C1527304_C0085619,Edge from Allergy to Shortness of breath,1
+C0002171,C0002170,Directed,C0002171_C0002170,Edge from Alopecia areata to Hair loss,1
+C0221757,C0242183,Directed,C0221757_C0242183,Edge from Alpha-1 antitrypsin deficiency to Jaundice,1
+C0221757,C0085619,Directed,C0221757_C0085619,Edge from Alpha-1 antitrypsin deficiency to Shortness of breath,1
+C0002312,C0242183,Directed,C0002312_C0242183,Edge from Alpha-thalassemia to Jaundice,1
+C3887755,C0220870,Directed,C3887755_C0220870,Edge from Altitude sickness to Dizziness,1
+C3887755,C0042963,Directed,C3887755_C0042963,Edge from Altitude sickness to Vomiting,1
+C3887755,C0541798,Directed,C3887755_C0541798,Edge from Altitude sickness to Insomnia,1
+C3887755,C0877781,Directed,C3887755_C0877781,Edge from Altitude sickness to Headache,1
+C3887755,C0086525,Directed,C3887755_C0086525,Edge from Altitude sickness to Fatigue,1
+C0002395,C0002622,Directed,C0002395_C0002622,Edge from Alzheimer's disease to Amnesia,1
+C0002395,C0282513,Directed,C0002395_C0282513,Edge from Alzheimer's disease to Primary progressive aphasia,1
+C0002438,C0000737,Directed,C0002438_C0000737,Edge from Amoebiasis to Abdominal pain,1
+C0002438,C0013369,Directed,C0002438_C0013369,Edge from Amoebiasis to Dysentery,1
+C0002736,C0340194,Directed,C0002736_C0340194,Edge from Amyotrophic lateral sclerosis to Respiratory failure,1
+C0002736,C0541957,Directed,C0002736_C0541957,Edge from Amyotrophic lateral sclerosis to Fasciculation,1
+C0002736,C0085619,Directed,C0002736_C0085619,Edge from Amyotrophic lateral sclerosis to Shortness of breath,1
+C0002736,C0026838,Directed,C0002736_C0026838,Edge from Amyotrophic lateral sclerosis to Spasticity,1
+C0002736,C0454596,Directed,C0002736_C0454596,Edge from Amyotrophic lateral sclerosis to Dysarthria,1
+C0002736,C0011168,Directed,C0002736_C0011168,Edge from Amyotrophic lateral sclerosis to Dysphagia,1
+C0002792,C0020649,Directed,C0002792_C0020649,Edge from Anaphylaxis to Hypotension,1
+C0002792,C0085619,Directed,C0002792_C0085619,Edge from Anaphylaxis to Shortness of breath,1
+C1563715,C0003811,Directed,C1563715_C0003811,Edge from Andersen–Tawil syndrome to Arrhythmia,1
+C0002871,C0151786,Directed,C0002871_C0151786,Edge from Anemia to Muscle weakness,1
+C0002871,C0700200,Directed,C0002871_C0700200,Edge from Anemia to Lightheadedness,1
+C0002871,C0085619,Directed,C0002871_C0085619,Edge from Anemia to Shortness of breath,1
+C0002871,C0030232,Directed,C0002871_C0030232,Edge from Anemia to Pallor,1
+C0002871,C0086525,Directed,C0002871_C0086525,Edge from Anemia to Fatigue,1
+C0162635,C0917816,Directed,C0162635_C0917816,Edge from Angelman syndrome to Intellectual disability,1
+C0162635,C0025958,Directed,C0162635_C0025958,Edge from Angelman syndrome to Microcephaly,1
+C0007971,C0041834,Directed,C0007971_C0041834,Edge from Angular cheilitis to Erythema,1
+C0038013,C0750949,Directed,C0038013_C0750949,Edge from Ankylosing spondylitis to Back pain,1
+C0003125,C0041667,Directed,C0003125_C0041667,Edge from Anorexia nervosa to Underweight,1
+C0003175,C0000833,Directed,C0003175_C0000833,Edge from Anthrax to Abscess,1
+C0003175,C0085619,Directed,C0003175_C0085619,Edge from Anthrax to Shortness of breath,1
+C0376280,C0080203,Directed,C0376280_C0080203,Edge from Anxiety disorder to Tachycardia,1
+C0086789,C0024228,Directed,C0086789_C0024228,Edge from Aphthous stomatitis to Lymphadenopathy,1
+C0086789,C0015967,Directed,C0086789_C0015967,Edge from Aphthous stomatitis to Fever,1
+C0178416,C0220870,Directed,C0178416_C0220870,Edge from Aplastic anemia to Dizziness,1
+C0178416,C0080203,Directed,C0178416_C0080203,Edge from Aplastic anemia to Tachycardia,1
+C0178416,C0015230,Directed,C0178416_C0015230,Edge from Aplastic anemia to Rash,1
+C0178416,C0009450,Directed,C0178416_C0009450,Edge from Aplastic anemia to Infection,1
+C0178416,C0877781,Directed,C0178416_C0877781,Edge from Aplastic anemia to Headache,1
+C0178416,C0030232,Directed,C0178416_C0030232,Edge from Aplastic anemia to Pallor,1
+C0178416,C0086525,Directed,C0178416_C0086525,Edge from Aplastic anemia to Fatigue,1
+C0496779,C0003123,Directed,C0496779_C0003123,Edge from Appendix cancer to Anorexia (symptom),1
+C0496779,C0085619,Directed,C0496779_C0085619,Edge from Appendix cancer to Shortness of breath,1
+C0263334,C0042109,Directed,C0263334_C0042109,Edge from Aquagenic urticaria to Hives,1
+C0003811,C0700200,Directed,C0003811_C0700200,Edge from Arrhythmia to Lightheadedness,1
+C0003811,C0008031,Directed,C0003811_C0008031,Edge from Arrhythmia to Chest pain,1
+C0003811,C0085619,Directed,C0003811_C0085619,Edge from Arrhythmia to Shortness of breath,1
+C0751851,C0162834,Directed,C0751851_C0162834,Edge from Arsenic poisoning to Hyperpigmentation,1
+C0751851,C0042963,Directed,C0751851_C0042963,Edge from Arsenic poisoning to Vomiting,1
+C0751851,C0000737,Directed,C0751851_C0000737,Edge from Arsenic poisoning to Abdominal pain,1
+C0751851,C0027651,Directed,C0751851_C0027651,Edge from Arsenic poisoning to Neoplasm,1
+C0751851,C0011991,Directed,C0751851_C0011991,Edge from Arsenic poisoning to Diarrhea,1
+C0003864,C0003862,Directed,C0003864_C0003862,Edge from Arthritis to Arthralgia,1
+C0003950,C0011991,Directed,C0003950_C0011991,Edge from Ascariasis to Diarrhea,1
+C0003950,C0085619,Directed,C0003950_C0085619,Edge from Ascariasis to Shortness of breath,1
+C0003962,C0085619,Directed,C0003962_C0085619,Edge from Ascites to Shortness of breath,1
+C0032290,C0010200,Directed,C0032290_C0010200,Edge from Aspiration pneumonia to Cough,1
+C0032290,C0015967,Directed,C0032290_C0015967,Edge from Aspiration pneumonia to Fever,1
+C0040259,C0033774,Directed,C0040259_C0033774,Edge from Athlete's foot to Itch,1
+C0521802,C0002871,Directed,C0521802_C0002871,Edge from Atransferrinemia to Anemia,1
+C3468561,C0700200,Directed,C3468561_C0700200,Edge from Atrial fibrillation to Lightheadedness,1
+C3468561,C0002962,Directed,C3468561_C0002962,Edge from Atrial fibrillation to Angina,1
+C3468561,C0085619,Directed,C3468561_C0085619,Edge from Atrial fibrillation to Shortness of breath,1
+C0004364,C0015967,Directed,C0004364_C0015967,Edge from Autoimmune disease to Fever,1
+C0004364,C0086525,Directed,C0004364_C0086525,Edge from Autoimmune disease to Fatigue,1
+C0241910,C0027497,Directed,C0241910_C0027497,Edge from Autoimmune hepatitis to Nausea,1
+C0241910,C0015230,Directed,C0241910_C0015230,Edge from Autoimmune hepatitis to Rash,1
+C0241910,C0003125,Directed,C0241910_C0003125,Edge from Autoimmune hepatitis to Anorexia nervosa,1
+C0241910,C0003862,Directed,C0241910_C0003862,Edge from Autoimmune hepatitis to Arthralgia,1
+C0241910,C0242183,Directed,C0241910_C0242183,Edge from Autoimmune hepatitis to Jaundice,1
+C0241910,C0086525,Directed,C0241910_C0086525,Edge from Autoimmune hepatitis to Fatigue,1
+C0085859,C0006845,Directed,C0085859_C0006845,Edge from Autoimmune polyendocrine syndrome type 1 to Chronic mucocutaneous candidiasis,1
+C0085548,C0032617,Directed,C0085548_C0032617,Edge from Autosomal recessive polycystic kidney disease to Polyuria,1
+C0027543,C0003862,Directed,C0027543_C0003862,Edge from Avascular necrosis to Arthralgia,1
+C0004576,C0085593,Directed,C0004576_C0085593,Edge from Babesiosis to Chills,1
+C0004576,C0015967,Directed,C0004576_C0015967,Edge from Babesiosis to Fever,1
+C0085166,C0227791,Directed,C0085166_C0227791,Edge from Bacterial vaginosis to Vaginal discharge,1
+C0085166,C0013428,Directed,C0085166_C0013428,Edge from Bacterial vaginosis to Dysuria,1
+C0265326,C0221355,Directed,C0265326_C0221355,Edge from Bannayan–Riley–Ruvalcaba syndrome to Macrocephaly,1
+C4721806,C1138421,Directed,C4721806_C1138421,Edge from Basal-cell carcinoma to Telangiectasia,1
+C0004913,C0005758,Directed,C0004913_C0005758,Edge from Bed bug to Blister,1
+C0004913,C0033774,Directed,C0004913_C0033774,Edge from Bed bug to Itch,1
+C0004943,C0003864,Directed,C0004943_C0003864,Edge from Behçet's disease to Arthritis,1
+C0004943,C0086789,Directed,C0004943_C0086789,Edge from Behçet's disease to Aphthous stomatitis,1
+C0004943,C0086525,Directed,C0004943_C0086525,Edge from Behçet's disease to Fatigue,1
+C0155503,C0155503,Directed,C0155503_C0155503,Edge from Vertigo to Vertigo,1
+C1704272,C0080274,Directed,C1704272_C0080274,Edge from Benign prostatic hyperplasia to Urinary retention,1
+C1704272,C0042024,Directed,C1704272_C0042024,Edge from Benign prostatic hyperplasia to Urinary incontinence,1
+C4048196,C1384666,Directed,C4048196_C1384666,Edge from Beta-mannosidosis to Hearing loss,1
+C2750087,C0011991,Directed,C2750087_C0011991,Edge from Bile acid malabsorption to Diarrhea,1
+C0023464,C0002871,Directed,C0023464_C0002871,Edge from Biphenotypic acute leukaemia to Anemia,1
+C0023464,C0024228,Directed,C0023464_C0024228,Edge from Biphenotypic acute leukaemia to Lymphadenopathy,1
+C0005586,C0086132,Directed,C0005586_C0086132,Edge from Bipolar disorder to Depression (mood),1
+C0031903,C0003125,Directed,C0031903_C0003125,Edge from Bird fancier's lung to Anorexia nervosa,1
+C0031903,C0008031,Directed,C0031903_C0008031,Edge from Bird fancier's lung to Chest pain,1
+C0031903,C0010200,Directed,C0031903_C0010200,Edge from Bird fancier's lung to Cough,1
+C0031903,C0015967,Directed,C0031903_C0015967,Edge from Bird fancier's lung to Fever,1
+C0031903,C0085619,Directed,C0031903_C0085619,Edge from Bird fancier's lung to Shortness of breath,1
+C0031903,C0086525,Directed,C0031903_C0086525,Edge from Bird fancier's lung to Fatigue,1
+C0027612,C0085996,Directed,C0027612_C0085996,Edge from Birth defect to Developmental disability,1
+C0027612,C0917816,Directed,C0027612_C0917816,Edge from Birth defect to Intellectual disability,1
+C0005695,C0013428,Directed,C0005695_C0013428,Edge from Bladder cancer to Dysuria,1
+C0005695,C0018965,Directed,C0005695_C0018965,Edge from Bladder cancer to Hematuria,1
+C0005683,C0458257,Directed,C0005683_C0458257,Edge from Bladder stone to Pain,1
+C0005967,C0027497,Directed,C0005967_C0027497,Edge from Bone tumor to Nausea,1
+C0005967,C0002871,Directed,C0005967_C0002871,Edge from Bone tumor to Anemia,1
+C0005967,C0458257,Directed,C0005967_C0458257,Edge from Bone tumor to Pain,1
+C0005967,C0015967,Directed,C0005967_C0015967,Edge from Bone tumor to Fever,1
+C0005967,C0086525,Directed,C0005967_C0086525,Edge from Bone tumor to Fatigue,1
+C0006012,C0085271,Directed,C0006012_C0085271,Edge from Borderline personality disorder to Self-harm,1
+C0032238,C0015967,Directed,C0032238_C0015967,Edge from Bornholm disease to Fever,1
+C0006057,C0086525,Directed,C0006057_C0086525,Edge from Botulism to Fatigue,1
+C0021843,C0042963,Directed,C0021843_C0042963,Edge from Bowel obstruction to Vomiting,1
+C0021843,C0000737,Directed,C0021843_C0000737,Edge from Bowel obstruction to Abdominal pain,1
+C0021843,C0016204,Directed,C0021843_C0016204,Edge from Bowel obstruction to Flatulence,1
+C0006118,C0042963,Directed,C0006118_C0042963,Edge from Brain tumor to Vomiting,1
+C0006118,C3495874,Directed,C0006118_C3495874,Edge from Brain tumor to Seizure,1
+C0006118,C0877781,Directed,C0006118_C0877781,Edge from Brain tumor to Headache,1
+C0006267,C0008031,Directed,C0006267_C0008031,Edge from Bronchiectasis to Chest pain,1
+C0006267,C0085619,Directed,C0006267_C0085619,Edge from Bronchiectasis to Shortness of breath,1
+C0006271,C0010200,Directed,C0006271_C0010200,Edge from Bronchiolitis to Cough,1
+C0006271,C0015967,Directed,C0006271_C0015967,Edge from Bronchiolitis to Fever,1
+C2350875,C0085619,Directed,C2350875_C0085619,Edge from Bronchiolitis obliterans to Shortness of breath,1
+C2350875,C0086525,Directed,C2350875_C0086525,Edge from Bronchiolitis obliterans to Fatigue,1
+C0006309,C0003862,Directed,C0006309_C0003862,Edge from Brucellosis to Arthralgia,1
+C0006309,C0015967,Directed,C0006309_C0015967,Edge from Brucellosis to Fever,1
+C1721096,C0700200,Directed,C1721096_C0700200,Edge from Brugada syndrome to Lightheadedness,1
+C1721096,C0018790,Directed,C1721096_C0018790,Edge from Brugada syndrome to Cardiac arrest,1
+C0393540,C0013132,Directed,C0393540_C0013132,Edge from Bulbar palsy to Drooling,1
+C0393540,C0454596,Directed,C0393540_C0454596,Edge from Bulbar palsy to Dysarthria,1
+C0393540,C0011168,Directed,C0393540_C0011168,Edge from Bulbar palsy to Dysphagia,1
+C0393540,C0026846,Directed,C0393540_C0026846,Edge from Bulbar palsy to Muscle atrophy,1
+C0006434,C0458257,Directed,C0006434_C0458257,Edge from Burn to Pain,1
+C0006434,C0005758,Directed,C0006434_C0005758,Edge from Burn to Blister,1
+C0085568,C0037299,Directed,C0085568_C0037299,Edge from Buruli ulcer to Ulcer (dermatology),1
+C0265514,C0029455,Directed,C0265514_C0029455,Edge from Buschke–Ollendorff syndrome to Osteopoikilosis,1
+C0029944,C0042963,Directed,C0029944_C0042963,Edge from Calcium channel blocker toxicity to Vomiting,1
+C0029944,C0428977,Directed,C0029944_C0428977,Edge from Calcium channel blocker toxicity to Bradycardia,1
+C0029944,C0020649,Directed,C0029944_C0020649,Edge from Calcium channel blocker toxicity to Hypotension,1
+C0006818,C0000737,Directed,C0006818_C0000737,Edge from Campylobacteriosis to Abdominal pain,1
+C0006818,C0011991,Directed,C0006818_C0011991,Edge from Campylobacteriosis to Diarrhea,1
+C0006818,C0015967,Directed,C0006818_C0015967,Edge from Campylobacteriosis to Fever,1
+C0343084,C0009492,Directed,C0343084_C0009492,Edge from Capillary leak syndrome to Compartment syndrome,1
+C0343084,C0020649,Directed,C0343084_C0020649,Edge from Capillary leak syndrome to Hypotension,1
+C0343084,C0239981,Directed,C0343084_C0239981,Edge from Capillary leak syndrome to Hypoalbuminemia,1
+C0343084,C0013604,Directed,C0343084_C0013604,Edge from Capillary leak syndrome to Edema,1
+C0007020,C0233407,Directed,C0007020_C0233407,Edge from Carbon monoxide poisoning to Confusion,1
+C0007020,C0220870,Directed,C0007020_C0220870,Edge from Carbon monoxide poisoning to Dizziness,1
+C0007020,C0008031,Directed,C0007020_C0008031,Edge from Carbon monoxide poisoning to Chest pain,1
+C0007020,C0877781,Directed,C0007020_C0877781,Edge from Carbon monoxide poisoning to Headache,1
+C0007177,C0700200,Directed,C0007177_C0700200,Edge from Cardiac tamponade to Lightheadedness,1
+C0007177,C0085619,Directed,C0007177_C0085619,Edge from Cardiac tamponade to Shortness of breath,1
+C0036980,C0080203,Directed,C0036980_C0080203,Edge from Cardiogenic shock to Tachycardia,1
+C0036980,C0038990,Directed,C0036980_C0038990,Edge from Cardiogenic shock to Perspiration,1
+C0036980,C0020649,Directed,C0036980_C0020649,Edge from Cardiogenic shock to Hypotension,1
+C0036980,C0085619,Directed,C0036980_C0085619,Edge from Cardiogenic shock to Shortness of breath,1
+C0036980,C0086525,Directed,C0036980_C0086525,Edge from Cardiogenic shock to Fatigue,1
+C0007222,C0008031,Directed,C0007222_C0008031,Edge from Cardiovascular disease to Chest pain,1
+C0007222,C0085619,Directed,C0007222_C0085619,Edge from Cardiovascular disease to Shortness of breath,1
+C0007222,C0086525,Directed,C0007222_C0086525,Edge from Cardiovascular disease to Fatigue,1
+C0007286,C0392699,Directed,C0007286_C0392699,Edge from Carpal tunnel syndrome to Paresthesia,1
+C0220748,C0027947,Directed,C0220748_C0027947,Edge from Cartilage–hair hypoplasia to Neutropenia,1
+C2677794,C0700200,Directed,C2677794_C0700200,Edge from Catecholaminergic polymorphic ventricular tachycardia to Lightheadedness,1
+C2677794,C0018790,Directed,C2677794_C0018790,Edge from Catecholaminergic polymorphic ventricular tachycardia to Cardiac arrest,1
+C0031557,C0015967,Directed,C0031557_C0015967,Edge from Cellulitis to Fever,1
+C0394003,C0751564,Directed,C0394003_C0751564,Edge from Cerebral palsy to Tremor,1
+C0394003,C0026838,Directed,C0394003_C0026838,Edge from Cerebral palsy to Spasticity,1
+C0007873,C0030794,Directed,C0007873_C0030794,Edge from Cervical cancer to Pelvic pain,1
+C0007933,C0010709,Directed,C0007933_C0010709,Edge from Chalazion to Cyst,1
+C1720983,C0700200,Directed,C1720983_C0700200,Edge from Channelopathy to Lightheadedness,1
+C1720983,C0151786,Directed,C1720983_C0151786,Edge from Channelopathy to Muscle weakness,1
+C1720983,C3495874,Directed,C1720983_C3495874,Edge from Channelopathy to Seizure,1
+C1720983,C0085619,Directed,C1720983_C0085619,Edge from Channelopathy to Shortness of breath,1
+C0270911,C0158461,Directed,C0270911_C0158461,Edge from Charcot–Marie–Tooth disease to Hammer toe,1
+C0270911,C0026846,Directed,C0270911_C0026846,Edge from Charcot–Marie–Tooth disease to Muscle atrophy,1
+C0006435,C0162834,Directed,C0006435_C0162834,Edge from Chemical burn to Hyperpigmentation,1
+C0006435,C0033774,Directed,C0006435_C0033774,Edge from Chemical burn to Itch,1
+C0006435,C0019079,Directed,C0006435_C0019079,Edge from Chemical burn to Hemoptysis,1
+C0006435,C0085619,Directed,C0006435_C0085619,Edge from Chemical burn to Shortness of breath,1
+C0006435,C0030232,Directed,C0006435_C0030232,Edge from Chemical burn to Pallor,1
+C0008031,C0458257,Directed,C0008031_C0458257,Edge from Chest pain to Pain,1
+C0919833,C0003862,Directed,C0919833_C0003862,Edge from Chikungunya to Arthralgia,1
+C0919833,C0015967,Directed,C0919833_C0015967,Edge from Chikungunya to Fever,1
+C0267494,C0000737,Directed,C0267494_C0000737,Edge from Chilaiditi syndrome to Abdominal pain,1
+C0267494,C0085619,Directed,C0267494_C0085619,Edge from Chilaiditi syndrome to Shortness of breath,1
+C0008149,C0227791,Directed,C0008149_C0227791,Edge from Chlamydia to Vaginal discharge,1
+C0008149,C0013428,Directed,C0008149_C0013428,Edge from Chlamydia to Dysuria,1
+C0014012,C0042963,Directed,C0014012_C0042963,Edge from Cholecystitis to Vomiting,1
+C0014012,C0000737,Directed,C0014012_C0000737,Edge from Cholecystitis to Abdominal pain,1
+C0014012,C0015967,Directed,C0014012_C0015967,Edge from Cholecystitis to Fever,1
+C0008354,C0042963,Directed,C0008354_C0042963,Edge from Cholera to Vomiting,1
+C0008354,C0026821,Directed,C0008354_C0026821,Edge from Cholera to Cramp,1
+C0008354,C0011991,Directed,C0008354_C0011991,Edge from Cholera to Diarrhea,1
+C0015674,C0086525,Directed,C0015674_C0086525,Edge from Chronic fatigue syndrome to Fatigue,1
+C0022661,C0233407,Directed,C0022661_C0233407,Edge from Chronic kidney disease to Confusion,1
+C0022661,C0042963,Directed,C0022661_C0042963,Edge from Chronic kidney disease to Vomiting,1
+C0022661,C0013604,Directed,C0022661_C0013604,Edge from Chronic kidney disease to Edema,1
+C0023434,C0015967,Directed,C0023434_C0015967,Edge from Chronic lymphocytic leukemia to Fever,1
+C0019621,C0011848,Directed,C0019621_C0011848,Edge from Chronic multifocal Langerhans cell histiocytosis to Diabetes insipidus,1
+C0019621,C0015300,Directed,C0019621_C0015300,Edge from Chronic multifocal Langerhans cell histiocytosis to Exophthalmos,1
+C0019621,C0029882,Directed,C0019621_C0029882,Edge from Chronic multifocal Langerhans cell histiocytosis to Otitis media,1
+C0023890,C0003962,Directed,C0023890_C0003962,Edge from Cirrhosis to Ascites,1
+C0023890,C0242183,Directed,C0023890_C0242183,Edge from Cirrhosis to Jaundice,1
+C0023890,C0033774,Directed,C0023890_C0033774,Edge from Cirrhosis to Itch,1
+C0023890,C0086525,Directed,C0023890_C0086525,Edge from Cirrhosis to Fatigue,1
+C0393739,C0877781,Directed,C0393739_C0877781,Edge from Cluster headache to Headache,1
+C0007570,C1257861,Directed,C0007570_C1257861,Edge from Coeliac disease to Constipation,1
+C0007570,C0024523,Directed,C0007570_C0024523,Edge from Coeliac disease to Malabsorption,1
+C0007570,C0011608,Directed,C0007570_C0011608,Edge from Coeliac disease to Dermatitis herpetiformis,1
+C0007570,C0011991,Directed,C0007570_C0011991,Edge from Coeliac disease to Diarrhea,1
+C0086066,C0031350,Directed,C0086066_C0031350,Edge from Common cold to Pharyngitis,1
+C0086066,C0010200,Directed,C0086066_C0010200,Edge from Common cold to Cough,1
+C0086066,C0015967,Directed,C0086066_C0015967,Edge from Common cold to Fever,1
+C0009492,C0030232,Directed,C0009492_C0030232,Edge from Compartment syndrome to Pallor,1
+C0006107,C0877781,Directed,C0006107_C0877781,Edge from Concussion to Headache,1
+C1306589,C0151786,Directed,C1306589_C0151786,Edge from Congenital dyserythropoietic anemia to Muscle weakness,1
+C0221032,C0017547,Directed,C0221032_C0017547,Edge from Congenital generalized lipodystrophy to Gigantism,1
+C0221032,C0001206,Directed,C0221032_C0001206,Edge from Congenital generalized lipodystrophy to Acromegaly,1
+C0018798,C0010520,Directed,C0018798_C0010520,Edge from Congenital heart defect to Cyanosis,1
+C0031876,C0086525,Directed,C0031876_C0086525,Edge from Constrictive pericarditis to Fatigue,1
+C0009946,C0700200,Directed,C0009946_C0700200,Edge from Conversion disorder to Lightheadedness,1
+C0009946,C0151786,Directed,C0009946_C0151786,Edge from Conversion disorder to Muscle weakness,1
+C0009946,C0234544,Directed,C0009946_C0234544,Edge from Conversion disorder to Paralysis,1
+C0009946,C0751564,Directed,C0009946_C0751564,Edge from Conversion disorder to Tremor,1
+C0009946,C0011168,Directed,C0009946_C0011168,Edge from Conversion disorder to Dysphagia,1
+C3495874,C0235229,Directed,C3495874_C0235229,Edge from Seizure to Spasm,1
+C1956346,C0008031,Directed,C1956346_C0008031,Edge from Coronary artery disease to Chest pain,1
+C1956346,C0085619,Directed,C1956346_C0085619,Edge from Coronary artery disease to Shortness of breath,1
+C0949272,C0000737,Directed,C0949272_C0000737,Edge from Crohn's disease to Abdominal pain,1
+C0949272,C0011991,Directed,C0949272_C0011991,Edge from Crohn's disease to Diarrhea,1
+C0949272,C0015967,Directed,C0949272_C0015967,Edge from Crohn's disease to Fever,1
+C0949272,C0086525,Directed,C0949272_C0086525,Edge from Crohn's disease to Fatigue,1
+C2350036,C0015967,Directed,C2350036_C0015967,Edge from Croup to Fever,1
+C3888929,C0042963,Directed,C3888929_C0042963,Edge from Cryptococcosis to Vomiting,1
+C3888929,C0027497,Directed,C3888929_C0027497,Edge from Cryptococcosis to Nausea,1
+C3888929,C0008031,Directed,C3888929_C0008031,Edge from Cryptococcosis to Chest pain,1
+C3888929,C0025287,Directed,C3888929_C0025287,Edge from Cryptococcosis to Meningism,1
+C3888929,C0010200,Directed,C3888929_C0010200,Edge from Cryptococcosis to Cough,1
+C3888929,C0877781,Directed,C3888929_C0877781,Edge from Cryptococcosis to Headache,1
+C3888929,C0015967,Directed,C3888929_C0015967,Edge from Cryptococcosis to Fever,1
+C3888929,C0085636,Directed,C3888929_C0085636,Edge from Cryptococcosis to Photophobia,1
+C3888929,C0085619,Directed,C3888929_C0085619,Edge from Cryptococcosis to Shortness of breath,1
+C0010481,C0151786,Directed,C0010481_C0151786,Edge from Cushing's syndrome to Muscle weakness,1
+C0010481,C0001144,Directed,C0010481_C0001144,Edge from Cushing's syndrome to Acne,1
+C0010481,C0023787,Directed,C0010481_C0023787,Edge from Cushing's syndrome to Lipodystrophy,1
+C0010481,C0020538,Directed,C0010481_C0020538,Edge from Cushing's syndrome to Hypertension,1
+C0010631,C0042963,Directed,C0010631_C0042963,Edge from Cystadenocarcinoma to Vomiting,1
+C0010631,C0027497,Directed,C0010631_C0027497,Edge from Cystadenocarcinoma to Nausea,1
+C0010631,C0003962,Directed,C0010631_C0003962,Edge from Cystadenocarcinoma to Ascites,1
+C0010631,C0000737,Directed,C0010631_C0000737,Edge from Cystadenocarcinoma to Abdominal pain,1
+C0010631,C0003123,Directed,C0010631_C0003123,Edge from Cystadenocarcinoma to Anorexia (symptom),1
+C0010631,C0086525,Directed,C0010631_C0086525,Edge from Cystadenocarcinoma to Fatigue,1
+C1527396,C0038238,Directed,C1527396_C0038238,Edge from Cystic fibrosis to Steatorrhea,1
+C1527396,C0085619,Directed,C1527396_C0085619,Edge from Cystic fibrosis to Shortness of breath,1
+C1527396,C0015544,Directed,C1527396_C0015544,Edge from Cystic fibrosis to Failure to thrive,1
+C0010695,C0042024,Directed,C0010695_C0042024,Edge from Cystocele to Urinary incontinence,1
+C0042487,C0013604,Directed,C0042487_C0013604,Edge from Deep vein thrombosis to Edema,1
+C0154333,C0002622,Directed,C0154333_C0002622,Edge from Delirium to Amnesia,1
+C0154333,C0233407,Directed,C0154333_C0233407,Edge from Delirium to Confusion,1
+C0154333,C0011253,Directed,C0154333_C0011253,Edge from Delirium to Delusion,1
+C0154333,C3887612,Directed,C0154333_C3887612,Edge from Delirium to Psychomotor agitation,1
+C0154333,C0544668,Directed,C0154333_C0544668,Edge from Delirium to Hallucination,1
+C0001957,C0154333,Directed,C0001957_C0154333,Edge from Delirium tremens to Delirium,1
+C0001957,C0544668,Directed,C0001957_C0544668,Edge from Delirium tremens to Hallucination,1
+C0001957,C0751564,Directed,C0001957_C0751564,Edge from Delirium tremens to Tremor,1
+C0013595,C0015230,Directed,C0013595_C0015230,Edge from Dermatitis to Rash,1
+C0013595,C0041834,Directed,C0013595_C0041834,Edge from Dermatitis to Erythema,1
+C0013595,C0033774,Directed,C0013595_C0033774,Edge from Dermatitis to Itch,1
+C0263666,C0015230,Directed,C0263666_C0015230,Edge from Dermatomyositis to Rash,1
+C0263666,C0151786,Directed,C0263666_C0151786,Edge from Dermatomyositis to Muscle weakness,1
+C0011880,C0233407,Directed,C0011880_C0233407,Edge from Diabetic ketoacidosis to Confusion,1
+C0011880,C0042963,Directed,C0011880_C0042963,Edge from Diabetic ketoacidosis to Vomiting,1
+C0011880,C0000737,Directed,C0011880_C0000737,Edge from Diabetic ketoacidosis to Abdominal pain,1
+C0011880,C0032617,Directed,C0011880_C0032617,Edge from Diabetic ketoacidosis to Polyuria,1
+C4759705,C0001925,Directed,C4759705_C0001925,Edge from Diabetic nephropathy to Albuminuria,1
+C4759705,C0020538,Directed,C4759705_C0020538,Edge from Diabetic nephropathy to Hypertension,1
+C4759705,C0086525,Directed,C4759705_C0086525,Edge from Diabetic nephropathy to Fatigue,1
+C1449563,C0700200,Directed,C1449563_C0700200,Edge from Dilated cardiomyopathy to Lightheadedness,1
+C1449563,C0008031,Directed,C1449563_C0008031,Edge from Dilated cardiomyopathy to Chest pain,1
+C1449563,C0013604,Directed,C1449563_C0013604,Edge from Dilated cardiomyopathy to Edema,1
+C1449563,C0085619,Directed,C1449563_C0085619,Edge from Dilated cardiomyopathy to Shortness of breath,1
+C1301422,C0015967,Directed,C1301422_C0015967,Edge from Diphtheria to Fever,1
+C0012739,C0008031,Directed,C0012739_C0008031,Edge from Disseminated intravascular coagulation to Chest pain,1
+C0012739,C0019080,Directed,C0012739_C0019080,Edge from Disseminated intravascular coagulation to Bleeding,1
+C0012739,C0085619,Directed,C0012739_C0085619,Edge from Disseminated intravascular coagulation to Shortness of breath,1
+C0012813,C1257861,Directed,C0012813_C1257861,Edge from Diverticulitis to Constipation,1
+C0012813,C0027497,Directed,C0012813_C0027497,Edge from Diverticulitis to Nausea,1
+C0012813,C0000737,Directed,C0012813_C0000737,Edge from Diverticulitis to Abdominal pain,1
+C0012813,C0011991,Directed,C0012813_C0011991,Edge from Diverticulitis to Diarrhea,1
+C0012813,C0015967,Directed,C0012813_C0015967,Edge from Diverticulitis to Fever,1
+C0220870,C0155503,Directed,C0220870_C0155503,Edge from Dizziness to Vertigo,1
+C0220870,C0700200,Directed,C0220870_C0700200,Edge from Dizziness to Lightheadedness,1
+C0022350,C0242183,Directed,C0022350_C0242183,Edge from Dubin–Johnson syndrome to Jaundice,1
+C3542021,C0151786,Directed,C3542021_C0151786,Edge from Duchenne muscular dystrophy to Muscle weakness,1
+C0454596,C0454596,Directed,C0454596_C0454596,Edge from Dysarthria to Dysarthria,1
+C0393912,C0027769,Directed,C0393912_C0027769,Edge from Dysautonomia to Anxiety,1
+C0013369,C0000737,Directed,C0013369_C0000737,Edge from Dysentery to Abdominal pain,1
+C0013369,C0015967,Directed,C0013369_C0015967,Edge from Dysentery to Fever,1
+C0032633,C0005758,Directed,C0032633_C0005758,Edge from Dyshidrosis to Blister,1
+C0242339,C1563937,Directed,C0242339_C1563937,Edge from Dyslipidemia to Atherosclerosis,1
+C0013390,C0027497,Directed,C0013390_C0027497,Edge from Dysmenorrhea to Nausea,1
+C0013390,C0458257,Directed,C0013390_C0458257,Edge from Dysmenorrhea to Pain,1
+C0013390,C0011991,Directed,C0013390_C0011991,Edge from Dysmenorrhea to Diarrhea,1
+C4704929,C0086132,Directed,C4704929_C0086132,Edge from Dysthymia to Depression (mood),1
+C4704929,C3178803,Directed,C4704929_C3178803,Edge from Dysthymia to Anhedonia,1
+C4704929,C0458257,Directed,C4704929_C0458257,Edge from Dysthymia to Pain,1
+C0153065,C0231528,Directed,C0153065_C0231528,Edge from Eastern equine encephalitis to Myalgia,1
+C0153065,C0877781,Directed,C0153065_C0877781,Edge from Eastern equine encephalitis to Headache,1
+C0153065,C0085636,Directed,C0153065_C0085636,Edge from Eastern equine encephalitis to Photophobia,1
+C0013537,C3495874,Directed,C0013537_C3495874,Edge from Eclampsia to Seizure,1
+C0013537,C0020538,Directed,C0013537_C0020538,Edge from Eclampsia to Hypertension,1
+C0032987,C0000737,Directed,C0032987_C0000737,Edge from Ectopic pregnancy to Abdominal pain,1
+C0014008,C0431664,Directed,C0014008_C0431664,Edge from Empty sella syndrome to Cryptorchidism,1
+C0393484,C0233407,Directed,C0393484_C0233407,Edge from Encephalitis to Confusion,1
+C0393484,C0042963,Directed,C0393484_C0042963,Edge from Encephalitis to Vomiting,1
+C0393484,C0877781,Directed,C0393484_C0877781,Edge from Encephalitis to Headache,1
+C0393484,C0015967,Directed,C0393484_C0015967,Edge from Encephalitis to Fever,1
+C0018022,C0018021,Directed,C0018022_C0018021,Edge from Endemic goitre to Goitre,1
+C0476089,C0030794,Directed,C0476089_C0030794,Edge from Endometrial cancer to Pelvic pain,1
+C0476089,C0013428,Directed,C0476089_C0013428,Edge from Endometrial cancer to Dysuria,1
+C0014175,C0030794,Directed,C0014175_C0030794,Edge from Endometriosis to Pelvic pain,1
+C0014179,C0227791,Directed,C0014179_C0227791,Edge from Endometritis to Vaginal discharge,1
+C0014179,C0015967,Directed,C0014179_C0015967,Edge from Endometritis to Fever,1
+C0008728,C0003862,Directed,C0008728_C0003862,Edge from Eosinophilic granulomatosis with polyangiitis to Arthralgia,1
+C0008728,C0042109,Directed,C0008728_C0042109,Edge from Eosinophilic granulomatosis with polyangiitis to Hives,1
+C0008728,C0034150,Directed,C0008728_C0034150,Edge from Eosinophilic granulomatosis with polyangiitis to Purpura,1
+C0008728,C0231528,Directed,C0008728_C0231528,Edge from Eosinophilic granulomatosis with polyangiitis to Myalgia,1
+C0008728,C0015967,Directed,C0008728_C0015967,Edge from Eosinophilic granulomatosis with polyangiitis to Fever,1
+C0014527,C0005758,Directed,C0014527_C0005758,Edge from Epidermolysis bullosa to Blister,1
+C0014534,C0013428,Directed,C0014534_C0013428,Edge from Epididymitis to Dysuria,1
+C0238154,C0234544,Directed,C0238154_C0234544,Edge from Epidural hematoma to Paralysis,1
+C0238154,C0877781,Directed,C0238154_C0877781,Edge from Epidural hematoma to Headache,1
+C0014541,C0015967,Directed,C0014541_C0015967,Edge from Epiglottitis to Fever,1
+C0027547,C0085636,Directed,C0027547_C0085636,Edge from Scleritis to Photophobia,1
+C0546837,C0454545,Directed,C0546837_C0454545,Edge from Esophageal cancer to Hoarse voice,1
+C0546837,C0024228,Directed,C0546837_C0024228,Edge from Esophageal cancer to Lymphadenopathy,1
+C0546837,C0011168,Directed,C0546837_C0011168,Edge from Esophageal cancer to Dysphagia,1
+C0015652,C0027497,Directed,C0015652_C0027497,Edge from Fasciolosis to Nausea,1
+C0013928,C0085619,Directed,C0013928_C0085619,Edge from Fat embolism syndrome to Shortness of breath,1
+C0013928,C0034150,Directed,C0013928_C0034150,Edge from Fat embolism syndrome to Purpura,1
+C0206042,C0271186,Directed,C0206042_C0271186,Edge from Fatal insomnia to Diplopia,1
+C0751057,C0014549,Directed,C0751057_C0014549,Edge from Febrile seizure to Generalized tonic–clonic seizure,1
+C0015967,C0038990,Directed,C0015967_C0038990,Edge from Fever to Perspiration,1
+C0015967,C0085593,Directed,C0015967_C0085593,Edge from Fever to Chills,1
+C0015967,C0016382,Directed,C0015967_C0016382,Edge from Fever to Flushing (physiology),1
+C0085750,C0006144,Directed,C0085750_C0006144,Edge from Fibrocystic breast changes to Breast cyst,1
+C0751153,C0751508,Directed,C0751153_C0751508,Edge from Fibromyalgia to Sleep disorder,1
+C0016470,C0042109,Directed,C0016470_C0042109,Edge from Food allergy to Hives,1
+C0016470,C0033774,Directed,C0016470_C0033774,Edge from Food allergy to Itch,1
+C0751157,C0917816,Directed,C0751157_C0917816,Edge from Fragile X syndrome to Intellectual disability,1
+C0153452,C0027497,Directed,C0153452_C0027497,Edge from Gallbladder cancer to Nausea,1
+C0153452,C0242183,Directed,C0153452_C0242183,Edge from Gallbladder cancer to Jaundice,1
+C0153452,C0000737,Directed,C0153452_C0000737,Edge from Gallbladder cancer to Abdominal pain,1
+C0153452,C0015967,Directed,C0153452_C0015967,Edge from Gallbladder cancer to Fever,1
+C0267211,C0018932,Directed,C0267211_C0018932,Edge from Gastric antral vascular ectasia to Gastrointestinal bleeding,1
+C0267211,C0013604,Directed,C0267211_C0013604,Edge from Gastric antral vascular ectasia to Edema,1
+C0017152,C0042963,Directed,C0017152_C0042963,Edge from Gastritis to Vomiting,1
+C0017152,C0027497,Directed,C0017152_C0027497,Edge from Gastritis to Nausea,1
+C0017152,C0000737,Directed,C0017152_C0000737,Edge from Gastritis to Abdominal pain,1
+C0017152,C0003123,Directed,C0017152_C0003123,Edge from Gastritis to Anorexia (symptom),1
+C0017152,C0018834,Directed,C0017152_C0018834,Edge from Gastritis to Heartburn,1
+C0017160,C0042963,Directed,C0017160_C0042963,Edge from Gastroenteritis to Vomiting,1
+C0017160,C0011991,Directed,C0017160_C0011991,Edge from Gastroenteritis to Diarrhea,1
+C0017160,C0015967,Directed,C0017160_C0015967,Edge from Gastroenteritis to Fever,1
+C0017168,C0008031,Directed,C0017168_C0008031,Edge from Gastroesophageal reflux disease to Chest pain,1
+C0017168,C0018834,Directed,C0017168_C0018834,Edge from Gastroesophageal reflux disease to Heartburn,1
+C0017168,C0018520,Directed,C0017168_C0018520,Edge from Gastroesophageal reflux disease to Bad breath,1
+C0018932,C0086525,Directed,C0018932_C0086525,Edge from Gastrointestinal bleeding to Fatigue,1
+C0018932,C0018932,Directed,C0018932_C0018932,Edge from Gastrointestinal bleeding to Gastrointestinal bleeding,1
+C0152020,C0042963,Directed,C0152020_C0042963,Edge from Gastroparesis to Vomiting,1
+C0152020,C0027497,Directed,C0152020_C0027497,Edge from Gastroparesis to Nausea,1
+C0152020,C0000737,Directed,C0152020_C0000737,Edge from Gastroparesis to Abdominal pain,1
+C0343686,C0011253,Directed,C0343686_C0011253,Edge from General paresis of the insane to Delusion,1
+C0343686,C0497327,Directed,C0343686_C0497327,Edge from General paresis of the insane to Dementia,1
+C0343686,C3495874,Directed,C0343686_C3495874,Edge from General paresis of the insane to Seizure,1
+C0343686,C0006625,Directed,C0343686_C0006625,Edge from General paresis of the insane to Cachexia,1
+C0343686,C0027804,Directed,C0343686_C0027804,Edge from General paresis of the insane to Neurasthenia,1
+C0343686,C0751564,Directed,C0343686_C0751564,Edge from General paresis of the insane to Tremor,1
+C0343686,C0277850,Directed,C0343686_C0277850,Edge from General paresis of the insane to Hyperreflexia,1
+C0019343,C0005758,Directed,C0019343_C0005758,Edge from Gestational pemphigoid to Blister,1
+C0019343,C0042109,Directed,C0019343_C0042109,Edge from Gestational pemphigoid to Hives,1
+C0019343,C0033774,Directed,C0019343_C0033774,Edge from Gestational pemphigoid to Itch,1
+C1956391,C0271186,Directed,C1956391_C0271186,Edge from Giant cell arteritis to Diplopia,1
+C1956391,C0877781,Directed,C1956391_C0877781,Edge from Giant cell arteritis to Headache,1
+C0017536,C0000737,Directed,C0017536_C0000737,Edge from Giardiasis to Abdominal pain,1
+C0017536,C0011991,Directed,C0017536_C0011991,Edge from Giardiasis to Diarrhea,1
+C0017547,C0541798,Directed,C0017547_C0541798,Edge from Gigantism to Insomnia,1
+C0017601,C0027497,Directed,C0017601_C0027497,Edge from Glaucoma to Nausea,1
+C0334588,C0027497,Directed,C0334588_C0027497,Edge from Glioblastoma to Nausea,1
+C0334588,C0751956,Directed,C0334588_C0751956,Edge from Glioblastoma to Stroke,1
+C0334588,C0877781,Directed,C0334588_C0877781,Edge from Glioblastoma to Headache,1
+C2939465,C0242183,Directed,C2939465_C0242183,Edge from Glucose-6-phosphate dehydrogenase deficiency to Jaundice,1
+C2939465,C0085619,Directed,C2939465_C0085619,Edge from Glucose-6-phosphate dehydrogenase deficiency to Shortness of breath,1
+C0017922,C0026825,Directed,C0017922_C0026825,Edge from Glycogen storage disease type III to Hypotonia,1
+C0018081,C0227791,Directed,C0018081_C0227791,Edge from Gonorrhea to Vaginal discharge,1
+C0018081,C0030794,Directed,C0018081_C0030794,Edge from Gonorrhea to Pelvic pain,1
+C0018081,C0013428,Directed,C0018081_C0013428,Edge from Gonorrhea to Dysuria,1
+C0018099,C0003862,Directed,C0018099_C0003862,Edge from Gout to Arthralgia,1
+C0018099,C0041834,Directed,C0018099_C0041834,Edge from Gout to Erythema,1
+C0018213,C0080203,Directed,C0018213_C0080203,Edge from Graves' disease to Tachycardia,1
+C0018213,C0027769,Directed,C0018213_C0027769,Edge from Graves' disease to Anxiety,1
+C0018213,C0038990,Directed,C0018213_C0038990,Edge from Graves' disease to Perspiration,1
+C0018213,C0541798,Directed,C0018213_C0541798,Edge from Graves' disease to Insomnia,1
+C0018213,C1563709,Directed,C0018213_C1563709,Edge from Graves' disease to Graves' ophthalmopathy,1
+C0018213,C0242350,Directed,C0018213_C0242350,Edge from Graves' disease to Erectile dysfunction,1
+C0018213,C0018021,Directed,C0018213_C0018021,Edge from Graves' disease to Goitre,1
+C0162739,C0027497,Directed,C0162739_C0027497,Edge from HELLP syndrome to Nausea,1
+C0162739,C3495874,Directed,C0162739_C3495874,Edge from HELLP syndrome to Seizure,1
+C0162739,C0000737,Directed,C0162739_C0000737,Edge from HELLP syndrome to Abdominal pain,1
+C0162739,C0877781,Directed,C0162739_C0877781,Edge from HELLP syndrome to Headache,1
+C0001175,C0024228,Directed,C0001175_C0024228,Edge from HIV/AIDS to Lymphadenopathy,1
+C0001175,C0015967,Directed,C0001175_C0015967,Edge from HIV/AIDS to Fever,1
+C0852077,C0019080,Directed,C0852077_C0019080,Edge from Haemophilia to Bleeding,1
+C0677607,C1257861,Directed,C0677607_C1257861,Edge from Hashimoto's thyroiditis to Constipation,1
+C0677607,C0002170,Directed,C0677607_C0002170,Edge from Hashimoto's thyroiditis to Hair loss,1
+C0677607,C0525045,Directed,C0677607_C0525045,Edge from Hashimoto's thyroiditis to Mood disorder,1
+C0677607,C0086525,Directed,C0677607_C0086525,Edge from Hashimoto's thyroiditis to Fatigue,1
+C0677607,C0018021,Directed,C0677607_C0018021,Edge from Hashimoto's thyroiditis to Goitre,1
+C0018801,C0013604,Directed,C0018801_C0013604,Edge from Heart failure to Edema,1
+C0018801,C0085619,Directed,C0018801_C0085619,Edge from Heart failure to Shortness of breath,1
+C0018801,C0086525,Directed,C0018801_C0086525,Edge from Heart failure to Fatigue,1
+C0018834,C0027497,Directed,C0018834_C0027497,Edge from Heartburn to Nausea,1
+C0079487,C0027497,Directed,C0079487_C0027497,Edge from Helicobacter pylori to Nausea,1
+C0079487,C0000737,Directed,C0079487_C0000737,Edge from Helicobacter pylori to Abdominal pain,1
+C0019061,C0042963,Directed,C0019061_C0042963,Edge from Hemolytic–uremic syndrome to Vomiting,1
+C0019061,C0002871,Directed,C0019061_C0002871,Edge from Hemolytic–uremic syndrome to Anemia,1
+C0019061,C0015967,Directed,C0019061_C0015967,Edge from Hemolytic–uremic syndrome to Fever,1
+C0019112,C0018932,Directed,C0019112_C0018932,Edge from Hemorrhoid to Gastrointestinal bleeding,1
+C0019156,C0003962,Directed,C0019156_C0003962,Edge from Hepatic veno-occlusive disease to Ascites,1
+C0019156,C0242183,Directed,C0019156_C0242183,Edge from Hepatic veno-occlusive disease to Jaundice,1
+C0019158,C0242183,Directed,C0019158_C0242183,Edge from Hepatitis to Jaundice,1
+C0019158,C0000737,Directed,C0019158_C0000737,Edge from Hepatitis to Abdominal pain,1
+C0019158,C0003123,Directed,C0019158_C0003123,Edge from Hepatitis to Anorexia (symptom),1
+C0019159,C0027497,Directed,C0019159_C0027497,Edge from Hepatitis A to Nausea,1
+C0019159,C0242183,Directed,C0019159_C0242183,Edge from Hepatitis A to Jaundice,1
+C0019159,C0011991,Directed,C0019159_C0011991,Edge from Hepatitis A to Diarrhea,1
+C0019159,C0015967,Directed,C0019159_C0015967,Edge from Hepatitis A to Fever,1
+C0019163,C0242183,Directed,C0019163_C0242183,Edge from Hepatitis B to Jaundice,1
+C0019163,C0000737,Directed,C0019163_C0000737,Edge from Hepatitis B to Abdominal pain,1
+C0019163,C0086525,Directed,C0019163_C0086525,Edge from Hepatitis B to Fatigue,1
+C1956384,C0042963,Directed,C1956384_C0042963,Edge from Hepatitis D to Vomiting,1
+C0085293,C0027497,Directed,C0085293_C0027497,Edge from Hepatitis E to Nausea,1
+C0085293,C0242183,Directed,C0085293_C0242183,Edge from Hepatitis E to Jaundice,1
+C0019243,C0002994,Directed,C0019243_C0002994,Edge from Hereditary angioedema to Angioedema,1
+C0039445,C0018932,Directed,C0039445_C0018932,Edge from Hereditary hemorrhagic telangiectasia to Gastrointestinal bleeding,1
+C0019345,C0005758,Directed,C0019345_C0005758,Edge from Herpes labialis to Blister,1
+C0019345,C0037299,Directed,C0019345_C0037299,Edge from Herpes labialis to Ulcer (dermatology),1
+C3489393,C0018834,Directed,C3489393_C0018834,Edge from Hiatal hernia to Heartburn,1
+C3489393,C0011168,Directed,C3489393_C0011168,Edge from Hiatal hernia to Dysphagia,1
+C0085758,C1257861,Directed,C0085758_C1257861,Edge from Hirschsprung's disease to Constipation,1
+C0085758,C0042963,Directed,C0085758_C0042963,Edge from Hirschsprung's disease to Vomiting,1
+C0085758,C0000737,Directed,C0085758_C0000737,Edge from Hirschsprung's disease to Abdominal pain,1
+C0085758,C0011991,Directed,C0085758_C0011991,Edge from Hirschsprung's disease to Diarrhea,1
+C0085758,C0015544,Directed,C0085758_C0015544,Edge from Hirschsprung's disease to Failure to thrive,1
+C1334968,C0024228,Directed,C1334968_C0024228,Edge from Hodgkin lymphoma to Lymphadenopathy,1
+C1334968,C0015967,Directed,C1334968_C0015967,Edge from Hodgkin lymphoma to Fever,1
+C0026141,C0233407,Directed,C0026141_C0233407,Edge from Hypercalcaemia to Confusion,1
+C0026141,C0086132,Directed,C0026141_C0086132,Edge from Hypercalcaemia to Depression (mood),1
+C0026141,C0151786,Directed,C0026141_C0151786,Edge from Hypercalcaemia to Muscle weakness,1
+C0026141,C0000737,Directed,C0026141_C0000737,Edge from Hypercalcaemia to Abdominal pain,1
+C0020461,C0151786,Directed,C0020461_C0151786,Edge from Hyperkalemia to Muscle weakness,1
+C0020461,C0231528,Directed,C0020461_C0231528,Edge from Hyperkalemia to Myalgia,1
+C0020461,C0392699,Directed,C0020461_C0392699,Edge from Hyperkalemia to Paresthesia,1
+C0020502,C0451641,Directed,C0020502_C0451641,Edge from Hyperparathyroidism to Kidney stone disease,1
+C0020502,C1571984,Directed,C0020502_C1571984,Edge from Hyperparathyroidism to Major depressive disorder,1
+C0751221,C0019572,Directed,C0751221_C0019572,Edge from Hyperpituitarism to Hirsutism,1
+C0002390,C0085593,Directed,C0002390_C0085593,Edge from Hypersensitivity pneumonitis to Chills,1
+C0002390,C0010200,Directed,C0002390_C0010200,Edge from Hypersensitivity pneumonitis to Cough,1
+C0002390,C0015967,Directed,C0002390_C0015967,Edge from Hypersensitivity pneumonitis to Fever,1
+C0002390,C0085619,Directed,C0002390_C0085619,Edge from Hypersensitivity pneumonitis to Shortness of breath,1
+C0002390,C0086525,Directed,C0002390_C0086525,Edge from Hypersensitivity pneumonitis to Fatigue,1
+C5232927,C0154333,Directed,C5232927_C0154333,Edge from Hyperthermia to Delirium,1
+C3714618,C0080203,Directed,C3714618_C0080203,Edge from Hyperthyroidism to Tachycardia,1
+C3714618,C0011991,Directed,C3714618_C0011991,Edge from Hyperthyroidism to Diarrhea,1
+C3714618,C0018021,Directed,C3714618_C0018021,Edge from Hyperthyroidism to Goitre,1
+C0007194,C0700200,Directed,C0007194_C0700200,Edge from Hypertrophic cardiomyopathy to Lightheadedness,1
+C0007194,C0008031,Directed,C0007194_C0008031,Edge from Hypertrophic cardiomyopathy to Chest pain,1
+C0007194,C0013604,Directed,C0007194_C0013604,Edge from Hypertrophic cardiomyopathy to Edema,1
+C0007194,C0085619,Directed,C0007194_C0085619,Edge from Hypertrophic cardiomyopathy to Shortness of breath,1
+C0239981,C0003962,Directed,C0239981_C0003962,Edge from Hypoalbuminemia to Ascites,1
+C0239981,C0013604,Directed,C0239981_C0013604,Edge from Hypoalbuminemia to Edema,1
+C0239981,C0086525,Directed,C0239981_C0086525,Edge from Hypoalbuminemia to Fatigue,1
+C0271708,C0233407,Directed,C0271708_C0233407,Edge from Hypoglycemia to Confusion,1
+C0271708,C0027497,Directed,C0271708_C0027497,Edge from Hypoglycemia to Nausea,1
+C0271708,C0027769,Directed,C0271708_C0027769,Edge from Hypoglycemia to Anxiety,1
+C0271708,C3495874,Directed,C0271708_C3495874,Edge from Hypoglycemia to Seizure,1
+C0271708,C0877781,Directed,C0271708_C0877781,Edge from Hypoglycemia to Headache,1
+C0271708,C0700200,Directed,C0271708_C0700200,Edge from Hypoglycemia to Lightheadedness,1
+C0020625,C0233407,Directed,C0020625_C0233407,Edge from Hyponatremia to Confusion,1
+C0020625,C0027497,Directed,C0020625_C0027497,Edge from Hyponatremia to Nausea,1
+C0020625,C3495874,Directed,C0020625_C3495874,Edge from Hyponatremia to Seizure,1
+C0020625,C0860634,Directed,C0020625_C0860634,Edge from Hyponatremia to Coma,1
+C0020625,C0877781,Directed,C0020625_C0877781,Edge from Hyponatremia to Headache,1
+C0020649,C0220870,Directed,C0020649_C0220870,Edge from Hypotension to Dizziness,1
+C0020649,C0002962,Directed,C0020649_C0002962,Edge from Hypotension to Angina,1
+C0020649,C0003811,Directed,C0020649_C0003811,Edge from Hypotension to Arrhythmia,1
+C0020649,C3495874,Directed,C0020649_C3495874,Edge from Hypotension to Seizure,1
+C0020649,C0015967,Directed,C0020649_C0015967,Edge from Hypotension to Fever,1
+C0020649,C0700200,Directed,C0020649_C0700200,Edge from Hypotension to Lightheadedness,1
+C0020649,C0086525,Directed,C0020649_C0086525,Edge from Hypotension to Fatigue,1
+C0274285,C0233407,Directed,C0274285_C0233407,Edge from Hypothermia to Confusion,1
+C0274285,C0018790,Directed,C0274285_C0018790,Edge from Hypothermia to Cardiac arrest,1
+C3665349,C1257861,Directed,C3665349_C1257861,Edge from Hypothyroidism to Constipation,1
+C3665349,C0086132,Directed,C3665349_C0086132,Edge from Hypothyroidism to Depression (mood),1
+C3665349,C0027769,Directed,C3665349_C0027769,Edge from Hypothyroidism to Anxiety,1
+C0026825,C0151786,Directed,C0026825_C0151786,Edge from Hypotonia to Muscle weakness,1
+C0546884,C0086525,Directed,C0546884_C0086525,Edge from Hypovolemia to Fatigue,1
+C0242184,C0010520,Directed,C0242184_C0010520,Edge from Hypoxia (medical) to Cyanosis,1
+C0242184,C0392699,Directed,C0242184_C0392699,Edge from Hypoxia (medical) to Paresthesia,1
+C0033845,C0877781,Directed,C0033845_C0877781,Edge from Idiopathic intracranial hypertension to Headache,1
+C0033845,C0751557,Directed,C0033845_C0751557,Edge from Idiopathic intracranial hypertension to Tinnitus,1
+C0034069,C0085619,Directed,C0034069_C0085619,Edge from Idiopathic pulmonary fibrosis to Shortness of breath,1
+C0021345,C0024228,Directed,C0021345_C0024228,Edge from Infectious mononucleosis to Lymphadenopathy,1
+C0021345,C0015967,Directed,C0021345_C0015967,Edge from Infectious mononucleosis to Fever,1
+C0021345,C0031350,Directed,C0021345_C0031350,Edge from Infectious mononucleosis to Pharyngitis,1
+C0021345,C0086525,Directed,C0021345_C0086525,Edge from Infectious mononucleosis to Fatigue,1
+C0021400,C0031350,Directed,C0021400_C0031350,Edge from Influenza to Pharyngitis,1
+C0021400,C0231528,Directed,C0021400_C0231528,Edge from Influenza to Myalgia,1
+C0021400,C0010200,Directed,C0021400_C0010200,Edge from Influenza to Cough,1
+C0021400,C0877781,Directed,C0021400_C0877781,Edge from Influenza to Headache,1
+C0021400,C0015967,Directed,C0021400_C0015967,Edge from Influenza to Fever,1
+C0021400,C0086525,Directed,C0021400_C0086525,Edge from Influenza to Fatigue,1
+C0021564,C0458257,Directed,C0021564_C0458257,Edge from Insect bites and stings to Pain,1
+C0541798,C0086132,Directed,C0541798_C0086132,Edge from Insomnia to Depression (mood),1
+C0541798,C0917799,Directed,C0541798_C0917799,Edge from Insomnia to Excessive daytime sleepiness,1
+C0282488,C3178789,Directed,C0282488_C3178789,Edge from Interstitial cystitis to Chronic pain,1
+C0009377,C0042963,Directed,C0009377_C0042963,Edge from Intestinal pseudo-obstruction to Vomiting,1
+C0009377,C0027497,Directed,C0009377_C0027497,Edge from Intestinal pseudo-obstruction to Nausea,1
+C0009377,C0000737,Directed,C0009377_C0000737,Edge from Intestinal pseudo-obstruction to Abdominal pain,1
+C0009377,C0011168,Directed,C0009377_C0011168,Edge from Intestinal pseudo-obstruction to Dysphagia,1
+C2937358,C3495874,Directed,C2937358_C3495874,Edge from Intracerebral hemorrhage to Seizure,1
+C2937358,C0877781,Directed,C2937358_C0877781,Edge from Intracerebral hemorrhage to Headache,1
+C2937358,C0015967,Directed,C2937358_C0015967,Edge from Intracerebral hemorrhage to Fever,1
+C2937358,C0392550,Directed,C2937358_C0392550,Edge from Intracerebral hemorrhage to Hemiparesis,1
+C0917996,C0233407,Directed,C0917996_C0233407,Edge from Intracranial aneurysm to Confusion,1
+C0917996,C0042963,Directed,C0917996_C0042963,Edge from Intracranial aneurysm to Vomiting,1
+C0917996,C0027497,Directed,C0917996_C0027497,Edge from Intracranial aneurysm to Nausea,1
+C0917996,C0877781,Directed,C0917996_C0877781,Edge from Intracranial aneurysm to Headache,1
+C0021933,C0042963,Directed,C0021933_C0042963,Edge from Intussusception (medical disorder) to Vomiting,1
+C0021933,C0000737,Directed,C0021933_C0000737,Edge from Intussusception (medical disorder) to Abdominal pain,1
+C0162316,C0700200,Directed,C0162316_C0700200,Edge from Iron-deficiency anemia to Lightheadedness,1
+C0162316,C0085619,Directed,C0162316_C0085619,Edge from Iron-deficiency anemia to Shortness of breath,1
+C0162316,C0030232,Directed,C0162316_C0030232,Edge from Iron-deficiency anemia to Pallor,1
+C0162316,C0086525,Directed,C0162316_C0086525,Edge from Iron-deficiency anemia to Fatigue,1
+C0022104,C1257861,Directed,C0022104_C1257861,Edge from Irritable bowel syndrome to Constipation,1
+C0022104,C0011991,Directed,C0022104_C0011991,Edge from Irritable bowel syndrome to Diarrhea,1
+C0014057,C3495874,Directed,C0014057_C3495874,Edge from Japanese encephalitis to Seizure,1
+C0022387,C0700200,Directed,C0022387_C0700200,Edge from Jervell and Lange-Nielsen syndrome to Lightheadedness,1
+C0022387,C3495874,Directed,C0022387_C3495874,Edge from Jervell and Lange-Nielsen syndrome to Seizure,1
+C0022387,C0018784,Directed,C0022387_C0018784,Edge from Jervell and Lange-Nielsen syndrome to Sensorineural hearing loss,1
+C0796004,C0026825,Directed,C0796004_C0026825,Edge from Kabuki syndrome to Hypotonia,1
+C1563720,C0553757,Directed,C1563720_C0553757,Edge from Kallmann syndrome to Anosmia,1
+C1563720,C4074771,Directed,C1563720_C4074771,Edge from Kallmann syndrome to Infertility,1
+C0026691,C0031350,Directed,C0026691_C0031350,Edge from Kawasaki disease to Pharyngitis,1
+C0026691,C0015230,Directed,C0026691_C0015230,Edge from Kawasaki disease to Rash,1
+C0026691,C0024228,Directed,C0026691_C0024228,Edge from Kawasaki disease to Lymphadenopathy,1
+C0026691,C0011991,Directed,C0026691_C0011991,Edge from Kawasaki disease to Diarrhea,1
+C0022578,C0027092,Directed,C0022578_C0027092,Edge from Keratoconus to Myopia,1
+C0022665,C0750949,Directed,C0022665_C0750949,Edge from Kidney cancer to Back pain,1
+C0022665,C0018965,Directed,C0022665_C0018965,Edge from Kidney cancer to Hematuria,1
+C0543754,C0017547,Directed,C0543754_C0017547,Edge from Klinefelter syndrome to Gigantism,1
+C0543754,C0151786,Directed,C0543754_C0151786,Edge from Klinefelter syndrome to Muscle weakness,1
+C0543754,C4074771,Directed,C0543754_C4074771,Edge from Klinefelter syndrome to Infertility,1
+C0022738,C0018798,Directed,C0022738_C0018798,Edge from Klippel–Feil syndrome to Congenital heart defect,1
+C0271568,C0013336,Directed,C0271568_C0013336,Edge from Laron syndrome to Dwarfism,1
+C0023067,C0454545,Directed,C0023067_C0454545,Edge from Laryngitis to Hoarse voice,1
+C0023067,C0015967,Directed,C0023067_C0015967,Edge from Laryngitis to Fever,1
+C0023092,C0877781,Directed,C0023092_C0877781,Edge from Lassa fever to Headache,1
+C0023092,C0015967,Directed,C0023092_C0015967,Edge from Lassa fever to Fever,1
+C0023092,C0019080,Directed,C0023092_C0019080,Edge from Lassa fever to Bleeding,1
+C0023176,C1257861,Directed,C0023176_C1257861,Edge from Lead poisoning to Constipation,1
+C0023176,C0000737,Directed,C0023176_C0000737,Edge from Lead poisoning to Abdominal pain,1
+C0023176,C4074771,Directed,C0023176_C4074771,Edge from Lead poisoning to Infertility,1
+C0023176,C0917816,Directed,C0023176_C0917816,Edge from Lead poisoning to Intellectual disability,1
+C0023176,C0392699,Directed,C0023176_C0392699,Edge from Lead poisoning to Paresthesia,1
+C0023240,C0231528,Directed,C0023240_C0231528,Edge from Legionnaires' disease to Myalgia,1
+C0023240,C0015967,Directed,C0023240_C0015967,Edge from Legionnaires' disease to Fever,1
+C0023240,C0085619,Directed,C0023240_C0085619,Edge from Legionnaires' disease to Shortness of breath,1
+C1969623,C0221263,Directed,C1969623_C0221263,Edge from Legius syndrome to Café au lait spot,1
+C0023281,C0002871,Directed,C0023281_C0002871,Edge from Leishmaniasis to Anemia,1
+C0023281,C0037299,Directed,C0023281_C0037299,Edge from Leishmaniasis to Ulcer (dermatology),1
+C0023281,C0015967,Directed,C0023281_C0015967,Edge from Leishmaniasis to Fever,1
+C0343525,C0031350,Directed,C0343525_C0031350,Edge from Lemierre's syndrome to Pharyngitis,1
+C0343525,C0042963,Directed,C0343525_C0042963,Edge from Lemierre's syndrome to Vomiting,1
+C0343525,C0025289,Directed,C0343525_C0025289,Edge from Lemierre's syndrome to Meningitis,1
+C0343525,C0036690,Directed,C0343525_C0036690,Edge from Lemierre's syndrome to Sepsis,1
+C0343525,C0231528,Directed,C0343525_C0231528,Edge from Lemierre's syndrome to Myalgia,1
+C0343525,C0015967,Directed,C0343525_C0015967,Edge from Lemierre's syndrome to Fever,1
+C0343525,C0086525,Directed,C0343525_C0086525,Edge from Lemierre's syndrome to Fatigue,1
+C0023374,C0393584,Directed,C0023374_C0393584,Edge from Lesch–Nyhan syndrome to Chorea,1
+C0023374,C0740394,Directed,C0023374_C0740394,Edge from Lesch–Nyhan syndrome to Hyperuricemia,1
+C0023374,C0085271,Directed,C0023374_C0085271,Edge from Lesch–Nyhan syndrome to Self-harm,1
+C0023374,C0917816,Directed,C0023374_C0917816,Edge from Lesch–Nyhan syndrome to Intellectual disability,1
+C0023374,C0013421,Directed,C0023374_C0013421,Edge from Lesch–Nyhan syndrome to Dystonia,1
+C0023374,C0026838,Directed,C0023374_C0026838,Edge from Lesch–Nyhan syndrome to Spasticity,1
+C0023418,C0009938,Directed,C0023418_C0009938,Edge from Leukemia to Bruise,1
+C0023418,C0015967,Directed,C0023418_C0015967,Edge from Leukemia to Fever,1
+C0023418,C0086525,Directed,C0023418_C0086525,Edge from Leukemia to Fatigue,1
+C0700200,C0155503,Directed,C0700200_C0155503,Edge from Lightheadedness to Vertigo,1
+C3852998,C0009938,Directed,C3852998_C0009938,Edge from Lipedema to Bruise,1
+C0023860,C0877781,Directed,C0023860_C0877781,Edge from Listeriosis to Headache,1
+C0023860,C0011991,Directed,C0023860_C0011991,Edge from Listeriosis to Diarrhea,1
+C0023860,C0015967,Directed,C0023860_C0015967,Edge from Listeriosis to Fever,1
+C0345904,C0003962,Directed,C0345904_C0003962,Edge from Liver cancer to Ascites,1
+C0345904,C0242183,Directed,C0345904_C0242183,Edge from Liver cancer to Jaundice,1
+C0085605,C0042963,Directed,C0085605_C0042963,Edge from Liver failure to Vomiting,1
+C0085605,C0027497,Directed,C0085605_C0027497,Edge from Liver failure to Nausea,1
+C0085605,C0002064,Directed,C0085605_C0002064,Edge from Liver failure to Respiratory alkalosis,1
+C0085605,C0162557,Directed,C0085605_C0162557,Edge from Liver failure to Acute liver failure,1
+C0085605,C0001122,Directed,C0085605_C0001122,Edge from Liver failure to Metabolic acidosis,1
+C0085605,C1855520,Directed,C0085605_C1855520,Edge from Liver failure to Hyperglycemia,1
+C0085605,C0023890,Directed,C0085605_C0023890,Edge from Liver failure to Cirrhosis,1
+C0085605,C0242183,Directed,C0085605_C0242183,Edge from Liver failure to Jaundice,1
+C0085605,C0033774,Directed,C0085605_C0033774,Edge from Liver failure to Itch,1
+C0085605,C0013604,Directed,C0085605_C0013604,Edge from Liver failure to Edema,1
+C0085605,C0020625,Directed,C0085605_C0020625,Edge from Liver failure to Hyponatremia,1
+C0085605,C0017979,Directed,C0085605_C0017979,Edge from Liver failure to Glycosuria,1
+C0151878,C0700200,Directed,C0151878_C0700200,Edge from Long QT syndrome to Lightheadedness,1
+C0151878,C1384666,Directed,C0151878_C1384666,Edge from Long QT syndrome to Hearing loss,1
+C0151878,C3495874,Directed,C0151878_C3495874,Edge from Long QT syndrome to Seizure,1
+C0007121,C0008031,Directed,C0007121_C0008031,Edge from Lung cancer to Chest pain,1
+C0007121,C0010200,Directed,C0007121_C0010200,Edge from Lung cancer to Cough,1
+C0007121,C0085619,Directed,C0007121_C0085619,Edge from Lung cancer to Shortness of breath,1
+C0024141,C0003864,Directed,C0024141_C0003864,Edge from Lupus to Arthritis,1
+C0024141,C0002170,Directed,C0024141_C0002170,Edge from Lupus to Hair loss,1
+C0024141,C0015230,Directed,C0024141_C0015230,Edge from Lupus to Rash,1
+C0024141,C0008031,Directed,C0024141_C0008031,Edge from Lupus to Chest pain,1
+C0024141,C0024228,Directed,C0024141_C0024228,Edge from Lupus to Lymphadenopathy,1
+C0024141,C0149745,Directed,C0024141_C0149745,Edge from Lupus to Mouth ulcer,1
+C0024141,C0015967,Directed,C0024141_C0015967,Edge from Lupus to Fever,1
+C0024141,C0086525,Directed,C0024141_C0086525,Edge from Lupus to Fatigue,1
+C0024143,C0003862,Directed,C0024143_C0003862,Edge from Lupus nephritis to Arthralgia,1
+C0024228,C0031350,Directed,C0024228_C0031350,Edge from Lymphadenopathy to Pharyngitis,1
+C0024228,C0015967,Directed,C0024228_C0015967,Edge from Lymphadenopathy to Fever,1
+C0024228,C0024299,Directed,C0024228_C0024299,Edge from Lymphadenopathy to Lymphoma,1
+C0024299,C0038990,Directed,C0024299_C0038990,Edge from Lymphoma to Perspiration,1
+C0024299,C0033774,Directed,C0024299_C0033774,Edge from Lymphoma to Itch,1
+C0024299,C0024228,Directed,C0024299_C0024228,Edge from Lymphoma to Lymphadenopathy,1
+C0024299,C0015967,Directed,C0024299_C0015967,Edge from Lymphoma to Fever,1
+C0024299,C0086525,Directed,C0024299_C0086525,Edge from Lymphoma to Fatigue,1
+C0024591,C0080203,Directed,C0024591_C0080203,Edge from Malignant hyperthermia to Tachycardia,1
+C0024591,C5232927,Directed,C0024591_C5232927,Edge from Malignant hyperthermia to Hyperthermia,1
+C0162429,C0003962,Directed,C0162429_C0003962,Edge from Malnutrition to Ascites,1
+C0162429,C0013604,Directed,C0162429_C0013604,Edge from Malnutrition to Edema,1
+C0024692,C0242385,Directed,C0024692_C0242385,Edge from Mandibular fracture to Malocclusion,1
+C0026709,C1306503,Directed,C0026709_C1306503,Edge from Maroteaux–Lamy syndrome to Umbilical hernia,1
+C0026709,C0221355,Directed,C0026709_C0221355,Edge from Maroteaux–Lamy syndrome to Macrocephaly,1
+C0024894,C0015967,Directed,C0024894_C0015967,Edge from Mastitis to Fever,1
+C0025007,C0009763,Directed,C0025007_C0009763,Edge from Measles to Conjunctivitis,1
+C0025007,C0015230,Directed,C0025007_C0015230,Edge from Measles to Rash,1
+C0025007,C0035455,Directed,C0025007_C0035455,Edge from Measles to Rhinitis,1
+C0025007,C0010200,Directed,C0025007_C0010200,Edge from Measles to Cough,1
+C0025007,C0015967,Directed,C0025007_C0015967,Edge from Measles to Fever,1
+C0339277,C0085636,Directed,C0339277_C0085636,Edge from Meesmann corneal dystrophy to Photophobia,1
+C0339277,C0005747,Directed,C0339277_C0005747,Edge from Meesmann corneal dystrophy to Blepharospasm,1
+C0025202,C0037299,Directed,C0025202_C0037299,Edge from Melanoma to Ulcer (dermatology),1
+C0025202,C0027960,Directed,C0025202_C0027960,Edge from Melanoma to Nevus,1
+C0281784,C0497327,Directed,C0281784_C0497327,Edge from Meningioma to Dementia,1
+C0281784,C3495874,Directed,C0281784_C3495874,Edge from Meningioma to Seizure,1
+C0025289,C0877781,Directed,C0025289_C0877781,Edge from Meningitis to Headache,1
+C0025289,C0015967,Directed,C0025289_C0015967,Edge from Meningitis to Fever,1
+C0376338,C0086132,Directed,C0376338_C0086132,Edge from Mental disorder to Depression (mood),1
+C0376338,C3887612,Directed,C0376338_C3887612,Edge from Mental disorder to Psychomotor agitation,1
+C0376338,C0027769,Directed,C0376338_C0027769,Edge from Mental disorder to Anxiety,1
+C0376338,C0005586,Directed,C0376338_C0005586,Edge from Mental disorder to Bipolar disorder,1
+C0376338,C1456784,Directed,C0376338_C1456784,Edge from Mental disorder to Paranoia,1
+C0025500,C0085619,Directed,C0025500_C0085619,Edge from Mesothelioma to Shortness of breath,1
+C0025637,C0010520,Directed,C0025637_C0010520,Edge from Methemoglobinemia to Cyanosis,1
+C0270858,C0027497,Directed,C0270858_C0027497,Edge from Migraine to Nausea,1
+C0270858,C0877781,Directed,C0270858_C0877781,Edge from Migraine to Headache,1
+C0270858,C0085636,Directed,C0270858_C0085636,Edge from Migraine to Photophobia,1
+C0270858,C0034880,Directed,C0270858_C0034880,Edge from Migraine to Hyperacusis,1
+C0026269,C0019079,Directed,C0026269_C0019079,Edge from Mitral stenosis to Hemoptysis,1
+C0026269,C0013604,Directed,C0026269_C0013604,Edge from Mitral stenosis to Edema,1
+C0026267,C0030590,Directed,C0026267_C0030590,Edge from Mitral valve prolapse to Ventricular tachycardia,1
+C0026267,C0700200,Directed,C0026267_C0700200,Edge from Mitral valve prolapse to Lightheadedness,1
+C0026267,C0393912,Directed,C0026267_C0393912,Edge from Mitral valve prolapse to Dysautonomia,1
+C0026267,C0020649,Directed,C0026267_C0020649,Edge from Mitral valve prolapse to Hypotension,1
+C0026267,C0085619,Directed,C0026267_C0085619,Edge from Mitral valve prolapse to Shortness of breath,1
+C0026603,C0042963,Directed,C0026603_C0042963,Edge from Motion sickness to Vomiting,1
+C0026603,C0027497,Directed,C0026603_C0027497,Edge from Motion sickness to Nausea,1
+C0026635,C0037384,Directed,C0026635_C0037384,Edge from Mouth breathing to Snoring,1
+C0026718,C0271186,Directed,C0026718_C0271186,Edge from Mucormycosis to Diplopia,1
+C0026718,C0877781,Directed,C0026718_C0877781,Edge from Mucormycosis to Headache,1
+C0026718,C0015967,Directed,C0026718_C0015967,Edge from Mucormycosis to Fever,1
+C0025205,C1257861,Directed,C0025205_C1257861,Edge from Mucosal melanoma to Constipation,1
+C0025205,C0553757,Directed,C0025205_C0553757,Edge from Mucosal melanoma to Anosmia,1
+C0025205,C0086789,Directed,C0025205_C0086789,Edge from Mucosal melanoma to Aphthous stomatitis,1
+C0025205,C0033774,Directed,C0025205_C0033774,Edge from Mucosal melanoma to Itch,1
+C0025205,C0011991,Directed,C0025205_C0011991,Edge from Mucosal melanoma to Diarrhea,1
+C0025205,C0019080,Directed,C0025205_C0019080,Edge from Mucosal melanoma to Bleeding,1
+C0025205,C0031051,Directed,C0025205_C0031051,Edge from Mucosal melanoma to Periodontal disease,1
+C0025205,C0406486,Directed,C0025205_C0406486,Edge from Mucosal melanoma to Rosacea,1
+C0025205,C0086525,Directed,C0025205_C0086525,Edge from Mucosal melanoma to Fatigue,1
+C0025205,C0018965,Directed,C0025205_C0018965,Edge from Mucosal melanoma to Hematuria,1
+C0524582,C4074771,Directed,C0524582_C4074771,Edge from Mulibrey nanism to Infertility,1
+C0026896,C0151786,Directed,C0026896_C0151786,Edge from Myasthenia gravis to Muscle weakness,1
+C0026896,C0271186,Directed,C0026896_C0271186,Edge from Myasthenia gravis to Diplopia,1
+C0026896,C0005745,Directed,C0026896_C0005745,Edge from Myasthenia gravis to Ptosis (eyelid),1
+C2713368,C0009450,Directed,C2713368_C0009450,Edge from Myelodysplastic syndrome to Infection,1
+C2713368,C0019080,Directed,C2713368_C0019080,Edge from Myelodysplastic syndrome to Bleeding,1
+C2713368,C0085619,Directed,C2713368_C0085619,Edge from Myelodysplastic syndrome to Shortness of breath,1
+C2713368,C0086525,Directed,C2713368_C0086525,Edge from Myelodysplastic syndrome to Fatigue,1
+C0027051,C0027497,Directed,C0027051_C0027497,Edge from Myocardial infarction to Nausea,1
+C0027051,C0038990,Directed,C0027051_C0038990,Edge from Myocardial infarction to Perspiration,1
+C0027051,C0008031,Directed,C0027051_C0008031,Edge from Myocardial infarction to Chest pain,1
+C0027051,C0700200,Directed,C0027051_C0700200,Edge from Myocardial infarction to Lightheadedness,1
+C0027051,C0085619,Directed,C0027051_C0085619,Edge from Myocardial infarction to Shortness of breath,1
+C0027051,C0086525,Directed,C0027051_C0086525,Edge from Myocardial infarction to Fatigue,1
+C0027059,C0003811,Directed,C0027059_C0003811,Edge from Myocarditis to Arrhythmia,1
+C0027059,C0008031,Directed,C0027059_C0008031,Edge from Myocarditis to Chest pain,1
+C0027059,C0085619,Directed,C0027059_C0085619,Edge from Myocarditis to Shortness of breath,1
+C0027092,C0877781,Directed,C0027092_C0877781,Edge from Myopia to Headache,1
+C0027404,C0544668,Directed,C0027404_C0544668,Edge from Narcolepsy to Hallucination,1
+C0027404,C0007384,Directed,C0027404_C0007384,Edge from Narcolepsy to Cataplexy,1
+C0027404,C0917799,Directed,C0027404_C0917799,Edge from Narcolepsy to Excessive daytime sleepiness,1
+C0520459,C0042963,Directed,C0520459_C0042963,Edge from Necrotizing enterocolitis to Vomiting,1
+C0238124,C0015967,Directed,C0238124_C0015967,Edge from Necrotizing fasciitis to Fever,1
+C1565887,C0242183,Directed,C1565887_C0242183,Edge from Neonatal jaundice to Jaundice,1
+C0027651,C0013604,Directed,C0027651_C0013604,Edge from Neoplasm to Edema,1
+C0917817,C1384666,Directed,C0917817_C1384666,Edge from Neurofibromatosis to Hearing loss,1
+C0027849,C0038990,Directed,C0027849_C0038990,Edge from Neuroleptic malignant syndrome to Perspiration,1
+C0027849,C0015967,Directed,C0027849_C0015967,Edge from Neuroleptic malignant syndrome to Fever,1
+C4721532,C0033774,Directed,C4721532_C0033774,Edge from Non-Hodgkin lymphoma to Itch,1
+C4721532,C0024228,Directed,C4721532_C0024228,Edge from Non-Hodgkin lymphoma to Lymphadenopathy,1
+C4721532,C0015967,Directed,C4721532_C0015967,Edge from Non-Hodgkin lymphoma to Fever,1
+C4721532,C0086525,Directed,C4721532_C0086525,Edge from Non-Hodgkin lymphoma to Fatigue,1
+C1721023,C0034150,Directed,C1721023_C0034150,Edge from Nuchal cord to Purpura,1
+C0042253,C0015732,Directed,C0042253_C0015732,Edge from Obstetric fistula to Fecal incontinence,1
+C0042253,C0042024,Directed,C0042253_C0042024,Edge from Obstetric fistula to Urinary incontinence,1
+C0270952,C0011168,Directed,C0270952_C0011168,Edge from Oculopharyngeal muscular dystrophy to Dysphagia,1
+C0029001,C0033774,Directed,C0029001_C0033774,Edge from Onchocerciasis to Itch,1
+C0027412,C0086189,Directed,C0027412_C0086189,Edge from Opioid use disorder to Drug withdrawal,1
+C0020651,C0155503,Directed,C0020651_C0155503,Edge from Orthostatic hypotension to Vertigo,1
+C0020651,C0700200,Directed,C0020651_C0700200,Edge from Orthostatic hypotension to Lightheadedness,1
+C0029405,C0332712,Directed,C0029405_C0332712,Edge from Osteitis fibrosa cystica to Bone fracture,1
+C0086743,C0003862,Directed,C0086743_C0003862,Edge from Osteoarthritis to Arthralgia,1
+C0029443,C0015967,Directed,C0029443_C0015967,Edge from Osteomyelitis to Fever,1
+C0001787,C0332712,Directed,C0001787_C0332712,Edge from Osteoporosis to Bone fracture,1
+C0029882,C1384666,Directed,C0029882_C1384666,Edge from Otitis media to Hearing loss,1
+C0029882,C0015967,Directed,C0029882_C0015967,Edge from Otitis media to Fever,1
+C1140680,C1257861,Directed,C1140680_C1257861,Edge from Ovarian cancer to Constipation,1
+C1140680,C0003962,Directed,C1140680_C0003962,Edge from Ovarian cancer to Ascites,1
+C1140680,C0030794,Directed,C1140680_C0030794,Edge from Ovarian cancer to Pelvic pain,1
+C1140680,C0003123,Directed,C1140680_C0003123,Edge from Ovarian cancer to Anorexia (symptom),1
+C0030297,C0750949,Directed,C0030297_C0750949,Edge from Pancreatic cancer to Back pain,1
+C0030297,C0242183,Directed,C0030297_C0242183,Edge from Pancreatic cancer to Jaundice,1
+C0030297,C0000737,Directed,C0030297_C0000737,Edge from Pancreatic cancer to Abdominal pain,1
+C0030297,C0003123,Directed,C0030297_C0003123,Edge from Pancreatic cancer to Anorexia (symptom),1
+C0030297,C0006625,Directed,C0030297_C0006625,Edge from Pancreatic cancer to Cachexia,1
+C0030299,C0042963,Directed,C0030299_C0042963,Edge from Pancreatic pseudocyst to Vomiting,1
+C0030299,C0027497,Directed,C0030299_C0027497,Edge from Pancreatic pseudocyst to Nausea,1
+C0030299,C0000737,Directed,C0030299_C0000737,Edge from Pancreatic pseudocyst to Abdominal pain,1
+C0030299,C0003123,Directed,C0030299_C0003123,Edge from Pancreatic pseudocyst to Anorexia (symptom),1
+C0001339,C0042963,Directed,C0001339_C0042963,Edge from Pancreatitis to Vomiting,1
+C0001339,C0027497,Directed,C0001339_C0027497,Edge from Pancreatitis to Nausea,1
+C0001339,C0038238,Directed,C0001339_C0038238,Edge from Pancreatitis to Steatorrhea,1
+C0001339,C0015967,Directed,C0001339_C0015967,Edge from Pancreatitis to Fever,1
+C0086769,C0038990,Directed,C0086769_C0038990,Edge from Panic disorder to Perspiration,1
+C0086769,C0085619,Directed,C0086769_C0085619,Edge from Panic disorder to Shortness of breath,1
+C0018523,C0497327,Directed,C0018523_C0497327,Edge from Pantothenate kinase-associated neurodegeneration to Dementia,1
+C0018523,C0752097,Directed,C0018523_C0752097,Edge from Pantothenate kinase-associated neurodegeneration to Parkinsonism,1
+C0018523,C0013421,Directed,C0018523_C0013421,Edge from Pantothenate kinase-associated neurodegeneration to Dystonia,1
+C0030409,C0024228,Directed,C0030409_C0024228,Edge from Paracoccidioidomycosis to Lymphadenopathy,1
+C0030409,C0149745,Directed,C0030409_C0149745,Edge from Paracoccidioidomycosis to Mouth ulcer,1
+C0030409,C0015967,Directed,C0030409_C0015967,Edge from Paracoccidioidomycosis to Fever,1
+C0030528,C0877781,Directed,C0030528_C0877781,Edge from Paratyphoid fever to Headache,1
+C0030528,C0015967,Directed,C0030528_C0015967,Edge from Paratyphoid fever to Fever,1
+C0039240,C0008031,Directed,C0039240_C0008031,Edge from Supraventricular tachycardia to Chest pain,1
+C0039240,C0085619,Directed,C0039240_C0085619,Edge from Supraventricular tachycardia to Shortness of breath,1
+C0559470,C0013595,Directed,C0559470_C0013595,Edge from Peanut allergy to Dermatitis,1
+C0559470,C0004096,Directed,C0559470_C0004096,Edge from Peanut allergy to Asthma,1
+C0559470,C0002994,Directed,C0559470_C0002994,Edge from Peanut allergy to Angioedema,1
+C0559470,C0018790,Directed,C0559470_C0018790,Edge from Peanut allergy to Cardiac arrest,1
+C0559470,C0042109,Directed,C0559470_C0042109,Edge from Peanut allergy to Hives,1
+C0559470,C0000737,Directed,C0559470_C0000737,Edge from Peanut allergy to Abdominal pain,1
+C0559470,C0033774,Directed,C0559470_C0033774,Edge from Peanut allergy to Itch,1
+C0559470,C0020649,Directed,C0559470_C0020649,Edge from Peanut allergy to Hypotension,1
+C0559470,C0011991,Directed,C0559470_C0011991,Edge from Peanut allergy to Diarrhea,1
+C0001577,C0227791,Directed,C0001577_C0227791,Edge from Pelvic inflammatory disease to Vaginal discharge,1
+C0001577,C0015967,Directed,C0001577_C0015967,Edge from Pelvic inflammatory disease to Fever,1
+C0001577,C0013428,Directed,C0001577_C0013428,Edge from Pelvic inflammatory disease to Dysuria,1
+C0030920,C0027497,Directed,C0030920_C0027497,Edge from Peptic ulcer disease to Nausea,1
+C0030920,C0000737,Directed,C0030920_C0000737,Edge from Peptic ulcer disease to Abdominal pain,1
+C0030920,C0003123,Directed,C0030920_C0003123,Edge from Peptic ulcer disease to Anorexia (symptom),1
+C0030920,C0018834,Directed,C0030920_C0018834,Edge from Peptic ulcer disease to Heartburn,1
+C1167732,C0008031,Directed,C1167732_C0008031,Edge from Pericarditis to Chest pain,1
+C1167732,C0015967,Directed,C1167732_C0015967,Edge from Pericarditis to Fever,1
+C0031051,C0018520,Directed,C0031051_C0018520,Edge from Periodontal disease to Bad breath,1
+C0085096,C0010520,Directed,C0085096_C0010520,Edge from Peripheral artery disease to Cyanosis,1
+C0085096,C0021775,Directed,C0085096_C0021775,Edge from Peripheral artery disease to Intermittent claudication,1
+C1449646,C0015967,Directed,C1449646_C0015967,Edge from Peritonitis to Fever,1
+C0031157,C0343495,Directed,C0031157_C0343495,Edge from Peritonsillar abscess to Trismus,1
+C0031157,C0015967,Directed,C0031157_C0015967,Edge from Peritonsillar abscess to Fever,1
+C0002892,C0233407,Directed,C0002892_C0233407,Edge from Pernicious anemia to Confusion,1
+C0002892,C0086132,Directed,C0002892_C0086132,Edge from Pernicious anemia to Depression (mood),1
+C0002892,C0700200,Directed,C0002892_C0700200,Edge from Pernicious anemia to Lightheadedness,1
+C0002892,C0085619,Directed,C0002892_C0085619,Edge from Pernicious anemia to Shortness of breath,1
+C0002892,C0392699,Directed,C0002892_C0392699,Edge from Pernicious anemia to Paresthesia,1
+C0002892,C0086525,Directed,C0002892_C0086525,Edge from Pernicious anemia to Fatigue,1
+C0031350,C0031350,Directed,C0031350_C0031350,Edge from Pharyngitis to Pharyngitis,1
+C0031350,C0454545,Directed,C0031350_C0454545,Edge from Pharyngitis to Hoarse voice,1
+C0031350,C0010200,Directed,C0031350_C0010200,Edge from Pharyngitis to Cough,1
+C0031350,C0877781,Directed,C0031350_C0877781,Edge from Pharyngitis to Headache,1
+C0031350,C0015967,Directed,C0031350_C0015967,Edge from Pharyngitis to Fever,1
+C0031485,C0376338,Directed,C0031485_C0376338,Edge from Phenylketonuria to Mental disorder,1
+C0031485,C3495874,Directed,C0031485_C3495874,Edge from Phenylketonuria to Seizure,1
+C0031485,C0917816,Directed,C0031485_C0917816,Edge from Phenylketonuria to Intellectual disability,1
+C0031511,C0080203,Directed,C0031511_C0080203,Edge from Pheochromocytoma to Tachycardia,1
+C0031511,C0038990,Directed,C0031511_C0038990,Edge from Pheochromocytoma to Perspiration,1
+C0031511,C0877781,Directed,C0031511_C0877781,Edge from Pheochromocytoma to Headache,1
+C0031511,C0020538,Directed,C0031511_C0020538,Edge from Pheochromocytoma to Hypertension,1
+C0031511,C0030232,Directed,C0031511_C0030232,Edge from Pheochromocytoma to Pallor,1
+C0031900,C0025990,Directed,C0031900_C0025990,Edge from Pierre Robin sequence to Micrognathism,1
+C0000832,C0000737,Directed,C0000832_C0000737,Edge from Placental abruption to Abdominal pain,1
+C0032197,C0002871,Directed,C0032197_C0002871,Edge from Platelet storage pool deficiency to Anemia,1
+C0032285,C0010200,Directed,C0032285_C0010200,Edge from Pneumonia to Cough,1
+C0032285,C0015967,Directed,C0032285_C0015967,Edge from Pneumonia to Fever,1
+C0032285,C0085619,Directed,C0032285_C0085619,Edge from Pneumonia to Shortness of breath,1
+C0032326,C0008031,Directed,C0032326_C0008031,Edge from Pneumothorax to Chest pain,1
+C0032326,C0085619,Directed,C0032326_C0085619,Edge from Pneumothorax to Shortness of breath,1
+C0032326,C0086525,Directed,C0032326_C0086525,Edge from Pneumothorax to Fatigue,1
+C0032460,C0025323,Directed,C0032460_C0025323,Edge from Polycystic ovary syndrome to Heavy menstrual bleeding,1
+C0032460,C4074771,Directed,C0032460_C4074771,Edge from Polycystic ovary syndrome to Infertility,1
+C0032460,C0000889,Directed,C0032460_C0000889,Edge from Polycystic ovary syndrome to Acanthosis nigricans,1
+C0032460,C0001144,Directed,C0032460_C0001144,Edge from Polycystic ovary syndrome to Acne,1
+C0032460,C0019572,Directed,C0032460_C0019572,Edge from Polycystic ovary syndrome to Hirsutism,1
+C0393851,C0750937,Directed,C0393851_C0750937,Edge from Polyneuropathy to Ataxia,1
+C0020541,C0003962,Directed,C0020541_C0003962,Edge from Portal hypertension to Ascites,1
+C4505439,C0376338,Directed,C4505439_C0376338,Edge from Post-traumatic stress disorder to Mental disorder,1
+C0878576,C0877781,Directed,C0878576_C0877781,Edge from Posterior reversible encephalopathy syndrome to Headache,1
+C0269899,C0080203,Directed,C0269899_C0080203,Edge from Postpartum bleeding to Tachycardia,1
+C0269899,C0020651,Directed,C0269899_C0020651,Edge from Postpartum bleeding to Orthostatic hypotension,1
+C2909478,C0027769,Directed,C2909478_C0027769,Edge from Postpartum depression to Anxiety,1
+C2909478,C0086525,Directed,C2909478_C0086525,Edge from Postpartum depression to Fatigue,1
+C0034041,C0015967,Directed,C0034041_C0015967,Edge from Postpartum infections to Fever,1
+C0265222,C0085996,Directed,C0265222_C0085996,Edge from Prader–Willi syndrome to Developmental disability,1
+C0265222,C0026825,Directed,C0265222_C0026825,Edge from Prader–Willi syndrome to Hypotonia,1
+C0032961,C0032796,Directed,C0032961_C0032796,Edge from Pregnancy to Amenorrhea,1
+C1384514,C0877781,Directed,C1384514_C0877781,Edge from Primary aldosteronism to Headache,1
+C1384514,C0020538,Directed,C1384514_C0020538,Edge from Primary aldosteronism to Hypertension,1
+C0023892,C0008370,Directed,C0023892_C0008370,Edge from Primary biliary cholangitis to Cholestasis,1
+C0023892,C0033774,Directed,C0023892_C0033774,Edge from Primary biliary cholangitis to Itch,1
+C0023892,C0086525,Directed,C0023892_C0086525,Edge from Primary biliary cholangitis to Fatigue,1
+C0395005,C0043352,Directed,C0395005_C0043352,Edge from Primary polydipsia to Xerostomia,1
+C0033300,C0002170,Directed,C0033300_C0002170,Edge from Progeria to Hair loss,1
+C0038868,C0497327,Directed,C0038868_C0497327,Edge from Progressive supranuclear palsy to Dementia,1
+C0038868,C0233565,Directed,C0038868_C0233565,Edge from Progressive supranuclear palsy to Hypokinesia,1
+C0038868,C0339693,Directed,C0038868_C0339693,Edge from Progressive supranuclear palsy to Ophthalmoparesis,1
+C0376358,C0030794,Directed,C0376358_C0030794,Edge from Prostate cancer to Pelvic pain,1
+C0242666,C0034152,Directed,C0242666_C0034152,Edge from Protein S deficiency to Purpura fulminans,1
+C0524702,C0008031,Directed,C0524702_C0008031,Edge from Pulmonary embolism to Chest pain,1
+C0524702,C0019079,Directed,C0524702_C0019079,Edge from Pulmonary embolism to Hemoptysis,1
+C0524702,C0085619,Directed,C0524702_C0085619,Edge from Pulmonary embolism to Shortness of breath,1
+C0034072,C0010520,Directed,C0034072_C0010520,Edge from Pulmonary heart disease to Cyanosis,1
+C0020542,C0008031,Directed,C0020542_C0008031,Edge from Pulmonary hypertension to Chest pain,1
+C0020542,C0086525,Directed,C0020542_C0086525,Edge from Pulmonary hypertension to Fatigue,1
+C1956257,C0220870,Directed,C1956257_C0220870,Edge from Pulmonary valve stenosis to Dizziness,1
+C1956257,C0010520,Directed,C1956257_C0010520,Edge from Pulmonary valve stenosis to Cyanosis,1
+C0034091,C0086525,Directed,C0034091_C0086525,Edge from Pulmonary venoocclusive disease to Fatigue,1
+C0393912,C0020651,Directed,C0393912_C0020651,Edge from Dysautonomia to Orthostatic hypotension,1
+C0034186,C0027497,Directed,C0034186_C0027497,Edge from Pyelonephritis to Nausea,1
+C0034186,C0015967,Directed,C0034186_C0015967,Edge from Pyelonephritis to Fever,1
+C0034186,C0013428,Directed,C0034186_C0013428,Edge from Pyelonephritis to Dysuria,1
+C0034341,C0085605,Directed,C0034341_C0085605,Edge from Pyruvate carboxylase deficiency to Liver failure,1
+C0034341,C0001125,Directed,C0034341_C0001125,Edge from Pyruvate carboxylase deficiency to Lactic acidosis,1
+C0034494,C0233407,Directed,C0034494_C0233407,Edge from Rabies to Confusion,1
+C0034494,C0013132,Directed,C0034494_C0013132,Edge from Rabies to Drooling,1
+C0034494,C0234544,Directed,C0034494_C0234544,Edge from Rabies to Paralysis,1
+C0034494,C0544668,Directed,C0034494_C0544668,Edge from Rabies to Hallucination,1
+C0034494,C0541798,Directed,C0034494_C0541798,Edge from Rabies to Insomnia,1
+C0034494,C0860634,Directed,C0034494_C0860634,Edge from Rabies to Coma,1
+C0034494,C0015967,Directed,C0034494_C0015967,Edge from Rabies to Fever,1
+C0271708,C0271708,Directed,C0271708_C0271708,Edge from Hypoglycemia to Hypoglycemia,1
+C0022667,C0750949,Directed,C0022667_C0750949,Edge from Renal papillary necrosis to Back pain,1
+C0002064,C0917812,Directed,C0002064_C0917812,Edge from Respiratory alkalosis to Tetany,1
+C0751485,C0233407,Directed,C0751485_C0233407,Edge from Reye syndrome to Confusion,1
+C0751485,C0042963,Directed,C0751485_C0042963,Edge from Reye syndrome to Vomiting,1
+C0751485,C3495874,Directed,C0751485_C3495874,Edge from Reye syndrome to Seizure,1
+C0035410,C0233407,Directed,C0035410_C0233407,Edge from Rhabdomyolysis to Confusion,1
+C0035410,C0042963,Directed,C0035410_C0042963,Edge from Rhabdomyolysis to Vomiting,1
+C0035410,C0003811,Directed,C0035410_C0003811,Edge from Rhabdomyolysis to Arrhythmia,1
+C0035410,C0151786,Directed,C0035410_C0151786,Edge from Rhabdomyolysis to Muscle weakness,1
+C0035410,C0231528,Directed,C0035410_C0231528,Edge from Rhabdomyolysis to Myalgia,1
+C0035436,C0393584,Directed,C0035436_C0393584,Edge from Rheumatic fever to Chorea,1
+C0035436,C0003862,Directed,C0035436_C0003862,Edge from Rheumatic fever to Arthralgia,1
+C0035436,C0015967,Directed,C0035436_C0015967,Edge from Rheumatic fever to Fever,1
+C0035613,C0231528,Directed,C0035613_C0231528,Edge from Rift Valley fever to Myalgia,1
+C0035613,C0877781,Directed,C0035613_C0877781,Edge from Rift Valley fever to Headache,1
+C0035613,C0015967,Directed,C0035613_C0015967,Edge from Rift Valley fever to Fever,1
+C0035793,C0015230,Directed,C0035793_C0015230,Edge from Rocky Mountain spotted fever to Rash,1
+C0035793,C0877781,Directed,C0035793_C0877781,Edge from Rocky Mountain spotted fever to Headache,1
+C0035793,C0015967,Directed,C0035793_C0015967,Edge from Rocky Mountain spotted fever to Fever,1
+C4551647,C3495874,Directed,C4551647_C3495874,Edge from Romano–Ward syndrome to Seizure,1
+C0406486,C1138421,Directed,C0406486_C1138421,Edge from Rosacea to Telangiectasia,1
+C0406486,C0041834,Directed,C0406486_C0041834,Edge from Rosacea to Erythema,1
+C0406486,C0013604,Directed,C0406486_C0013604,Edge from Rosacea to Edema,1
+C0035869,C0042963,Directed,C0035869_C0042963,Edge from Rotaviral gastroenteritis to Vomiting,1
+C0035869,C0000737,Directed,C0035869_C0000737,Edge from Rotaviral gastroenteritis to Abdominal pain,1
+C0035869,C0011991,Directed,C0035869_C0011991,Edge from Rotaviral gastroenteritis to Diarrhea,1
+C0035869,C0015967,Directed,C0035869_C0015967,Edge from Rotaviral gastroenteritis to Fever,1
+C0220991,C0242183,Directed,C0220991_C0242183,Edge from Rotor syndrome to Jaundice,1
+C0035920,C0024228,Directed,C0035920_C0024228,Edge from Rubella to Lymphadenopathy,1
+C0035920,C0015967,Directed,C0035920_C0015967,Edge from Rubella to Fever,1
+C0026706,C0497327,Directed,C0026706_C0497327,Edge from Sanfilippo syndrome to Dementia,1
+C0024710,C0033774,Directed,C0024710_C0033774,Edge from Scabies to Itch,1
+C0036310,C3178789,Directed,C0036310_C3178789,Edge from Scheuermann's disease to Chronic pain,1
+C0036323,C0000737,Directed,C0036323_C0000737,Edge from Schistosomiasis to Abdominal pain,1
+C0036323,C0011991,Directed,C0036323_C0011991,Edge from Schistosomiasis to Diarrhea,1
+C0036323,C0018965,Directed,C0036323_C0018965,Edge from Schistosomiasis to Hematuria,1
+C0033958,C0011253,Directed,C0033958_C0011253,Edge from Schizoaffective disorder to Delusion,1
+C0033958,C0086132,Directed,C0033958_C0086132,Edge from Schizoaffective disorder to Depression (mood),1
+C0033958,C0005586,Directed,C0033958_C0005586,Edge from Schizoaffective disorder to Bipolar disorder,1
+C0033958,C0544668,Directed,C0033958_C0544668,Edge from Schizoaffective disorder to Hallucination,1
+C0036396,C0458257,Directed,C0036396_C0458257,Edge from Sciatica to Pain,1
+C0544679,C0220870,Directed,C0544679_C0220870,Edge from Scintillating scotoma to Dizziness,1
+C0544679,C0027497,Directed,C0544679_C0027497,Edge from Scintillating scotoma to Nausea,1
+C0036474,C0031051,Directed,C0036474_C0031051,Edge from Scurvy to Periodontal disease,1
+C0036690,C0003460,Directed,C0036690_C0003460,Edge from Sepsis to Anuria,1
+C0036690,C0233407,Directed,C0036690_C0233407,Edge from Sepsis to Confusion,1
+C0036690,C0080203,Directed,C0036690_C0080203,Edge from Sepsis to Tachycardia,1
+C0036690,C0458257,Directed,C0036690_C0458257,Edge from Sepsis to Pain,1
+C0036690,C0020649,Directed,C0036690_C0020649,Edge from Sepsis to Hypotension,1
+C0036690,C0020578,Directed,C0036690_C0020578,Edge from Sepsis to Hyperventilation,1
+C0036690,C0015967,Directed,C0036690_C0015967,Edge from Sepsis to Fever,1
+C0036690,C0028961,Directed,C0036690_C0028961,Edge from Sepsis to Oliguria,1
+C0036830,C0015230,Directed,C0036830_C0015230,Edge from Serum sickness to Rash,1
+C0036830,C0003862,Directed,C0036830_C0003862,Edge from Serum sickness to Arthralgia,1
+C0036830,C0024228,Directed,C0036830_C0024228,Edge from Serum sickness to Lymphadenopathy,1
+C0036830,C0015967,Directed,C0036830_C0015967,Edge from Serum sickness to Fever,1
+C1257869,C0000737,Directed,C1257869_C0000737,Edge from Shigellosis to Abdominal pain,1
+C1257869,C0011991,Directed,C1257869_C0011991,Edge from Shigellosis to Diarrhea,1
+C1257869,C0015967,Directed,C1257869_C0015967,Edge from Shigellosis to Fever,1
+C0036992,C0162429,Directed,C0036992_C0162429,Edge from Short bowel syndrome to Malnutrition,1
+C0036992,C0011991,Directed,C0036992_C0011991,Edge from Short bowel syndrome to Diarrhea,1
+C0037199,C0458257,Directed,C0037199_C0458257,Edge from Sinusitis to Pain,1
+C0037199,C0015967,Directed,C0037199_C0015967,Edge from Sinusitis to Fever,1
+C0007114,C1138421,Directed,C0007114_C1138421,Edge from Skin cancer to Telangiectasia,1
+C0007114,C0027962,Directed,C0007114_C0027962,Edge from Skin cancer to Melanocytic nevus,1
+C0037315,C0003578,Directed,C0037315_C0003578,Edge from Sleep apnea to Apnea,1
+C0037315,C0037384,Directed,C0037315_C0037384,Edge from Sleep apnea to Snoring,1
+C0021841,C0018932,Directed,C0021841_C0018932,Edge from Small intestine cancer to Gastrointestinal bleeding,1
+C0037379,C0013604,Directed,C0037379_C0013604,Edge from Snakebite to Edema,1
+C0037650,C0151786,Directed,C0037650_C0151786,Edge from Somatization disorder to Muscle weakness,1
+C0037650,C0877781,Directed,C0037650_C0877781,Edge from Somatization disorder to Headache,1
+C0037650,C0086525,Directed,C0037650_C0086525,Edge from Somatization disorder to Fatigue,1
+C0026847,C0026846,Directed,C0026847_C0026846,Edge from Spinal muscular atrophies to Muscle atrophy,1
+C0752120,C0750937,Directed,C0752120_C0750937,Edge from Spinocerebellar ataxia type 1 to Ataxia,1
+C0752120,C0454596,Directed,C0752120_C0454596,Edge from Spinocerebellar ataxia type 1 to Dysarthria,1
+C0752120,C0011168,Directed,C0752120_C0011168,Edge from Spinocerebellar ataxia type 1 to Dysphagia,1
+C0080194,C0458257,Directed,C0080194_C0458257,Edge from Sprain to Pain,1
+C0080194,C0009938,Directed,C0080194_C0009938,Edge from Sprain to Bruise,1
+C0080194,C0013604,Directed,C0080194_C0013604,Edge from Sprain to Edema,1
+C0014518,C0005758,Directed,C0014518_C0005758,Edge from Stevens–Johnson syndrome to Blister,1
+C0014518,C0015967,Directed,C0014518_C0015967,Edge from Stevens–Johnson syndrome to Fever,1
+C0595939,C0032961,Directed,C0595939_C0032961,Edge from Stillbirth to Pregnancy,1
+C0024623,C0027497,Directed,C0024623_C0027497,Edge from Stomach cancer to Nausea,1
+C0024623,C0242183,Directed,C0024623_C0242183,Edge from Stomach cancer to Jaundice,1
+C0024623,C0000737,Directed,C0024623_C0000737,Edge from Stomach cancer to Abdominal pain,1
+C0024623,C0003123,Directed,C0024623_C0003123,Edge from Stomach cancer to Anorexia (symptom),1
+C0024623,C0018834,Directed,C0024623_C0018834,Edge from Stomach cancer to Heartburn,1
+C0024623,C0011168,Directed,C0024623_C0011168,Edge from Stomach cancer to Dysphagia,1
+C0751956,C0220870,Directed,C0751956_C0220870,Edge from Stroke to Dizziness,1
+C0751956,C0454573,Directed,C0751956_C0454573,Edge from Stroke to Expressive aphasia,1
+C0751956,C0454575,Directed,C0751956_C0454575,Edge from Stroke to Receptive aphasia,1
+C0751956,C0392550,Directed,C0751956_C0392550,Edge from Stroke to Hemiparesis,1
+C0085810,C0015230,Directed,C0085810_C0015230,Edge from Strongyloidiasis to Rash,1
+C0085810,C0000737,Directed,C0085810_C0000737,Edge from Strongyloidiasis to Abdominal pain,1
+C0085810,C0011991,Directed,C0085810_C0011991,Edge from Strongyloidiasis to Diarrhea,1
+C0014122,C0151786,Directed,C0014122_C0151786,Edge from Subacute bacterial endocarditis to Muscle weakness,1
+C0795688,C0042963,Directed,C0795688_C0042963,Edge from Subarachnoid hemorrhage to Vomiting,1
+C0038732,C1257861,Directed,C0038732_C1257861,Edge from Sulfhemoglobinemia to Constipation,1
+C0038732,C0042029,Directed,C0038732_C0042029,Edge from Sulfhemoglobinemia to Urinary tract infection,1
+C0038732,C0010520,Directed,C0038732_C0010520,Edge from Sulfhemoglobinemia to Cyanosis,1
+C0242843,C0151786,Directed,C0242843_C0151786,Edge from Sweating sickness to Muscle weakness,1
+C0242843,C0458257,Directed,C0242843_C0458257,Edge from Sweating sickness to Pain,1
+C0242843,C0085593,Directed,C0242843_C0085593,Edge from Sweating sickness to Chills,1
+C0029077,C0085636,Directed,C0029077_C0085636,Edge from Sympathetic ophthalmia to Photophobia,1
+C0021141,C0042963,Directed,C0021141_C0042963,Edge from Syndrome of inappropriate antidiuretic hormone secretion to Vomiting,1
+C0021141,C0027497,Directed,C0021141_C0027497,Edge from Syndrome of inappropriate antidiuretic hormone secretion to Nausea,1
+C0021141,C3495874,Directed,C0021141_C3495874,Edge from Syndrome of inappropriate antidiuretic hormone secretion to Seizure,1
+C0021141,C0000737,Directed,C0021141_C0000737,Edge from Syndrome of inappropriate antidiuretic hormone secretion to Abdominal pain,1
+C0021141,C0860634,Directed,C0021141_C0860634,Edge from Syndrome of inappropriate antidiuretic hormone secretion to Coma,1
+C0021141,C0003123,Directed,C0021141_C0003123,Edge from Syndrome of inappropriate antidiuretic hormone secretion to Anorexia (symptom),1
+C0039128,C0037299,Directed,C0039128_C0037299,Edge from Syphilis to Ulcer (dermatology),1
+C0079772,C0015230,Directed,C0079772_C0015230,Edge from T-cell lymphoma to Rash,1
+C0079772,C0015967,Directed,C0079772_C0015967,Edge from T-cell lymphoma to Fever,1
+C5392955,C0000737,Directed,C5392955_C0000737,Edge from Taeniasis to Abdominal pain,1
+C1848922,C0234544,Directed,C1848922_C0234544,Edge from Tay–Sachs disease to Paralysis,1
+C1848922,C1384666,Directed,C1848922_C1384666,Edge from Tay–Sachs disease to Hearing loss,1
+C1848922,C3495874,Directed,C1848922_C3495874,Edge from Tay–Sachs disease to Seizure,1
+C1568272,C0458257,Directed,C1568272_C0458257,Edge from Tendinopathy to Pain,1
+C1720811,C0013604,Directed,C1720811_C0013604,Edge from Testicular cancer to Edema,1
+C0039614,C0235229,Directed,C0039614_C0235229,Edge from Tetanus to Spasm,1
+C0039614,C0038990,Directed,C0039614_C0038990,Edge from Tetanus to Perspiration,1
+C0039614,C3495874,Directed,C0039614_C3495874,Edge from Tetanus to Seizure,1
+C0039614,C0877781,Directed,C0039614_C0877781,Edge from Tetanus to Headache,1
+C0039614,C0015967,Directed,C0039614_C0015967,Edge from Tetanus to Fever,1
+C0039730,C0242183,Directed,C0039730_C0242183,Edge from Thalassemia to Jaundice,1
+C0039730,C0038002,Directed,C0039730_C0038002,Edge from Thalassemia to Splenomegaly,1
+C0039730,C0030232,Directed,C0039730_C0030232,Edge from Thalassemia to Pallor,1
+C0039730,C0086525,Directed,C0039730_C0086525,Edge from Thalassemia to Fatigue,1
+C0005122,C0458257,Directed,C0005122_C0458257,Edge from Thiamine deficiency to Pain,1
+C0005122,C0013604,Directed,C0005122_C0013604,Edge from Thiamine deficiency to Edema,1
+C0005122,C0085619,Directed,C0005122_C0085619,Edge from Thiamine deficiency to Shortness of breath,1
+C1956395,C0010520,Directed,C1956395_C0010520,Edge from Thoracic outlet syndrome to Cyanosis,1
+C1956395,C0013604,Directed,C1956395_C0013604,Edge from Thoracic outlet syndrome to Edema,1
+C0040425,C0031350,Directed,C0040425_C0031350,Edge from Tonsillitis to Pharyngitis,1
+C0040425,C0024228,Directed,C0040425_C0024228,Edge from Tonsillitis to Lymphadenopathy,1
+C0040425,C0015967,Directed,C0040425_C0015967,Edge from Tonsillitis to Fever,1
+C0025162,C0015967,Directed,C0025162_C0015967,Edge from Toxic megacolon to Fever,1
+C0036981,C0015230,Directed,C0036981_C0015230,Edge from Toxic shock syndrome to Rash,1
+C0036981,C0020649,Directed,C0036981_C0020649,Edge from Toxic shock syndrome to Hypotension,1
+C0036981,C0015967,Directed,C0036981_C0015967,Edge from Toxic shock syndrome to Fever,1
+C0040558,C0032961,Directed,C0040558_C0032961,Edge from Toxoplasmosis to Pregnancy,1
+C0162534,C0497327,Directed,C0162534_C0497327,Edge from Transmissible spongiform encephalopathy to Dementia,1
+C0162534,C0541798,Directed,C0162534_C0541798,Edge from Transmissible spongiform encephalopathy to Insomnia,1
+C0040830,C0015967,Directed,C0040830_C0015967,Edge from Trench fever to Fever,1
+C2713585,C0009763,Directed,C2713585_C0009763,Edge from Trichinosis to Conjunctivitis,1
+C2713585,C0042963,Directed,C2713585_C0042963,Edge from Trichinosis to Vomiting,1
+C2713585,C0015230,Directed,C2713585_C0015230,Edge from Trichinosis to Rash,1
+C2713585,C0000737,Directed,C2713585_C0000737,Edge from Trichinosis to Abdominal pain,1
+C2713585,C0231528,Directed,C2713585_C0231528,Edge from Trichinosis to Myalgia,1
+C2713585,C0011991,Directed,C2713585_C0011991,Edge from Trichinosis to Diarrhea,1
+C2713585,C0015967,Directed,C2713585_C0015967,Edge from Trichinosis to Fever,1
+C2713585,C0013604,Directed,C2713585_C0013604,Edge from Trichinosis to Edema,1
+C0040922,C0227791,Directed,C0040922_C0227791,Edge from Trichomoniasis to Vaginal discharge,1
+C0040954,C0000737,Directed,C0040954_C0000737,Edge from Trichuriasis to Abdominal pain,1
+C0040954,C0011991,Directed,C0040954_C0011991,Edge from Trichuriasis to Diarrhea,1
+C0040961,C0003962,Directed,C0040961_C0003962,Edge from Tricuspid regurgitation to Ascites,1
+C0041022,C0010520,Directed,C0041022_C0010520,Edge from Trilogy of Fallot to Cyanosis,1
+C0038054,C0011991,Directed,C0038054_C0011991,Edge from Tropical sprue to Diarrhea,1
+C0041296,C0019079,Directed,C0041296_C0019079,Edge from Tuberculosis to Hemoptysis,1
+C0041296,C0015967,Directed,C0041296_C0015967,Edge from Tuberculosis to Fever,1
+C0751568,C0015967,Directed,C0751568_C0015967,Edge from Tuberculous meningitis to Fever,1
+C0041351,C0024228,Directed,C0041351_C0024228,Edge from Tularemia to Lymphadenopathy,1
+C0041351,C0037299,Directed,C0041351_C0037299,Edge from Tularemia to Ulcer (dermatology),1
+C0041351,C0015967,Directed,C0041351_C0015967,Edge from Tularemia to Fever,1
+C0342302,C0151786,Directed,C0342302_C0151786,Edge from Type 1 diabetes to Muscle weakness,1
+C0342302,C0020505,Directed,C0342302_C0020505,Edge from Type 1 diabetes to Polyphagia,1
+C0342302,C0032617,Directed,C0342302_C0032617,Edge from Type 1 diabetes to Polyuria,1
+C0342302,C0086525,Directed,C0342302_C0086525,Edge from Type 1 diabetes to Fatigue,1
+C0011860,C0020505,Directed,C0011860_C0020505,Edge from Type 2 diabetes to Polyphagia,1
+C0011860,C0032617,Directed,C0011860_C0032617,Edge from Type 2 diabetes to Polyuria,1
+C0041466,C1257861,Directed,C0041466_C1257861,Edge from Typhoid fever to Constipation,1
+C0041466,C0877781,Directed,C0041466_C0877781,Edge from Typhoid fever to Headache,1
+C0041466,C0011991,Directed,C0041466_C0011991,Edge from Typhoid fever to Diarrhea,1
+C0009324,C0002871,Directed,C0009324_C0002871,Edge from Ulcerative colitis to Anemia,1
+C0009324,C0000737,Directed,C0009324_C0000737,Edge from Ulcerative colitis to Abdominal pain,1
+C0009324,C0011991,Directed,C0009324_C0011991,Edge from Ulcerative colitis to Diarrhea,1
+C0009324,C0015967,Directed,C0009324_C0015967,Edge from Ulcerative colitis to Fever,1
+C0009324,C0086525,Directed,C0009324_C0086525,Edge from Ulcerative colitis to Fatigue,1
+C0700101,C0018965,Directed,C0700101_C0018965,Edge from Urethral cancer to Hematuria,1
+C0080274,C0042029,Directed,C0080274_C0042029,Edge from Urinary retention to Urinary tract infection,1
+C0080274,C0042024,Directed,C0080274_C0042024,Edge from Urinary retention to Urinary incontinence,1
+C0205990,C1257861,Directed,C0205990_C1257861,Edge from Uterine prolapse to Constipation,1
+C0205990,C0042024,Directed,C0205990_C0042024,Edge from Uterine prolapse to Urinary incontinence,1
+C0042164,C0085636,Directed,C0042164_C0085636,Edge from Uveitis to Photophobia,1
+C0006852,C0227791,Directed,C0006852_C0227791,Edge from Vaginal yeast infection to Vaginal discharge,1
+C0006852,C0013428,Directed,C0006852_C0013428,Edge from Vaginal yeast infection to Dysuria,1
+C0042267,C0227791,Directed,C0042267_C0227791,Edge from Vaginitis to Vaginal discharge,1
+C0042267,C0033774,Directed,C0042267_C0033774,Edge from Vaginitis to Itch,1
+C0042384,C0034150,Directed,C0042384_C0034150,Edge from Vasculitis to Purpura,1
+C0042384,C0231528,Directed,C0042384_C0231528,Edge from Vasculitis to Myalgia,1
+C0042384,C0015967,Directed,C0042384_C0015967,Edge from Vasculitis to Fever,1
+C0042510,C0018790,Directed,C0042510_C0018790,Edge from Ventricular fibrillation to Cardiac arrest,1
+C0338586,C0234482,Directed,C0338586_C0234482,Edge from Vertebral artery dissection to Aphasia,1
+C0338586,C0750937,Directed,C0338586_C0750937,Edge from Vertebral artery dissection to Ataxia,1
+C0338586,C0877781,Directed,C0338586_C0877781,Edge from Vertebral artery dissection to Headache,1
+C0338586,C0011168,Directed,C0338586_C0011168,Edge from Vertebral artery dissection to Dysphagia,1
+C0155503,C0042963,Directed,C0155503_C0042963,Edge from Vertigo to Vomiting,1
+C0027859,C0751557,Directed,C0027859_C0751557,Edge from Vestibular schwannoma to Tinnitus,1
+C0042880,C0009938,Directed,C0042880_C0009938,Edge from Vitamin K deficiency to Bruise,1
+C0042880,C0034150,Directed,C0042880_C0034150,Edge from Vitamin K deficiency to Purpura,1
+C0042961,C1257861,Directed,C0042961_C1257861,Edge from Volvulus to Constipation,1
+C0042961,C0000737,Directed,C0042961_C0000737,Edge from Volvulus to Abdominal pain,1
+C0042963,C0027497,Directed,C0042963_C0027497,Edge from Vomiting to Nausea,1
+C0751583,C0042963,Directed,C0751583_C0042963,Edge from West Nile fever to Vomiting,1
+C0751583,C0011991,Directed,C0751583_C0011991,Edge from West Nile fever to Diarrhea,1
+C0751583,C0015967,Directed,C0751583_C0015967,Edge from West Nile fever to Fever,1
+C0175702,C0917816,Directed,C0175702_C0917816,Edge from Williams syndrome to Intellectual disability,1
+C0549463,C0042384,Directed,C0549463_C0042384,Edge from X-linked lymphoproliferative disease to Vasculitis,1
+C0549463,C0017152,Directed,C0549463_C0017152,Edge from X-linked lymphoproliferative disease to Gastritis,1
+C0549463,C0178416,Directed,C0549463_C0178416,Edge from X-linked lymphoproliferative disease to Aplastic anemia,1
+C0549463,C4721532,Directed,C0549463_C4721532,Edge from X-linked lymphoproliferative disease to Non-Hodgkin lymphoma,1
+C0549463,C0013374,Directed,C0549463_C0013374,Edge from X-linked lymphoproliferative disease to Dysgammaglobulinemia,1
+C0043379,C0917816,Directed,C0043379_C0917816,Edge from XYY syndrome to Intellectual disability,1
+C0043379,C0001144,Directed,C0043379_C0001144,Edge from XYY syndrome to Acne,1
+C0043346,C0025209,Directed,C0043346_C0025209,Edge from Xeroderma pigmentosum to Freckle,1
+C0043346,C0038814,Directed,C0043346_C0038814,Edge from Xeroderma pigmentosum to Sunburn,1
+C0043395,C0242183,Directed,C0043395_C0242183,Edge from Yellow fever to Jaundice,1
+C0043395,C0085593,Directed,C0043395_C0085593,Edge from Yellow fever to Chills,1
+C0043395,C0231528,Directed,C0043395_C0231528,Edge from Yellow fever to Myalgia,1
+C0043395,C0877781,Directed,C0043395_C0877781,Edge from Yellow fever to Headache,1
+C0043395,C0015967,Directed,C0043395_C0015967,Edge from Yellow fever to Fever,1

@@ -1,0 +1,4223 @@
+Id,Label,condition
+C0035235,Respiratory Syncytial Virus Infections,disease
+C0276357,Orthomyxoviridae Infections,disease
+C0019693,HIV Infections,disease
+C0001175,Acquired Immunodeficiency Syndrome,disease
+C1257931,Breast Neoplasms,disease
+C0007102,Colonic Neoplasms,disease
+C1257925,"Mammary Neoplasms, Animal",disease
+C0007114,Skin Neoplasms,disease
+C0027659,"Neoplasms, Experimental",disease
+C0007621,"Cell Transformation, Neoplastic",disease
+C0027672,"Neoplastic Syndromes, Hereditary",disease
+C0085390,Li-Fraumeni Syndrome,disease
+C0005940,Bone Diseases,disease
+C0005941,"Bone Diseases, Developmental",disease
+C0751037,Cockayne Syndrome,disease
+C0029453,"Bone Diseases, Metabolic",disease
+C0001787,Osteoporosis,disease
+C0037933,Spinal Diseases,disease
+C0036439,Scoliosis,disease
+C0022366,"Jaw, Edentulous",disease
+C0022408,Joint Diseases,disease
+C0003873,"Arthritis, Rheumatoid",disease
+C0751153,Fibromyalgia,disease
+C0162671,MELAS Syndrome,disease
+C0162674,"Ophthalmoplegia, Chronic Progressive External",symptom
+C0410189,"Muscular Dystrophy, Emery-Dreifuss",disease
+C0376634,Craniofacial Abnormalities,disease
+C0025958,Microcephaly,disease
+C0009319,Colitis,disease
+C0020877,Ileitis,disease
+C0024523,Malabsorption Syndromes,disease
+C2711227,Fatty Liver,disease
+C0023890,Liver Cirrhosis,disease
+C0149521,"Pancreatitis, Chronic",disease
+C0015469,Facial Paralysis,symptom
+C0080233,Tooth Loss,disease
+C0004277,Tooth Attrition,disease
+C0024115,Lung Diseases,disease
+C4551693,Wolfram Syndrome,disease
+C0018784,"Hearing Loss, Sensorineural",symptom
+C0006111,Brain Diseases,disease
+C0393574,Huntington Disease,disease
+C0394003,Cerebral Palsy,disease
+C0004135,Ataxia Telangiectasia,disease
+C0007820,Cerebrovascular Disorders,disease
+C0497327,Dementia,disease
+C0002395,Alzheimer Disease,disease
+C0270736,Essential Tremor,disease
+C0813142,Chronobiology Disorders,disease
+C0270911,Charcot-Marie-Tooth Disease,disease
+C0265316,Neurocutaneous Syndromes,disease
+C0524851,Neurodegenerative Diseases,disease
+C0751292,Memory Disorders,symptom
+C0270972,De Lange Syndrome,disease
+C0432416,Down Syndrome,disease
+C0458257,Pain,symptom
+C0002735,Neuromuscular Diseases,disease
+C0751865,"Alcohol-Induced Disorders, Nervous System",disease
+C0541798,Sleep Initiation and Maintenance Disorders,disease
+C0001916,Albinism,disease
+C0086543,Cataract,disease
+C0848676,"Infertility, Male",disease
+C0042341,Varicocele,disease
+C0022658,Kidney Diseases,disease
+C0020544,"Hypertension, Renal",disease
+C0017658,Glomerulonephritis,disease
+C0041948,Uremia,disease
+C0085215,Primary Ovarian Insufficiency,disease
+C0000809,"Abortion, Habitual",disease
+C0037188,Sinoatrial Block,disease
+C0878544,Cardiomyopathies,disease
+C0018790,Heart Arrest,disease
+C0151744,Myocardial Ischemia,disease
+C1956346,Coronary Artery Disease,disease
+C0042373,Vascular Diseases,disease
+C1563937,Atherosclerosis,disease
+C0020538,Hypertension,disease
+C0000772,"Abnormalities, Multiple",disease
+C0005859,Bloom Syndrome,disease
+C0037268,Skin Abnormalities,disease
+C1148551,Dyskeratosis Congenita,disease
+C0032339,Rothmund-Thomson Syndrome,disease
+C0950123,"Genetic Diseases, Inborn",disease
+C0025521,"Metabolism, Inborn Errors",disease
+C0740340,"Amyloidosis, Familial",disease
+C0033300,Progeria,disease
+C0010495,Cutis Laxa,disease
+C0043119,Werner Syndrome,disease
+C0085110,Severe Combined Immunodeficiency,disease
+C0009782,Connective Tissue Diseases,disease
+C0009326,Collagen Diseases,disease
+C0036421,"Scleroderma, Systemic",disease
+C1258104,"Scleroderma, Diffuse",disease
+C0178298,Skin Diseases,disease
+C0018500,Hair Diseases,disease
+C0042900,Vitiligo,disease
+C0023787,Lipodystrophy,disease
+C1563696,DNA Repair-Deficiency Disorders,disease
+C0002152,"Diabetes Mellitus, Experimental",disease
+C0011860,"Diabetes Mellitus, Type 2",disease
+C1855520,Hyperglycemia,disease
+C0920563,Insulin Resistance,disease
+C0020473,Hyperlipidemias,disease
+C0020557,Hypertriglyceridemia,disease
+C0949855,Mitochondrial Diseases,disease
+C0042870,Vitamin D Deficiency,disease
+C0028754,Obesity,symptom
+C0001614,Adrenal Cortex Diseases,disease
+C0004364,Autoimmune Diseases,disease
+C0086703,Combat Disorders,disease
+C4505439,"Stress Disorders, Post-Traumatic",disease
+C0029947,Cognition Disorders,disease
+C0085996,Developmental Disabilities,disease
+C0019270,Hernia,disease
+C0011071,"Death, Sudden",disease
+C0314657,Genetic Predisposition to Disease,disease
+C0919532,Genomic Instability,disease
+C3887640,Gliosis,disease
+C0018273,Growth Disorders,disease
+C5200801,Inflammation,disease
+C0022116,Ischemia,disease
+C0027686,"Neovascularization, Pathologic",disease
+C0027746,Nerve Degeneration,disease
+C0236664,Alcohol-Related Disorders,disease
+C0001956,Alcoholism,disease
+C0004161,Athletic Injuries,disease
+C0034530,Radiation Injuries,disease
+C0034531,"Radiation Injuries, Experimental",disease
+C0004610,Bacteremia,disease
+C1135745,"Meningitis, Meningococcal",disease
+C1403891,Waterhouse-Friderichsen Syndrome,symptom
+C0002797,Anaplasmosis,disease
+C0006309,Brucellosis,disease
+C0029291,Psittacosis,disease
+C0041466,Typhoid Fever,disease
+C0079487,Helicobacter Infections,disease
+C0025303,Meningococcal Infections,disease
+C0041351,Tularemia,disease
+C0039128,Syphilis,disease
+C1301422,Diphtheria,disease
+C0023343,Leprosy,disease
+C0041296,Tuberculosis,disease
+C0041310,"Tuberculosis, Endocrine",disease
+C3179450,"Tuberculosis, Spinal",disease
+C0041327,"Tuberculosis, Pulmonary",disease
+C0006057,Botulism,disease
+C1257843,"Enterocolitis, Pseudomembranous",disease
+C0039614,Tetanus,disease
+C1318973,Staphylococcal Infections,disease
+C0035436,Rheumatic Fever,disease
+C0085916,Rheumatic Heart Disease,disease
+C0012624,Discitis,disease
+C0010356,Cross Infection,disease
+C4704910,"Pregnancy Complications, Infectious",disease
+C0035243,Respiratory Tract Infections,disease
+C0036690,Sepsis,disease
+C0011630,Dermatomycoses,disease
+C0030409,Paracoccidioidomycosis,disease
+C0026946,Mycoses,disease
+C1306038,Histoplasmosis,disease
+C0024116,"Lung Diseases, Fungal",disease
+C0393484,Encephalitis,disease
+C0025297,"Meningitis, Viral",disease
+C0032371,Poliomyelitis,disease
+C0019163,Hepatitis B,disease
+C0341335,Cytomegalovirus Infections,disease
+C0021345,Infectious Mononucleosis,disease
+C0036220,"Sarcoma, Kaposi",disease
+C0015674,"Fatigue Syndrome, Chronic",disease
+C0019159,Hepatitis A,disease
+C0019196,Hepatitis C,disease
+C0524910,"Hepatitis C, Chronic",disease
+C1956384,Hepatitis D,disease
+C0019101,Hemorrhagic Fever with Renal Syndrome,disease
+C0086066,Common Cold,disease
+C0001857,AIDS-Related Complex,disease
+C0007894,Cestode Infections,disease
+C0013502,Echinococcosis,disease
+C0013504,"Echinococcosis, Hepatic",disease
+C0025530,Trematode Infections,disease
+C0015652,Fascioliasis,disease
+C0277005,Opisthorchiasis,disease
+C0036323,Schistosomiasis,disease
+C0021832,"Intestinal Diseases, Parasitic",disease
+C0023897,"Liver Diseases, Parasitic",disease
+C0024118,"Lung Diseases, Parasitic",disease
+C0002438,Amebiasis,disease
+C0040558,Toxoplasmosis,disease
+C0023290,"Leishmaniasis, Visceral",disease
+C0027333,"Trypanosomiasis, African",disease
+C0024530,Malaria,disease
+C0024535,"Malaria, Falciparum",disease
+C0040921,Trichomonas Infections,disease
+C0010709,Cysts,disease
+C0751615,Arachnoid Cysts,disease
+C0011649,Dermoid Cyst,disease
+C0023418,Leukemia,disease
+C0023443,"Leukemia, Hairy Cell",disease
+C0023448,"Leukemia, Lymphoid",disease
+C0023466,"Leukemia, Myeloid",disease
+C1879321,"Leukemia, Myeloid, Acute",disease
+C0023487,"Leukemia, Promyelocytic, Acute",disease
+C0024299,Lymphoma,disease
+C1334968,Hodgkin Disease,disease
+C4721532,"Lymphoma, Non-Hodgkin",disease
+C0079746,"Lymphoma, Large-Cell, Immunoblastic",disease
+C0079773,"Lymphoma, T-Cell, Cutaneous",disease
+C0023798,Lipoma,disease
+C0027149,Myxoma,disease
+C0023267,Leiomyoma,disease
+C0023269,Leiomyosarcoma,disease
+C0027095,Myosarcoma,disease
+C0206660,Germinoma,disease
+C0278875,Craniopharyngioma,disease
+C0017638,Glioma,disease
+C0001432,"Adenoma, Chromophobe",disease
+C0025202,Melanoma,disease
+C0027809,Neurilemmoma,disease
+C1879828,Teratoma,disease
+C0008497,Choriocarcinoma,disease
+C0001430,Adenoma,disease
+C0007097,Carcinoma,disease
+C0001418,Adenocarcinoma,disease
+C2239176,"Carcinoma, Hepatocellular",disease
+C0279702,"Carcinoma, Renal Cell",disease
+C0007133,"Carcinoma, Papillary",disease
+C0007137,"Carcinoma, Squamous Cell",disease
+C0281784,Meningioma,disease
+C0026764,Multiple Myeloma,disease
+C0032131,Plasmacytoma,disease
+C0024419,Waldenstrom Macroglobulinemia,disease
+C0346990,Peritoneal Neoplasms,disease
+C0035358,Retroperitoneal Neoplasms,disease
+C0685938,Gastrointestinal Neoplasms,disease
+C0546837,Esophageal Neoplasms,disease
+C0021841,Intestinal Neoplasms,disease
+C0007528,Cecal Neoplasms,disease
+C0009402,Colorectal Neoplasms,disease
+C0007113,Rectal Neoplasms,disease
+C0024623,Stomach Neoplasms,disease
+C0345904,Liver Neoplasms,disease
+C0030297,Pancreatic Neoplasms,disease
+C1140680,Ovarian Neoplasms,disease
+C0030521,Parathyroid Neoplasms,disease
+C0032019,Pituitary Neoplasms,disease
+C0027533,Head and Neck Neoplasms,disease
+C0015461,Facial Neoplasms,disease
+C0026640,Mouth Neoplasms,disease
+C0007107,Laryngeal Neoplasms,disease
+C2349952,Oropharyngeal Neoplasms,disease
+C0376544,Hematologic Neoplasms,disease
+C0006118,Brain Neoplasms,disease
+C0007798,Cerebral Ventricle Neoplasms,disease
+C0751300,Meningeal Neoplasms,disease
+C0153646,Spinal Cord Neoplasms,disease
+C0282606,Muscle Neoplasms,disease
+C1959584,Heart Neoplasms,disease
+C0153504,Mediastinal Neoplasms,disease
+C0024121,Lung Neoplasms,disease
+C0007131,"Carcinoma, Non-Small-Cell Lung",disease
+C0751552,Thymus Neoplasms,disease
+C0153567,Uterine Neoplasms,disease
+C0376358,Prostatic Neoplasms,disease
+C0751571,Urologic Neoplasms,disease
+C0022665,Kidney Neoplasms,disease
+C0027663,"Neoplasms, Multiple Primary",disease
+C0027643,"Neoplasm Recurrence, Local",disease
+C0030472,Paraneoplastic Syndromes,disease
+C0001193,Acrocephalosyndactylia,disease
+C4721845,Marfan Syndrome,disease
+C0001206,Acromegaly,disease
+C0029458,"Osteoporosis, Postmenopausal",disease
+C0029420,Osteochondritis,disease
+C0022821,Kyphosis,disease
+C0038013,"Spondylitis, Ankylosing",disease
+C0015645,Fasciitis,disease
+C0039496,Temporomandibular Joint Dysfunction Syndrome,disease
+C0003864,Arthritis,disease
+C0086743,Osteoarthritis,disease
+C0009917,Contracture,disease
+C0026848,Muscular Diseases,disease
+C0949496,Mitochondrial Myopathies,disease
+C0026821,Muscle Cramp,symptom
+C0151786,Muscle Weakness,symptom
+C0026850,Muscular Dystrophies,disease
+C0270952,"Muscular Dystrophy, Oculopharyngeal",disease
+C0544796,Myositis,disease
+C0263666,Dermatomyositis,disease
+C0027127,Myotonia Congenita,disease
+C0032533,Polymyalgia Rheumatica,disease
+C0027080,Myoglobinuria,disease
+C0035435,Rheumatic Diseases,disease
+C0005424,Biliary Tract Diseases,disease
+C0005416,Biliary Dyskinesia,disease
+C0008350,Cholelithiasis,disease
+C0009438,Gallstones,disease
+C0014012,Cholecystitis,disease
+C0559031,Gastrointestinal Diseases,disease
+C0011168,Deglutition Disorders,disease
+C1527226,CREST Syndrome,disease
+C0017168,Gastroesophageal Reflux,disease
+C0014868,Esophagitis,disease
+C0009324,"Colitis, Ulcerative",disease
+C0017152,Gastritis,disease
+C0949272,Crohn Disease,disease
+C0021831,Intestinal Diseases,disease
+C0007527,Cecal Diseases,disease
+C0022104,Irritable Bowel Syndrome,disease
+C0038828,Superior Mesenteric Artery Syndrome,disease
+C0030920,Peptic Ulcer,disease
+C0010474,Duodenal Ulcer,disease
+C0021933,Intussusception,disease
+C0038354,Stomach Diseases,disease
+C0032763,Postgastrectomy Syndromes,disease
+C0013288,Dumping Syndrome,disease
+C0023895,Liver Diseases,disease
+C0019158,Hepatitis,disease
+C0020541,"Hypertension, Portal",disease
+C1527396,Cystic Fibrosis,disease
+C0267963,Exocrine Pancreatic Insufficiency,disease
+C0004096,Asthma,disease
+C0264600,Voice Disorders,symptom
+C0036205,"Sarcoidosis, Pulmonary",disease
+C1527303,"Pulmonary Disease, Chronic Obstructive",disease
+C0032285,Pneumonia,disease
+C0030469,Paranasal Sinus Diseases,disease
+C0037199,Sinusitis,disease
+C0018621,"Rhinitis, Allergic, Seasonal",disease
+C0008733,Chylothorax,disease
+C0032231,Pleurisy,disease
+C0037315,Sleep Apnea Syndromes,disease
+C0010200,Cough,symptom
+C0085619,Dyspnea,symptom
+C0020578,Hyperventilation,symptom
+C0340194,Respiratory Insufficiency,disease
+C0155503,Vertigo,symptom
+C0026769,Multiple Sclerosis,disease
+C0751967,"Multiple Sclerosis, Relapsing-Remitting",disease
+C0026896,Myasthenia Gravis,disease
+C0013364,"Dysautonomia, Familial",disease
+C1956391,Giant Cell Arteritis,disease
+C0393912,Autonomic Nervous System Diseases,disease
+C0020651,"Hypotension, Orthostatic",disease
+C0007682,Central Nervous System Diseases,disease
+C0015371,Basal Ganglia Diseases,disease
+C0030567,Parkinson Disease,disease
+C0030568,"Parkinson Disease, Postencephalitic",disease
+C0006109,"Brain Damage, Chronic",disease
+C0162309,Adrenoleukodystrophy,disease
+C0017205,Gaucher Disease,disease
+C0270611,Brain Injuries,disease
+C0006107,Brain Concussion,disease
+C0007758,Cerebellar Ataxia,symptom
+C0007786,Brain Ischemia,disease
+C0007785,Cerebral Infarction,disease
+C0007787,"Ischemic Attack, Transient",disease
+C0751572,Vertebrobasilar Insufficiency,disease
+C0007273,Carotid Artery Diseases,disease
+C0877854,Intracranial Arteriosclerosis,disease
+C2937358,Cerebral Hemorrhage,disease
+C0795688,Subarachnoid Hemorrhage,disease
+C0751956,Stroke,disease
+C0014544,Epilepsy,disease
+C0393675,"Epilepsies, Partial",disease
+C0017332,"Epilepsy, Generalized",disease
+C0014553,"Epilepsy, Absence",disease
+C0270858,Migraine Disorders,disease
+C0549423,Hydrocephalus,disease
+C0014008,Empty Sella Syndrome,disease
+C0242342,Hypopituitarism,disease
+C0221057,Thalamic Diseases,disease
+C0003708,Arachnoiditis,disease
+C0026650,Movement Disorders,disease
+C0751647,"Akathisia, Drug-Induced",symptom
+C0037928,Spinal Cord Diseases,disease
+C0002736,Amyotrophic Lateral Sclerosis,disease
+C0742803,Spinal Cord Compression,disease
+C3854373,Syringomyelia,disease
+C0751059,Cranial Nerve Diseases,disease
+C0344247,Strabismus,disease
+C0393786,Trigeminal Neuralgia,disease
+C0011303,Demyelinating Diseases,disease
+C4721916,"Spastic Paraplegia, Hereditary",disease
+C0080218,Neural Tube Defects,disease
+C0080178,Spinal Dysraphism,disease
+C0342608,"Amyloid Neuropathies, Familial",disease
+C0750937,Ataxia,symptom
+C0233565,Hypokinesia,symptom
+C0021712,Myoclonus,symptom
+C0007398,Catatonia,symptom
+C0234482,Aphasia,symptom
+C0751527,Stuttering,symptom
+C0154333,Delirium,symptom
+C0549249,Consciousness Disorders,symptom
+C0041657,Unconsciousness,symptom
+C0700200,Syncope,symptom
+C0002622,Amnesia,symptom
+C0751418,Perceptual Disorders,symptom
+C0544668,Hallucinations,symptom
+C5441816,Psychomotor Disorders,symptom
+C3495144,Apraxias,symptom
+C0026846,Muscular Atrophy,symptom
+C0235229,Spasm,symptom
+C0917812,Tetany,symptom
+C0750949,Back Pain,symptom
+C0877781,Headache,symptom
+C0007859,Neck Pain,symptom
+C0027796,Neuralgia,symptom
+C0030200,"Pain, Intractable",symptom
+C0234544,Paralysis,symptom
+C0277850,"Reflex, Abnormal",symptom
+C0220870,Dizziness,symptom
+C0020580,Hypesthesia,symptom
+C0392699,Paresthesia,symptom
+C3665347,Vision Disorders,symptom
+C1879328,Blindness,symptom
+C0271186,Diplopia,symptom
+C4721453,Peripheral Nervous System Diseases,disease
+C0221759,Brachial Plexus Neuritis,disease
+C0393835,Diabetic Neuropathies,disease
+C0007286,Carpal Tunnel Syndrome,disease
+C0393851,Polyneuropathies,disease
+C0751851,Arsenic Poisoning,disease
+C0917799,Disorders of Excessive Somnolence,disease
+C0035258,Restless Legs Syndrome,disease
+C0751181,Craniocerebral Trauma,disease
+C0085094,"Head Injuries, Closed",disease
+C0022577,"Conjunctivitis, Allergic",disease
+C0022568,Keratitis,disease
+C0005745,Blepharoptosis,disease
+C5197850,Dry Eye Syndromes,disease
+C0018213,Graves Disease,disease
+C0028960,Oligospermia,disease
+C1704272,Prostatic Hyperplasia,disease
+C0033581,Prostatitis,disease
+C0001627,"Adrenal Hyperplasia, Congenital",disease
+C0011848,Diabetes Insipidus,disease
+C0687720,"Diabetes Insipidus, Neurogenic",disease
+C0341703,Fanconi Syndrome,disease
+C0027707,"Nephritis, Interstitial",disease
+C0022660,Acute Kidney Injury,disease
+C0022661,"Kidney Failure, Chronic",disease
+C0004775,Bartter Syndrome,disease
+C0268450,Gitelman Syndrome,disease
+C0282201,"Hypophosphatemia, Familial",disease
+C0033687,Proteinuria,symptom
+C0042134,Uterine Hemorrhage,disease
+C5545313,Pregnancy Complications,disease
+C0013949,Fetal Diseases,disease
+C0269899,Postpartum Hemorrhage,disease
+C0032045,Placenta Diseases,disease
+C0032963,"Pregnancy Complications, Cardiovascular",disease
+C0034040,Puerperal Disorders,disease
+C0022927,Lactation Disorders,disease
+C0018798,"Heart Defects, Congenital",disease
+C0018817,"Heart Septal Defects, Atrial",disease
+C0018799,Heart Diseases,disease
+C0003811,"Arrhythmias, Cardiac",disease
+C0428908,Sick Sinus Syndrome,disease
+C3468561,Atrial Fibrillation,disease
+C0004239,Atrial Flutter,disease
+C0428977,Bradycardia,disease
+C0340464,"Cardiac Complexes, Premature",disease
+C0006384,Bundle-Branch Block,disease
+C0080203,Tachycardia,disease
+C0039240,"Tachycardia, Supraventricular",disease
+C0018789,Heart Aneurysm,disease
+C0018801,Heart Failure,disease
+C0026267,Mitral Valve Prolapse,disease
+C0040961,Tricuspid Valve Insufficiency,disease
+C0002962,Angina Pectoris,symptom
+C0086666,"Angina, Unstable",symptom
+C0010068,Coronary Disease,disease
+C0010051,Coronary Aneurysm,disease
+C0027051,Myocardial Infarction,disease
+C1861172,Venous Thromboembolism,disease
+C0010403,Cryoglobulinemia,disease
+C0013720,Ehlers-Danlos Syndrome,disease
+C0036474,Scurvy,disease
+C0039445,"Telangiectasia, Hereditary Hemorrhagic",disease
+C0020649,Hypotension,disease
+C0042345,Varicose Veins,disease
+C0042384,Vasculitis,disease
+C0026691,Mucocutaneous Lymph Node Syndrome,disease
+C0018939,Hematologic Diseases,disease
+C0002871,Anemia,disease
+C0178416,"Anemia, Aplastic",disease
+C0002878,"Anemia, Hemolytic",disease
+C0175816,"Anemia, Hemolytic, Autoimmune",disease
+C0085578,beta-Thalassemia,disease
+C0002884,"Anemia, Hypochromic",disease
+C0002888,"Anemia, Megaloblastic",disease
+C3494186,Hemophilia A,disease
+C0043194,Wiskott-Aldrich Syndrome,disease
+C0034150,Purpura,symptom
+C0013374,Dysgammaglobulinemia,disease
+C0030489,Paraproteinemias,disease
+C0014457,Eosinophilia,disease
+C0023518,Leukocytosis,disease
+C0024228,Lymphatic Diseases,disease
+C0001416,Lymphadenitis,disease
+C0020981,Immunoblastic Lymphadenopathy,disease
+C0036202,Sarcoidosis,disease
+C0037997,Splenic Diseases,disease
+C0016751,Fructose Intolerance,disease
+C2931187,Cystinosis,disease
+C0392514,Hemochromatosis,disease
+C0032708,Porphyrias,disease
+C0024141,"Lupus Erythematosus, Systemic",disease
+C0162824,"Dermatitis, Photoallergic",disease
+C0406537,Drug Eruptions,disease
+C0015230,Exanthema,disease
+C0002171,Alopecia Areata,disease
+C0022283,Pigmentation Disorders,disease
+C0162834,Hyperpigmentation,disease
+C0030246,Psoriasis,disease
+C0042109,Urticaria,disease
+C0011880,Diabetic Ketoacidosis,disease
+C0002063,Alkalosis,disease
+C0026141,Hypercalcemia,disease
+C0342302,"Diabetes Mellitus, Type 1",disease
+C1257963,Hyperinsulinism,disease
+C0271708,Hypoglycemia,disease
+C0020443,Hypercholesterolemia,disease
+C0002726,Amyloidosis,disease
+C0020488,Hypernatremia,disease
+C0020621,Hypokalemia,disease
+C0020625,Hyponatremia,disease
+C3714509,Nutrition Disorders,disease
+C0011156,Deficiency Diseases,disease
+C1510471,Avitaminosis,disease
+C0003969,Ascorbic Acid Deficiency,disease
+C0042850,Vitamin B Deficiency,disease
+C0042847,Vitamin B 12 Deficiency,disease
+C0024473,Magnesium Deficiency,disease
+C0033626,Protein Deficiency,disease
+C0001621,Adrenal Gland Diseases,disease
+C0001623,Adrenal Insufficiency,disease
+C0001403,Addison Disease,disease
+C0001622,Adrenocortical Hyperfunction,disease
+C0010481,Cushing Syndrome,disease
+C1384514,Hyperaldosteronism,disease
+C1263960,Diabetic Coma,disease
+C0020502,Hyperparathyroidism,disease
+C0221002,"Hyperparathyroidism, Primary",disease
+C0085859,"Polyendocrinopathies, Autoimmune",disease
+C0040128,Thyroid Diseases,disease
+C0018021,Goiter,disease
+C3714618,Hyperthyroidism,disease
+C0040127,Thyroid Crisis,disease
+C3665349,Hypothyroidism,disease
+C0920350,"Thyroiditis, Autoimmune",disease
+C0085278,Antiphospholipid Syndrome,disease
+C1527304,Hypersensitivity,disease
+C0013182,Drug Hypersensitivity,disease
+C0282504,Environmental Illness,disease
+C0037050,Sick Building Syndrome,disease
+C0020522,"Hypersensitivity, Delayed",disease
+C0016470,Food Hypersensitivity,disease
+C0001546,Adjustment Disorders,disease
+C0376280,Anxiety Disorders,disease
+C0027821,Neurocirculatory Asthenia,disease
+C0028768,Obsessive-Compulsive Disorder,disease
+C0086769,Panic Disorder,disease
+C0031570,Phobic Disorders,disease
+C0003125,Anorexia Nervosa,disease
+C0026785,Munchausen Syndrome,disease
+C0008066,Child Behavior Disorders,disease
+C0036346,"Schizophrenia, Childhood",disease
+C0525045,Mood Disorders,disease
+C0001723,"Affective Disorders, Psychotic",disease
+C0005586,Bipolar Disorder,disease
+C0086133,Depressive Disorder,disease
+C1571984,"Depressive Disorder, Major",disease
+C0027932,Neurotic Disorders,disease
+C0027402,Personality Disorders,disease
+C0233523,Antisocial Personality Disorder,disease
+C0006012,Borderline Personality Disorder,disease
+C0019681,Histrionic Personality Disorder,disease
+C0086441,Hysteria,disease
+C0036339,Schizoid Personality Disorder,disease
+C1456784,Paranoid Disorders,disease
+C0033958,Psychotic Disorders,disease
+C0036341,Schizophrenia,disease
+C0020604,Hypochondriasis,disease
+C0027804,Neurasthenia,disease
+C0740858,Substance-Related Disorders,disease
+C1297882,Trisomy,disease
+C0018944,Hematoma,disease
+C0220994,Hyperammonemia,disease
+C0242183,Jaundice,symptom
+C0032519,Menstruation Disturbances,disease
+C0032796,Amenorrhea,disease
+C0027540,Necrosis,disease
+C0032787,Postoperative Complications,disease
+C0024591,Malignant Hyperthermia,disease
+C0033936,"Psychoses, Alcoholic",disease
+C0032343,Poisoning,disease
+C0007020,Carbon Monoxide Poisoning,disease
+C0023176,Lead Poisoning,disease
+C0033941,"Psychoses, Substance-Induced",disease
+C0086189,Substance Withdrawal Syndrome,disease
+C0006434,Burns,disease
+C0015459,Facial Injuries,disease
+C1321580,Bezoars,disease
+C2862185,Tibial Fractures,disease
+C0004623,Bacterial Infections,disease
+C0752180,Central Nervous System Bacterial Infections,disease
+C0006105,Brain Abscess,disease
+C0038539,"Empyema, Subdural",disease
+C0270629,Epidural Abscess,disease
+C0085437,"Meningitis, Bacterial",disease
+C0917807,"Meningitis, Haemophilus",disease
+C0343442,"Meningitis, Listeria",disease
+C0751312,"Meningitis, Pneumococcal",disease
+C0751568,"Tuberculosis, Meningeal",disease
+C0343686,Neurosyphilis,disease
+C0014121,"Endocarditis, Bacterial",disease
+C0014122,"Endocarditis, Subacute Bacterial",disease
+C0015404,"Eye Infections, Bacterial",disease
+C0009768,"Conjunctivitis, Bacterial",disease
+C0041322,"Tuberculosis, Ocular",disease
+C0238419,Fournier Gangrene,disease
+C0085423,Gram-Negative Bacterial Infections,disease
+C0018476,Anaplasmataceae Infections,disease
+C0343771,Ehrlichiosis,disease
+C0018835,Heartwater Disease,disease
+C0085392,Bacteroidaceae Infections,disease
+C0004669,Bacteroides Infections,disease
+C0029307,Bartonella Infections,disease
+C0343770,"Angiomatosis, Bacillary",disease
+C0007361,Cat-Scratch Disease,disease
+C0040830,Trench Fever,disease
+C0043167,Whooping Cough,disease
+C0006035,Borrelia Infections,disease
+C0024198,Lyme Disease,disease
+C0014740,Erythema Chronicum Migrans,disease
+C0035021,Relapsing Fever,disease
+C0282677,Burkholderia Infections,disease
+C0025229,Melioidosis,disease
+C0006818,Campylobacter Infections,disease
+C0008149,Chlamydia Infections,disease
+C0887976,Chlamydophila Infections,disease
+C0014347,Enterobacteriaceae Infections,disease
+C1257869,"Dysentery, Bacillary",disease
+C0014836,Escherichia coli Infections,disease
+C0022729,Klebsiella Infections,disease
+C0033700,Proteus Infections,disease
+C0036117,Salmonella Infections,disease
+C0030528,Paratyphoid Fever,disease
+C0036114,Salmonella Food Poisoning,disease
+C0036118,"Salmonella Infections, Animal",disease
+C0085394,Serratia Infections,disease
+C0238528,Yersinia Infections,disease
+C0032064,Plague,disease
+C0043410,Yersinia pseudotuberculosis Infections,disease
+C0027537,Fusobacterium Infections,disease
+C0343525,Lemierre Syndrome,disease
+C0034686,Rat-Bite Fever,disease
+C0023240,Legionellosis,disease
+C0023241,Legionnaires' Disease,disease
+C0023364,Leptospirosis,disease
+C0043102,Weil Disease,disease
+C1258225,Moraxellaceae Infections,disease
+C0001139,Acinetobacter Infections,disease
+C0026945,Mycoplasmatales Infections,disease
+C0026936,Mycoplasma Infections,disease
+C0032243,"Pleuropneumonia, Contagious",disease
+C0032302,"Pneumonia, Mycoplasma",disease
+C0085395,Ureaplasma Infections,disease
+C0085396,Neisseriaceae Infections,disease
+C0018081,Gonorrhea,disease
+C0001249,Actinobacillus Infections,disease
+C2028293,Haemophilus Infections,disease
+C0030636,Pasteurella Infections,disease
+C0033817,Pseudomonas Infections,disease
+C1443892,Q Fever,disease
+C0035592,Rickettsiaceae Infections,disease
+C0035585,Rickettsia Infections,disease
+C0006060,Boutonneuse Fever,disease
+C0035793,Rocky Mountain Spotted Fever,disease
+C0041472,"Typhus, Endemic Flea-Borne",disease
+C0006181,"Typhus, Epidemic Louse-Borne",disease
+C0036472,Scrub Typhus,disease
+C0162699,Tick-Borne Diseases,disease
+C0004945,Treponemal Infections,disease
+C0007939,Chancre,disease
+C0020186,"Syphilis, Congenital",disease
+C0039132,"Syphilis, Cutaneous",disease
+C0039133,"Syphilis, Latent",disease
+C0042636,Vibrio Infections,disease
+C0008354,Cholera,disease
+C0085426,Gram-Positive Bacterial Infections,disease
+C0001255,Actinomycetales Infections,disease
+C0001261,Actinomycosis,disease
+C0023788,Whipple Disease,disease
+C0010153,Corynebacterium Infections,disease
+C0026918,Mycobacterium Infections,disease
+C1562585,"Leprosy, Multibacillary",disease
+C0023348,"Leprosy, Lepromatous",disease
+C0023346,"Leprosy, Borderline",disease
+C0026916,Mycobacterium avium-intracellulare Infection,disease
+C0030524,Paratuberculosis,disease
+C0041325,"Peritonitis, Tuberculous",disease
+C0041295,Tuberculoma,disease
+C0085388,"Tuberculoma, Intracranial",disease
+C0041307,"Tuberculosis, Bovine",disease
+C0041308,"Tuberculosis, Cardiovascular",disease
+C0031049,"Pericarditis, Tuberculous",disease
+C0275904,"Tuberculosis, Central Nervous System",disease
+C0343029,"Tuberculosis, Cutaneous",disease
+C0024131,Lupus Vulgaris,disease
+C0041312,"Tuberculosis, Gastrointestinal",disease
+C0041313,"Tuberculosis, Hepatic",disease
+C0041315,"Tuberculosis, Laryngeal",disease
+C0036467,"Tuberculosis, Lymph Node",disease
+C0041321,"Tuberculosis, Miliary",disease
+C0206525,"Tuberculosis, Multidrug-Resistant",disease
+C0041323,"Tuberculosis, Oral",disease
+C0022415,"Tuberculosis, Osteoarticular",disease
+C0041326,"Tuberculosis, Pleural",disease
+C0041331,"Tuberculosis, Splenic",disease
+C0041333,"Tuberculosis, Urogenital",disease
+C0041311,"Tuberculosis, Female Genital",disease
+C0041317,"Tuberculosis, Male Genital",disease
+C0041328,"Tuberculosis, Renal",disease
+C0028242,Nocardia Infections,disease
+C2355609,Mycetoma,disease
+C0003175,Anthrax,disease
+C0343386,Clostridium Infections,disease
+C0017105,Gas Gangrene,disease
+C1276801,Erysipeloid,disease
+C0023860,Listeriosis,disease
+C0032308,"Pneumonia, Staphylococcal",disease
+C0038159,Staphylococcal Food Poisoning,disease
+C0038166,Staphylococcal Skin Infections,disease
+C0007078,Carbuncle,disease
+C0376186,Impetigo,disease
+C0038165,Staphylococcal Scalded Skin Syndrome,disease
+C0554628,Streptococcal Infections,disease
+C0013568,Ecthyma,disease
+C0014733,Erysipelas,disease
+C0032269,Pneumococcal Infections,disease
+C0155862,"Pneumonia, Pneumococcal",disease
+C0036285,Scarlet Fever,disease
+C0004626,"Pneumonia, Bacterial",disease
+C0162627,"Skin Diseases, Bacterial",disease
+C0238124,"Fasciitis, Necrotizing",disease
+C0085166,"Vaginosis, Bacterial",disease
+C0085315,"Toxoplasmosis, Cerebral",disease
+C0007684,Central Nervous System Infections,disease
+C0085808,"Aneurysm, Infected",disease
+C0003869,"Arthritis, Infectious",disease
+C0085435,"Arthritis, Reactive",disease
+C0005943,"Bone Diseases, Infectious",disease
+C0029400,Osteitis,disease
+C0029443,Osteomyelitis,disease
+C0031111,Periostitis,disease
+C0038012,Spondylitis,disease
+C0860239,Catheter-Related Infections,disease
+C0009450,Communicable Diseases,disease
+C0872315,"Communicable Diseases, Emerging",disease
+C0206171,Community-Acquired Infections,disease
+C1701940,"Pneumonia, Ventilator-Associated",disease
+C0015403,Eye Infections,disease
+C0014236,Endophthalmitis,disease
+C0016397,Focal Infection,disease
+C0016398,"Focal Infection, Dental",disease
+C0029118,Opportunistic Infections,disease
+C0162526,AIDS-Related Opportunistic Infections,disease
+C0038826,Superinfection,disease
+C0030790,Pelvic Infection,disease
+C0001577,Pelvic Inflammatory Disease,disease
+C0000817,"Abortion, Septic",disease
+C0034041,Puerperal Infection,disease
+C0085073,Prosthesis-Related Infections,disease
+C0014013,"Empyema, Pleural",disease
+C0376618,Endotoxemia,disease
+C0085082,Fungemia,disease
+C0036981,"Shock, Septic",disease
+C0037278,"Skin Diseases, Infectious",disease
+C0031557,Cellulitis,disease
+C0005717,Blastomycosis,disease
+C0864813,Sporotrichosis,disease
+C4505442,Tinea,disease
+C0276742,Tinea Capitis,disease
+C0149778,Soft Tissue Infections,disease
+C0034161,Suppuration,disease
+C0000833,Abscess,disease
+C0243001,Abdominal Abscess,disease
+C0023885,Liver Abscess,disease
+C1527403,"Liver Abscess, Amebic",disease
+C0267830,"Liver Abscess, Pyogenic",disease
+C0038565,Subphrenic Abscess,disease
+C0024110,Lung Abscess,disease
+C0031024,Periapical Abscess,disease
+C0031085,Periodontal Abscess,disease
+C0031157,Peritonsillar Abscess,disease
+C0085222,Psoas Abscess,disease
+C0155843,Retropharyngeal Abscess,disease
+C0014009,Empyema,disease
+C0029888,"Otitis Media, Suppurative",disease
+C1704275,Pyomyositis,disease
+C0040150,"Thyroiditis, Suppurative",disease
+C0040524,Toxemia,disease
+C0042029,Urinary Tract Infections,disease
+C0004659,Bacteriuria,disease
+C0034359,Pyuria,disease
+C1704430,Schistosomiasis haematobia,disease
+C0043241,Wound Infection,disease
+C0038941,Surgical Wound Infection,disease
+C0004030,Aspergillosis,disease
+C0004031,"Aspergillosis, Allergic Bronchopulmonary",disease
+C0006840,Candidiasis,disease
+C0006849,"Candidiasis, Oral",disease
+C0085436,"Meningitis, Cryptococcal",disease
+C0009186,Coccidioidomycosis,disease
+C3888929,Cryptococcosis,disease
+C1535939,"Pneumonia, Pneumocystis",disease
+C0085407,Microsporidiosis,disease
+C0343961,Zygomycosis,disease
+C0026718,Mucormycosis,disease
+C0043528,Zoonoses,disease
+C0003723,Arbovirus Infections,disease
+C0005866,Bluetongue,disease
+C0011311,Dengue,disease
+C0014055,"Encephalitis, Arbovirus",disease
+C0014053,"Encephalitis, California",disease
+C0014057,"Encephalitis, Japanese",disease
+C0014060,"Encephalitis, St. Louis",disease
+C0015632,"Encephalitis, Tick-Borne",disease
+C0751583,West Nile Fever,disease
+C0014074,"Encephalomyelitis, Equine",disease
+C0153065,"Encephalomyelitis, Eastern Equine",disease
+C0014078,"Encephalomyelitis, Venezuelan Equine",disease
+C0030372,Phlebotomus Fever,disease
+C0035613,Rift Valley Fever,disease
+C0001752,African Swine Fever,disease
+C0009400,Colorado Tick Fever,disease
+C0019099,"Hemorrhagic Fever, Crimean",disease
+C0043395,Yellow Fever,disease
+C0006274,"Bronchiolitis, Viral",disease
+C0348165,Central Nervous System Viral Diseases,disease
+C0243010,"Encephalitis, Viral",disease
+C0001338,"Encephalitis, Herpes Simplex",disease
+C0153017,"Encephalitis, Varicella Zoster",disease
+C0023524,"Leukoencephalopathy, Progressive Multifocal",disease
+C0038522,Subacute Sclerosing Panencephalitis,disease
+C0024266,Lymphocytic Choriomeningitis,disease
+C0025290,"Meningitis, Aseptic",disease
+C0026975,Myelitis,disease
+C0030481,"Paraparesis, Tropical Spastic",disease
+C0012922,DNA Virus Infections,disease
+C0001486,Adenoviridae Infections,disease
+C0001487,"Adenovirus Infections, Human",disease
+C0524909,"Hepatitis B, Chronic",disease
+C0019372,Herpesviridae Infections,disease
+C0008049,Chickenpox,disease
+C0206178,Cytomegalovirus Retinitis,disease
+C0149678,Epstein-Barr Virus Infections,disease
+C4721444,Burkitt Lymphoma,disease
+C0019348,Herpes Simplex,disease
+C0019342,Herpes Genitalis,disease
+C0019345,Herpes Labialis,disease
+C0022504,Kaposi Varicelliform Eruption,disease
+C0019357,"Keratitis, Herpetic",disease
+C0022570,"Keratitis, Dendritic",disease
+C0038366,"Stomatitis, Herpetic",disease
+C0019360,Herpes Zoster,disease
+C0019364,Herpes Zoster Ophthalmicus,disease
+C0021334,Infectious Bovine Rhinotracheitis,disease
+C0276241,Malignant Catarrh,disease
+C0376549,Roseolovirus Infections,disease
+C0015231,Exanthema Subitum,disease
+C0950124,Papillomavirus Infections,disease
+C0009663,Condylomata Acuminata,disease
+C0276275,Parvoviridae Infections,disease
+C0085273,Erythema Infectiosum,disease
+C0026143,Poxviridae Infections,disease
+C0010232,Cowpox,disease
+C0024106,Lumpy Skin Disease,disease
+C0276180,Monkeypox,disease
+C0001906,Smallpox,disease
+C0042214,Vaccinia,disease
+C0015407,"Eye Infections, Viral",disease
+C0009774,"Conjunctivitis, Viral",disease
+C0019195,"Hepatitis, Viral, Human",disease
+C0085293,Hepatitis E,disease
+C0032310,"Pneumonia, Viral",disease
+C0035690,RNA Virus Infections,disease
+C0282192,"Hemorrhagic Fever, American",disease
+C0023092,Lassa Fever,disease
+C0376550,Astroviridae Infections,disease
+C0085933,Bunyaviridae Infections,disease
+C0242994,Hantavirus Infections,disease
+C0206044,Caliciviridae Infections,disease
+C0206608,Flavivirus Infections,disease
+C0024025,Louping Ill,disease
+C0006075,Bovine Virus Diarrhea-Mucosal Disease,disease
+C0019841,Classical Swine Fever,disease
+C0019104,"Hemorrhagic Fevers, Viral",disease
+C0282687,"Hemorrhagic Fever, Ebola",disease
+C0024788,Marburg Virus Disease,disease
+C0206613,Paramyxoviridae Infections,disease
+C0027983,Newcastle Disease,disease
+C0205740,Distemper,disease
+C0025007,Measles,disease
+C0035637,Rinderpest,disease
+C3714630,Respirovirus Infections,disease
+C0026780,Mumps,disease
+C0014481,Ephemeral Fever,disease
+C0034494,Rabies,disease
+C0376538,Porcine Reproductive and Respiratory Syndrome,disease
+C0206750,Coronavirus Infections,disease
+C1175175,Severe Acute Respiratory Syndrome,disease
+C0021400,"Influenza, Human",disease
+C0016627,Influenza in Birds,disease
+C0031887,Picornaviridae Infections,disease
+C0206617,Cardiovirus Infections,disease
+C0014378,Enterovirus Infections,disease
+C0010246,Coxsackievirus Infections,disease
+C0018572,"Hand, Foot and Mouth Disease",disease
+C0032238,"Pleurodynia, Epidemic",disease
+C0013533,Echovirus Infections,disease
+C0016514,Foot-and-Mouth Disease,disease
+C0035112,Reoviridae Infections,disease
+C0035869,Rotavirus Infections,disease
+C0035369,Retroviridae Infections,disease
+C0020097,HTLV-I Infections,disease
+C0014661,Equine Infectious Anemia,disease
+C0001849,AIDS Dementia Complex,disease
+C0019699,HIV Seropositivity,disease
+C0080151,Simian Acquired Immunodeficiency Syndrome,disease
+C0040361,Togaviridae Infections,disease
+C0919833,Alphavirus Infections,disease
+C0035920,Rubella,disease
+C0162628,"Skin Diseases, Viral",disease
+C0030357,Tumor Virus Infections,disease
+C0042749,Viremia,disease
+C0752181,Central Nervous System Parasitic Infections,disease
+C5235044,Neurocysticercosis,disease
+C0752191,Neuroschistosomiasis,disease
+C0751628,"Malaria, Cerebral",disease
+C0027585,Helminthiasis,disease
+C0037753,Sparganosis,disease
+C0013505,"Echinococcosis, Pulmonary",disease
+C0038459,"Strongyle Infections, Equine",disease
+C0040553,Toxocariasis,disease
+C0006897,Enoplida Infections,disease
+C2713585,Trichinellosis,disease
+C0040954,Trichuriasis,disease
+C0546999,Larva Migrans,disease
+C0023049,"Larva Migrans, Visceral",disease
+C0162576,Anisakiasis,disease
+C0003950,Ascariasis,disease
+C0086227,Enterobiasis,disease
+C0085810,Strongyloidiasis,disease
+C0013755,Filariasis,disease
+C0013884,"Elephantiasis, Filarial",disease
+C0023968,Loiasis,disease
+C3489414,Mansonelliasis,disease
+C0029001,Onchocerciasis,disease
+C0162637,Strongylida Infections,disease
+C0006389,Hookworm Infections,disease
+C0009021,Clonorchiasis,disease
+C0030424,Paragonimiasis,disease
+C0036329,Schistosomiasis japonica,disease
+C0036330,Schistosomiasis mansoni,disease
+C0085313,Blastocystis Infections,disease
+C0010418,Cryptosporidiosis,disease
+C0013370,"Dysentery, Amebic",disease
+C0017536,Giardiasis,disease
+C0242723,Parasitemia,disease
+C0004576,Babesiosis,disease
+C0013467,Theileriasis,disease
+C0040559,"Toxoplasmosis, Animal",disease
+C0041230,"Trypanosomiasis, Bovine",disease
+C0162494,"Pregnancy Complications, Parasitic",disease
+C0033740,Protozoan Infections,disease
+C0014324,Entamoebiasis,disease
+C0005146,Coccidiosis,disease
+C0343398,Cyclosporiasis,disease
+C0751562,"Toxoplasmosis, Congenital",disease
+C0023281,Leishmaniasis,disease
+C0086540,"Leishmaniasis, Cutaneous",disease
+C0041227,Trypanosomiasis,disease
+C0041234,Chagas Disease,disease
+C0024533,"Malaria, Avian",disease
+C0005681,Blackwater Fever,disease
+C0024537,"Malaria, Vivax",disease
+C0037280,"Skin Diseases, Parasitic",disease
+C0030756,Lice Infestations,disease
+C0027030,Myiasis,disease
+C0020607,Hypodermyiasis,disease
+C0040196,Tick Infestations,disease
+C0021862,Bone Cysts,disease
+C0006281,Bronchogenic Cyst,disease
+C1257796,Choledochal Cyst,disease
+C0014511,Epidermal Cyst,disease
+C0024248,Lymphocele,disease
+C0025060,Mediastinal Cyst,disease
+C0026683,Mucocele,disease
+C0029927,Ovarian Cysts,disease
+C0032460,Polycystic Ovary Syndrome,disease
+C0030283,Pancreatic Cyst,disease
+C0030299,Pancreatic Pseudocyst,disease
+C0031925,Pilonidal Sinus,disease
+C0041915,Urachal Cyst,disease
+C0018552,Hamartoma,disease
+C0041341,Tuberous Sclerosis,disease
+C0334663,Histiocytic Sarcoma,disease
+C2004493,"Leukemia, B-Cell",disease
+C0023434,"Leukemia, Lymphocytic, Chronic, B-Cell",disease
+C0023464,"Leukemia, Biphenotypic, Acute",disease
+C0023486,"Leukemia, Prolymphocytic",disease
+C0023493,"Leukemia-Lymphoma, Adult T-Cell",disease
+C0023452,Precursor Cell Lymphoblastic Leukemia-Lymphoma,disease
+C0023485,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,disease
+C0279543,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",disease
+C0005699,Blast Crisis,disease
+C0023474,"Leukemia, Myeloid, Chronic-Phase",disease
+C0023479,"Leukemia, Myelomonocytic, Acute",disease
+C0023480,"Leukemia, Myelomonocytic, Chronic",disease
+C0023440,"Leukemia, Erythroblastic, Acute",disease
+C0023462,"Leukemia, Megakaryoblastic, Acute",disease
+C0023465,"Leukemia, Monocytic, Acute",disease
+C4721505,"Sarcoma, Myeloid",disease
+C0205828,Lymphangioma,disease
+C0206620,"Lymphangioma, Cystic",disease
+C0021071,Immunoproliferative Small Intestinal Disease,disease
+C0079731,"Lymphoma, B-Cell",disease
+C0085090,"Lymphoma, AIDS-Related",disease
+C0242647,"Lymphoma, B-Cell, Marginal Zone",disease
+C0079744,"Lymphoma, Large B-Cell, Diffuse",disease
+C0024307,Lymphomatoid Granulomatosis,disease
+C1956130,"Lymphoma, Follicular",disease
+C0206180,"Lymphoma, Large-Cell, Anaplastic",disease
+C4721414,"Lymphoma, Mantle-Cell",disease
+C0079772,"Lymphoma, T-Cell",disease
+C1301362,"Lymphoma, Primary Cutaneous Anaplastic Large Cell",disease
+C0206182,Lymphomatoid Papulosis,disease
+C0026948,Mycosis Fungoides,disease
+C0079774,"Lymphoma, T-Cell, Peripheral",disease
+C0026277,"Adenoma, Pleomorphic",disease
+C0206623,"Carcinoma, Adenosquamous",disease
+C0007140,Carcinosarcoma,disease
+C0007098,"Carcinoma 256, Walker",disease
+C0027708,Wilms Tumor,disease
+C0206629,Pulmonary Blastoma,disease
+C0206743,Rhabdoid Tumor,disease
+C0206630,"Sarcoma, Endometrial Stromal",disease
+C0206633,Angiomyolipoma,disease
+C0023827,Liposarcoma,disease
+C0206635,Myelolipoma,disease
+C0024899,Mastocytosis,disease
+C0042111,Urticaria Pigmentosa,disease
+C0221013,"Mastocytosis, Systemic",disease
+C1266121,Myofibroma,disease
+C0029440,Osteoma,disease
+C0029441,"Osteoma, Osteoid",disease
+C0029463,Osteosarcoma,disease
+C0205766,Fibroma,disease
+C0206646,"Fibromatosis, Abdominal",disease
+C0016057,Fibrosarcoma,disease
+C1509147,Histiocytoma,disease
+C0206644,"Histiocytoma, Benign Fibrous",disease
+C0206651,"Sarcoma, Clear Cell",disease
+C0039101,"Sarcoma, Synovial",disease
+C0027664,"Neoplasms, Muscle Tissue",disease
+C0206654,Leiomyomatosis,disease
+C0035412,Rhabdomyosarcoma,disease
+C0206655,"Rhabdomyosarcoma, Alveolar",disease
+C1261473,Sarcoma,disease
+C0018923,Hemangiosarcoma,disease
+C0010701,Phyllodes Tumor,disease
+C0036214,"Sarcoma, Experimental",disease
+C0036224,"Sarcoma, Yoshida",disease
+C0027654,"Neoplasms, Germ Cell and Embryonal",disease
+C0013377,Dysgerminoma,disease
+C0036631,Seminoma,disease
+C0025490,Mesonephroma,disease
+C0280783,Astrocytoma,disease
+C0334588,Glioblastoma,disease
+C0280788,Ependymoma,disease
+C0206726,Gliosarcoma,disease
+C0278510,Medulloblastoma,disease
+C0027819,Neuroblastoma,disease
+C0031941,Pinealoma,disease
+C0751483,Retinoblastoma,disease
+C0206754,Neuroendocrine Tumors,disease
+C0007095,Carcinoid Tumor,disease
+C0024586,Malignant Carcinoid Syndrome,disease
+C0007129,"Carcinoma, Merkel Cell",disease
+C0206735,"Melanoma, Amelanotic",disease
+C0025205,"Melanoma, Experimental",disease
+C0027859,"Neuroma, Acoustic",disease
+C0030421,Paraganglioma,disease
+C0030422,"Paraganglioma, Extra-Adrenal",disease
+C0007279,Carotid Body Tumor,disease
+C0031511,Pheochromocytoma,disease
+C0020217,Hydatidiform Mole,disease
+C0027660,"Neoplasms, Glandular and Epithelial",disease
+C0008309,"Adenoma, Bile Duct",disease
+C0206675,Adenomatoid Tumor,disease
+C2713442,Adenomatous Polyposis Coli,disease
+C0010633,Cystadenoma,disease
+C0010635,"Cystadenoma, Mucinous",disease
+C0025500,Mesothelioma,disease
+C0344452,Prolactinoma,disease
+C0007120,"Adenocarcinoma, Bronchiolo-Alveolar",disease
+C0007130,"Adenocarcinoma, Mucinous",disease
+C0001420,"Adenocarcinoma, Papillary",disease
+C0021367,"Carcinoma, Ductal, Breast",disease
+C0887833,"Carcinoma, Pancreatic Ductal",disease
+C0206692,"Carcinoma, Lobular",disease
+C0345905,Cholangiocarcinoma,disease
+C0206701,"Cystadenocarcinoma, Serous",disease
+C4721806,"Carcinoma, Basal Cell",disease
+C0007125,"Carcinoma, Ehrlich Tumor",disease
+C0878500,Carcinoma in Situ,disease
+C0262584,"Carcinoma, Small Cell",disease
+C0007138,"Carcinoma, Transitional Cell",disease
+C0033822,Pseudomyxoma Peritonei,disease
+C0751688,"Neoplasms, Squamous Cell",disease
+C0030354,Papilloma,disease
+C0027665,"Neoplasms, Nerve Tissue",disease
+C0917817,Neurofibromatoses,disease
+C0002985,Angiokeratoma,disease
+C0017653,Glomus Tumor,disease
+C0205789,Hemangioma,disease
+C0018915,Hemangioendothelioma,disease
+C0206732,"Hemangioendothelioma, Epithelioid",disease
+C0018920,"Hemangioma, Cavernous",disease
+C0018922,Hemangiopericytoma,disease
+C0000735,Abdominal Neoplasms,disease
+C0005967,Bone Neoplasms,disease
+C0037305,Skull Neoplasms,disease
+C0024694,Mandibular Neoplasms,disease
+C0024954,Maxillary Neoplasms,disease
+C0037939,Spinal Neoplasms,disease
+C0242788,"Breast Neoplasms, Male",disease
+C0751075,Digestive System Neoplasms,disease
+C0750952,Biliary Tract Neoplasms,disease
+C0005396,Bile Duct Neoplasms,disease
+C0009442,Common Bile Duct Neoplasms,disease
+C0153452,Gallbladder Neoplasms,disease
+C0496779,Appendiceal Neoplasms,disease
+C0153436,Sigmoid Neoplasms,disease
+C0279637,Anus Neoplasms,disease
+C0541912,Duodenal Neoplasms,disease
+C0345836,Ileal Neoplasms,disease
+C0022374,Jejunal Neoplasms,disease
+C0023904,"Liver Neoplasms, Experimental",disease
+C0001624,Adrenal Gland Neoplasms,disease
+C0001618,Adrenal Cortex Neoplasms,disease
+C0027670,Paraneoplastic Endocrine Syndromes,disease
+C1720811,Testicular Neoplasms,disease
+C0549473,Thyroid Neoplasms,disease
+C0040137,Thyroid Nodule,disease
+C0496836,Eye Neoplasms,disease
+C0024622,Retinal Neoplasms,disease
+C0017570,Gingival Neoplasms,disease
+C0023761,Lip Neoplasms,disease
+C0040411,Tongue Neoplasms,disease
+C0013449,Ear Neoplasms,disease
+C0030470,Paranasal Sinus Neoplasms,disease
+C0031347,Pharyngeal Neoplasms,disease
+C0153398,Hypopharyngeal Neoplasms,disease
+C0027439,Nasopharyngeal Neoplasms,disease
+C0751560,Tonsillar Neoplasms,disease
+C0040582,Tracheal Neoplasms,disease
+C0282609,Bone Marrow Neoplasms,disease
+C0024668,"Mammary Neoplasms, Experimental",disease
+C0751620,Central Nervous System Neoplasms,disease
+C0751238,Hypothalamic Neoplasms,disease
+C0752244,Central Nervous System Cysts,disease
+C0393919,"Paraneoplastic Syndromes, Nervous System",disease
+C0338430,Limbic Encephalitis,disease
+C0026976,"Myelitis, Transverse",disease
+C0393534,Paraneoplastic Cerebellar Degeneration,disease
+C0751428,Peripheral Nervous System Neoplasms,disease
+C0030793,Pelvic Neoplasms,disease
+C0037579,Soft Tissue Neoplasms,disease
+C0282607,Vascular Neoplasms,disease
+C0153470,Splenic Neoplasms,disease
+C0039981,Thoracic Neoplasms,disease
+C0006264,Bronchial Neoplasms,disease
+C0007121,"Carcinoma, Bronchogenic",disease
+C0748164,Multiple Pulmonary Nodules,disease
+C2350019,Solitary Pulmonary Nodule,disease
+C0032229,Pleural Neoplasms,disease
+C0080032,"Pleural Effusion, Malignant",disease
+C0751569,Urogenital Neoplasms,disease
+C0017416,"Genital Neoplasms, Female",disease
+C0476089,Endometrial Neoplasms,disease
+C0007873,Uterine Cervical Neoplasms,disease
+C0375071,Vulvar Neoplasms,disease
+C0017417,"Genital Neoplasms, Male",disease
+C0030849,Penile Neoplasms,disease
+C0153619,Ureteral Neoplasms,disease
+C0700101,Urethral Neoplasms,disease
+C0005695,Urinary Bladder Neoplasms,disease
+C0027661,"Neoplasms, Hormone-Dependent",disease
+C0877578,"Neoplasms, Second Primary",disease
+C0007622,"Cell Transformation, Viral",disease
+C0162679,Leukemic Infiltration,disease
+C0027627,Neoplasm Metastasis,disease
+C0024232,Lymphatic Metastasis,disease
+C0027667,"Neoplasms, Unknown Primary",disease
+C0027625,"Neoplastic Cells, Circulating",disease
+C0027644,"Neoplasm Regression, Spontaneous",disease
+C0033027,Preleukemia,disease
+C0013336,Dwarfism,disease
+C0342200,Congenital Hypothyroidism,disease
+C0017547,Gigantism,disease
+C3541456,Osteochondrodysplasias,disease
+C0020497,"Hyperostosis, Cortical, Congenital",disease
+C0023931,Osteogenesis Imperfecta,disease
+C3179239,Osteopetrosis,disease
+C0029437,"Osteolysis, Essential",disease
+C0035579,Rickets,disease
+C0005974,Bone Resorption,disease
+C4721411,Osteolysis,disease
+C0014461,Eosinophilic Granuloma,disease
+C0029401,Osteitis Deformans,disease
+C0029412,"Osteoarthropathy, Secondary Hypertrophic",disease
+C0027543,Osteonecrosis,disease
+C0410480,Femur Head Necrosis,disease
+C0037942,Spinal Osteophytosis,disease
+C0037944,Spinal Stenosis,disease
+C0949691,Spondylarthropathies,disease
+C0003872,"Arthritis, Psoriatic",disease
+C0085700,Cartilage Diseases,disease
+C0032453,"Polychondritis, Relapsing",disease
+C0009081,Clubfoot,disease
+C0016510,Foot Diseases,disease
+C0022362,Jaw Diseases,disease
+C0018194,"Granuloma, Giant Cell",disease
+C1837218,Cleft Palate,disease
+C0025990,Micrognathism,disease
+C0039494,Temporomandibular Joint Disorders,disease
+C0024950,Maxillary Diseases,disease
+C0003862,Arthralgia,symptom
+C0037011,Shoulder Pain,symptom
+C0971858,"Arthritis, Experimental",disease
+C0035450,Rheumatoid Nodule,disease
+C0553730,Chondrocalcinosis,disease
+C0018099,Gout,disease
+C0003868,"Arthritis, Gouty",disease
+C0031037,Periarthritis,disease
+C0003886,Arthrogryposis,disease
+C0158300,Bursitis,disease
+C0018924,Hemarthrosis,disease
+C0085433,"Joint Deformities, Acquired",disease
+C0878705,Synovitis,disease
+C0009492,Compartment Syndromes,disease
+C0003152,Anterior Compartment Syndrome,disease
+C0085179,Eosinophilia-Myalgia Syndrome,disease
+C0231519,Muscle Rigidity,symptom
+C0026838,Muscle Spasticity,symptom
+C3542021,"Muscular Dystrophy, Duchenne",disease
+C0027126,Myotonic Dystrophy,disease
+C0751951,"Myopathy, Central Core",disease
+C0027122,Myositis Ossificans,disease
+C0263984,Polymyositis,disease
+C0035410,Rhabdomyolysis,disease
+C0039520,Tenosynovitis,disease
+C0265706,Gastroschisis,disease
+C0005395,Bile Duct Diseases,disease
+C0162510,Caroli Disease,disease
+C0008370,Cholestasis,disease
+C0005398,"Cholestasis, Extrahepatic",disease
+C0008372,"Cholestasis, Intrahepatic",disease
+C0008311,Cholangitis,disease
+C0566602,"Cholangitis, Sclerosing",disease
+C0009440,Common Bile Duct Diseases,disease
+C0005403,Bile Reflux,disease
+C0016977,Gallbladder Diseases,disease
+C0267841,Acalculous Cholecystitis,disease
+C0149520,"Cholecystitis, Acute",disease
+C0521610,Emphysematous Cholecystitis,disease
+C0266015,Digestive System Abnormalities,disease
+C0011981,Diaphragmatic Eventration,disease
+C0085758,Hirschsprung Disease,disease
+C0025037,Meckel Diverticulum,disease
+C0005417,Biliary Fistula,disease
+C0014856,Esophageal Fistula,disease
+C0040588,Tracheoesophageal Fistula,disease
+C0341318,Intestinal Fistula,disease
+C0014852,Esophageal Diseases,disease
+C0014848,Esophageal Achalasia,disease
+C0017145,Esophageal and Gastric Varices,disease
+C0014860,Esophageal Perforation,disease
+C0014866,Esophageal Stenosis,disease
+C0017160,Gastroenteritis,disease
+C0003615,Appendicitis,disease
+C0162529,"Colitis, Ischemic",disease
+C1257848,Proctocolitis,disease
+C0012813,Diverticulitis,disease
+C0013369,Dysentery,disease
+C0014335,Enteritis,disease
+C3853541,Duodenitis,disease
+C0014356,Enterocolitis,disease
+C0520459,"Enterocolitis, Necrotizing",disease
+C0017155,"Gastritis, Hypertrophic",disease
+C0021390,Inflammatory Bowel Diseases,disease
+C0333355,Mucositis,disease
+C0018932,Gastrointestinal Hemorrhage,disease
+C0025222,Melena,disease
+C0030922,Peptic Ulcer Hemorrhage,disease
+C0009373,Colonic Diseases,disease
+C0009377,Colonic Pseudo-Obstruction,disease
+C0012819,"Diverticulosis, Colonic",disease
+C0012814,"Diverticulitis, Colonic",disease
+C0025160,Megacolon,disease
+C0037072,Sigmoid Diseases,disease
+C0013289,Duodenal Diseases,disease
+C0013292,Duodenal Obstruction,disease
+C0030925,Peptic Ulcer Perforation,disease
+C0020875,Ileal Diseases,disease
+C0021843,Intestinal Obstruction,disease
+C1258215,Ileus,disease
+C0021847,Intestinal Pseudo-Obstruction,disease
+C0042961,Intestinal Volvulus,disease
+C0021845,Intestinal Perforation,disease
+C0022373,Jejunal Diseases,disease
+C0007570,Celiac Disease,disease
+C0022951,Lactose Intolerance,disease
+C0025472,Mesenteric Vascular Occlusion,disease
+C0687707,Rectal Diseases,disease
+C0003462,Anus Diseases,disease
+C0038358,Stomach Ulcer,disease
+C0038353,Gastric Dilatation,disease
+C0162651,Gastric Outlet Obstruction,disease
+C1541124,Pyloric Stenosis,disease
+C0038357,Stomach Rupture,disease
+C0038359,Stomach Volvulus,disease
+C0751485,Reye Syndrome,disease
+C0333980,Focal Nodular Hyperplasia,disease
+C0085605,Liver Failure,disease
+C0751198,Hepatic Encephalopathy,disease
+C0162557,"Liver Failure, Acute",disease
+C0856761,Budd-Chiari Syndrome,disease
+C0019187,"Hepatitis, Alcoholic",disease
+C0019188,"Hepatitis, Animal",disease
+C0524611,"Hepatitis, Chronic",disease
+C0241910,"Hepatitis, Autoimmune",disease
+C0019202,Hepatolenticular Degeneration,disease
+C0019209,Hepatomegaly,disease
+C0023891,"Liver Cirrhosis, Alcoholic",disease
+C0023896,"Liver Diseases, Alcoholic",disease
+C0030781,Peliosis Hepatis,disease
+C0162565,"Porphyria, Acute Intermittent",disease
+C0030286,Pancreatic Diseases,disease
+C0001339,Pancreatitis,disease
+C0267941,"Pancreatitis, Acute Necrotizing",disease
+C0031142,Peritoneal Diseases,disease
+C0008732,Chylous Ascites,disease
+C0025469,Mesenteric Lymphadenitis,disease
+C0030330,"Panniculitis, Peritoneal",disease
+C1449646,Peritonitis,disease
+C0032320,Pneumoperitoneum,disease
+C0524686,Periapical Periodontitis,disease
+C0282295,Periapical Granuloma,disease
+C0026636,Mouth Diseases,disease
+C0004943,Behcet Syndrome,disease
+C0023760,Lip Diseases,disease
+C0008924,Cleft Lip,disease
+C0026633,Mouth Abnormalities,disease
+C0149745,Oral Ulcer,disease
+C0031090,Periodontal Diseases,disease
+C0017574,Gingivitis,disease
+C0031051,Periodontitis,disease
+C0036093,Salivary Gland Diseases,disease
+C0030579,Parotid Diseases,disease
+C0030583,Parotitis,disease
+C0037023,Sialadenitis,disease
+C0013132,Sialorrhea,disease
+C0038557,Submandibular Gland Diseases,disease
+C1568868,Stomatitis,disease
+C0014518,Stevens-Johnson Syndrome,disease
+C0086789,"Stomatitis, Aphthous",disease
+C0025988,Tongue Diseases,disease
+C0017675,Glossitis,disease
+C0031345,Pharyngeal Diseases,disease
+C0027438,Nasopharyngeal Diseases,disease
+C0027441,Nasopharyngitis,disease
+C0031350,Pharyngitis,disease
+C0040425,Tonsillitis,disease
+C0524730,Tooth Abnormalities,disease
+C5442008,Dental Enamel Hypoplasia,disease
+C0206554,Odontodysplasia,disease
+C0040435,Tooth Diseases,disease
+C0085511,Tooth Demineralization,disease
+C1707305,Dental Caries,disease
+C0242891,Tooth Injuries,disease
+C0040460,Toothache,symptom
+C0006261,Bronchial Diseases,disease
+C0006262,Bronchial Fistula,disease
+C0085129,Bronchial Hyperreactivity,disease
+C0006266,Bronchial Spasm,disease
+C0006267,Bronchiectasis,disease
+C0022521,Kartagener Syndrome,disease
+C0006277,Bronchitis,disease
+C0006271,Bronchiolitis,disease
+C2350875,Bronchiolitis Obliterans,disease
+C0242770,Cryptogenic Organizing Pneumonia,disease
+C0006285,Bronchopneumonia,disease
+C0018200,"Granuloma, Respiratory Tract",disease
+C0023051,Laryngeal Diseases,disease
+C0023066,Laryngismus,disease
+C0023067,Laryngitis,disease
+C2350036,Croup,disease
+C2350173,"Cystic Adenomatoid Malformation of Lung, Congenital",disease
+C0085269,"Plasma Cell Granuloma, Pulmonary",disease
+C0019079,Hemoptysis,symptom
+C0020542,"Hypertension, Pulmonary",disease
+C2350529,Pulmonary Aspergillosis,disease
+C0276653,Invasive Pulmonary Aspergillosis,disease
+C0206061,"Lung Diseases, Interstitial",disease
+C0002390,"Alveolitis, Extrinsic Allergic",disease
+C0403529,Anti-Glomerular Basement Membrane Disease,disease
+C0019621,"Histiocytosis, Langerhans-Cell",disease
+C1800706,Idiopathic Pulmonary Fibrosis,disease
+C0032273,Pneumoconiosis,disease
+C0003949,Asbestosis,disease
+C0006542,Byssinosis,disease
+C0037116,Silicosis,disease
+C0600260,"Lung Diseases, Obstructive",disease
+C5690892,Lung Injury,disease
+C0242488,Acute Lung Injury,disease
+C0032241,Pleuropneumonia,disease
+C0032290,"Pneumonia, Aspiration",disease
+C0032298,"Pneumonia, Lipid",disease
+C0034050,Pulmonary Alveolar Proteinosis,disease
+C0264499,Pulmonary Atelectasis,disease
+C0034063,Pulmonary Edema,disease
+C0524702,Pulmonary Embolism,disease
+C0034074,Pulmonary Infarction,disease
+C0221227,Pulmonary Emphysema,disease
+C0264395,"Lung, Hyperlucent",disease
+C0034068,Pulmonary Eosinophilia,disease
+C0034069,Pulmonary Fibrosis,disease
+C0035220,"Respiratory Distress Syndrome, Newborn",disease
+C0028432,Nose Diseases,disease
+C0008297,Choanal Atresia,disease
+C0018197,"Granuloma, Lethal Midline",disease
+C0027429,Nasal Obstruction,disease
+C0027430,Nasal Polyps,disease
+C0016735,Frontal Sinusitis,disease
+C0024959,Maxillary Sinusitis,disease
+C0037886,Sphenoid Sinusitis,disease
+C0035455,Rhinitis,disease
+C0035457,"Rhinitis, Allergic, Perennial",disease
+C0032226,Pleural Diseases,disease
+C0020312,Hydrothorax,disease
+C0032227,Pleural Effusion,disease
+C0032326,Pneumothorax,disease
+C0035204,Respiration Disorders,disease
+C3887755,Altitude Sickness,disease
+C0003578,Apnea,symptom
+C1956415,"Dyspnea, Paroxysmal",symptom
+C0002064,"Alkalosis, Respiratory",disease
+C0001127,"Acidosis, Respiratory",disease
+C0001883,Airway Obstruction,disease
+C0035232,Respiratory Paralysis,symptom
+C0035228,Respiratory Hypersensitivity,disease
+C0006288,Bronchopulmonary Sequestration,disease
+C0080107,Respiratory Tract Fistula,disease
+C1449809,Bovine Respiratory Disease Complex,disease
+C0014541,Epiglottitis,disease
+C0040584,Tracheitis,disease
+C0039978,Thoracic Diseases,disease
+C0025061,Mediastinal Diseases,disease
+C0025062,Mediastinal Emphysema,disease
+C0025064,Mediastinitis,disease
+C0040580,Tracheal Diseases,disease
+C0040583,Tracheal Stenosis,disease
+C0013447,Ear Diseases,disease
+C0013456,Earache,symptom
+C0877848,Hearing Disorders,symptom
+C1384666,Hearing Loss,symptom
+C0086395,Deafness,symptom
+C3665473,"Hearing Loss, Bilateral",symptom
+C1148477,"Hearing Loss, Sudden",symptom
+C0751557,Tinnitus,symptom
+C0022890,Labyrinth Diseases,disease
+C1527320,Meniere Disease,disease
+C0022893,Labyrinthitis,disease
+C0699744,Otitis,disease
+C0029882,Otitis Media,disease
+C0024904,Mastoiditis,disease
+C0029883,Otitis Media with Effusion,disease
+C5671289,Autoimmune Diseases of the Nervous System,disease
+C0007795,Diffuse Cerebral Sclerosis of Schilder,disease
+C0014059,"Encephalomyelitis, Acute Disseminated",disease
+C0014077,"Leukoencephalitis, Acute Hemorrhagic",disease
+C0032587,Polyradiculoneuropathy,disease
+C3542501,Guillain-Barre Syndrome,disease
+C0393799,Miller Fisher Syndrome,disease
+C0699739,Hereditary Sensory and Autonomic Neuropathies,disease
+C0393819,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",disease
+C0042170,Uveomeningoencephalitic Syndrome,disease
+C0018202,"Vasculitis, Central Nervous System",disease
+C0752332,"Lupus Vasculitis, Central Nervous System",disease
+C0001519,Adie Syndrome,disease
+C0751203,Horner Syndrome,symptom
+C0037019,Shy-Drager Syndrome,disease
+C1535893,Orthostatic Intolerance,symptom
+C0001889,Akinetic Mutism,disease
+C1956233,Basal Ganglia Hemorrhage,disease
+C0027849,Neuroleptic Malignant Syndrome,disease
+C0752097,Parkinsonian Disorders,disease
+C0030569,"Parkinson Disease, Secondary",disease
+C0270730,MPTP Poisoning,disease
+C0917808,Persistent Vegetative State,symptom
+C0006110,Brain Death,disease
+C0006112,"Brain Diseases, Metabolic",disease
+C0752107,"Brain Diseases, Metabolic, Inborn",disease
+C0751161,Galactosemias,disease
+C2713319,"Leukodystrophy, Metachromatic",disease
+C0751748,"Hyperglycinemia, Nonketotic",disease
+C0751267,Leigh Disease,disease
+C0342751,Glycogen Storage Disease Type II,disease
+C0002986,Fabry Disease,disease
+C0085131,"Gangliosidosis, GM1",disease
+C0022716,Menkes Kinky Hair Syndrome,disease
+C0342731,Mevalonate Kinase Deficiency,disease
+C0031485,Phenylketonurias,disease
+C0393667,"Myelinolysis, Central Pontine",disease
+C0006114,Brain Edema,disease
+C0751801,"Cerebral Hemorrhage, Traumatic",disease
+C0752219,Diffuse Axonal Injury,disease
+C0032268,Pneumocephalus,disease
+C0007760,Cerebellar Diseases,disease
+C0752120,Spinocerebellar Ataxias,disease
+C0393519,Spinocerebellar Degenerations,disease
+C0393953,Brain Infarction,disease
+C0740376,"Infarction, Middle Cerebral Artery",disease
+C0752304,"Hypoxia-Ischemia, Brain",disease
+C0751815,"Carotid Artery, Internal, Dissection",disease
+C0007282,Carotid Stenosis,disease
+C0338586,Vertebral Artery Dissection,disease
+C0751587,CADASIL,disease
+C0917996,Intracranial Aneurysm,disease
+C0007772,Intracranial Arteriovenous Malformations,disease
+C0877855,Intracranial Embolism and Thrombosis,disease
+C0007780,Intracranial Embolism,disease
+C0752143,Intracranial Thrombosis,disease
+C0751500,"Sinus Thrombosis, Intracranial",disease
+C0270638,Cavernous Sinus Thrombosis,disease
+C0751827,Lateral Sinus Thrombosis,disease
+C0751893,Intracranial Hemorrhages,disease
+C0751797,"Intracranial Hemorrhage, Traumatic",disease
+C0238154,"Hematoma, Epidural, Cranial",disease
+C0018946,"Hematoma, Subdural",disease
+C0749095,"Hematoma, Subdural, Chronic",disease
+C0032001,Pituitary Apoplexy,disease
+C0751895,"Vasospasm, Intracranial",disease
+C0022336,Creutzfeldt-Jakob Syndrome,disease
+C0014070,Encephalomyelitis,disease
+C0025309,Meningoencephalitis,disease
+C0438414,"Epilepsies, Myoclonic",disease
+C0270853,"Myoclonic Epilepsy, Juvenile",disease
+C0085417,"Epilepsy, Complex Partial",disease
+C0376532,"Epilepsy, Rolandic",disease
+C0014558,"Epilepsy, Temporal Lobe",disease
+C0014549,"Epilepsy, Tonic-Clonic",disease
+C0546878,"Spasms, Infantile",disease
+C3495874,Seizures,symptom
+C0751057,"Seizures, Febrile",disease
+C0393734,Status Epilepticus,disease
+C0393735,Headache Disorders,disease
+C0154723,Migraine with Aura,disease
+C0751230,Hypothalamic Diseases,disease
+C0023138,Laurence-Moon Syndrome,disease
+C0032002,Pituitary Diseases,disease
+C0020514,Hyperprolactinemia,disease
+C0021141,Inappropriate ADH Syndrome,disease
+C0995195,"Hypoxia, Brain",disease
+C0151740,Intracranial Hypertension,disease
+C0151620,Hypertensive Encephalopathy,disease
+C0878576,Posterior Leukoencephalopathy Syndrome,disease
+C0033845,Pseudotumor Cerebri,disease
+C0038538,Subdural Effusion,disease
+C0025289,Meningitis,disease
+C0017495,Gerstmann-Straussler-Scheinker Disease,disease
+C0162635,Angelman Syndrome,disease
+C0454606,Dyskinesias,symptom
+C0393584,Chorea,symptom
+C0751088,"Dyskinesia, Drug-Induced",disease
+C0152116,Torticollis,symptom
+C0751553,Tic Disorders,disease
+C0155339,Ocular Motility Disorders,disease
+C0751515,Spinal Cord Injuries,disease
+C0752129,Spinal Cord Ischemia,disease
+C0751940,Abducens Nerve Diseases,disease
+C0270871,Facial Nerve Diseases,disease
+C0344243,"Nystagmus, Pathologic",disease
+C0339693,Ophthalmoplegia,symptom
+C0751402,Optic Nerve Diseases,disease
+C0029124,Optic Atrophy,disease
+C0524679,Optic Neuritis,disease
+C0919308,Papilledema,disease
+C0497552,Nervous System Malformations,disease
+C0752153,Central Nervous System Vascular Malformations,disease
+C5691433,Malformations of Cortical Development,disease
+C0431349,Anencephaly,disease
+C0750929,Arnold-Chiari Malformation,disease
+C0393983,Encephalocele,disease
+C1261470,Meningocele,disease
+C0751316,Meningomyelocele,disease
+C0080174,Spina Bifida Occulta,disease
+C0022340,Neuronal Ceroid-Lipofuscinoses,disease
+C0007815,Cerebrospinal Fluid Rhinorrhea,symptom
+C0751070,Decerebrate State,symptom
+C0004158,Athetosis,symptom
+C0233612,Catalepsy,symptom
+C0013421,Dystonia,symptom
+C3887506,Hyperkinesis,symptom
+C3887612,Psychomotor Agitation,symptom
+C0751564,Tremor,symptom
+C0025287,Meningism,symptom
+C0751512,Speech Disorders,symptom
+C0454596,Dysarthria,symptom
+C0026884,Mutism,symptom
+C0233407,Confusion,symptom
+C0860634,Coma,symptom
+C0023380,Lethargy,symptom
+C0002624,"Amnesia, Retrograde",symptom
+C0751157,Fragile X Syndrome,disease
+C0265222,Prader-Willi Syndrome,disease
+C0600467,Neurogenic Inflammation,disease
+C0541957,Fasciculation,symptom
+C0026826,Muscle Hypertonia,symptom
+C0700153,Myotonia,symptom
+C0343495,Trismus,symptom
+C0751648,Low Back Pain,symptom
+C0751135,Facial Pain,symptom
+C0036396,Sciatica,symptom
+C0392550,Hemiplegia,symptom
+C0278114,Paraplegia,symptom
+C0270790,Quadriplegia,symptom
+C0030552,Paresis,symptom
+C0278118,Paraparesis,symptom
+C0036659,Sensation Disorders,symptom
+C0458247,Hyperalgesia,symptom
+C0085636,Photophobia,symptom
+C0544679,Scotoma,symptom
+C0005697,"Urinary Bladder, Neurogenic",symptom
+C0270896,Brachial Plexus Neuropathies,disease
+C0751925,Sciatic Neuropathy,disease
+C0027743,Nerve Compression Syndromes,disease
+C0027813,Neuritis,disease
+C0002768,"Pain Insensitivity, Congenital",disease
+C0032586,Polyradiculopathy,disease
+C0034544,Radiculopathy,disease
+C0154659,Neurotoxicity Syndromes,disease
+C0001940,Alcohol Amnestic Disorder,disease
+C0751506,Sleep Deprivation,symptom
+C0007384,Cataplexy,disease
+C0751772,REM Sleep Behavior Disorder,disease
+C0037672,Somnambulism,disease
+C0751504,Skull Fractures,disease
+C0009763,Conjunctivitis,disease
+C0022573,Keratoconjunctivitis,disease
+C0030804,"Pemphigoid, Benign Mucous Membrane",disease
+C0043349,Xerophthalmia,disease
+C0010034,Corneal Diseases,disease
+C0010037,Corneal Edema,disease
+C0022578,Keratoconus,disease
+C0026010,Microphthalmos,disease
+C0035317,Retinal Hemorrhage,disease
+C0015423,Eyelid Diseases,disease
+C0022904,Lacrimal Apparatus Diseases,disease
+C0017601,Glaucoma,disease
+C0029182,Orbital Diseases,disease
+C0015300,Exophthalmos,disease
+C0149507,Orbital Cellulitis,disease
+C0026961,Mydriasis,disease
+C0027092,Myopia,disease
+C0024437,Macular Degeneration,disease
+C0152026,Retinal Vasculitis,disease
+C0154874,Retinitis,disease
+C0008513,Chorioretinitis,disease
+C0035319,"Retinal Necrosis Syndrome, Acute",disease
+C0036412,Scleral Diseases,disease
+C0027547,Scleritis,disease
+C0008521,Choroid Diseases,disease
+C0008526,Choroiditis,disease
+C0022073,Iridocyclitis,disease
+C0042164,Uveitis,disease
+C0030343,Panuveitis,disease
+C0042165,"Uveitis, Anterior",disease
+C0042167,"Uveitis, Posterior",disease
+C0017412,"Genital Diseases, Male",disease
+C0014534,Epididymitis,disease
+C0030846,Penile Diseases,disease
+C0033575,Prostatic Diseases,disease
+C0242350,Erectile Dysfunction,disease
+C0037856,Spermatic Cord Torsion,disease
+C0039584,Testicular Diseases,disease
+C0431664,Cryptorchidism,disease
+C0029191,Orchitis,disease
+C0019269,Disorders of Sex Development,disease
+C0302280,Adrenogenital Syndrome,disease
+C0018051,Gonadal Dysgenesis,disease
+C1527168,Turner Syndrome,disease
+C0543754,Klinefelter Syndrome,disease
+C0042075,Urologic Diseases,disease
+C0003460,Anuria,disease
+C1563706,"Diabetes Insipidus, Nephrogenic",disease
+C4759705,Diabetic Nephropathies,disease
+C0020295,Hydronephrosis,disease
+C0018036,"Hypertension, Renovascular",disease
+C0022656,Kidney Cortex Necrosis,disease
+C0022679,"Kidney Diseases, Cystic",disease
+C0085413,"Polycystic Kidney, Autosomal Dominant",disease
+C0022667,Kidney Papillary Necrosis,disease
+C0027697,Nephritis,disease
+C0017661,"Glomerulonephritis, IGA",disease
+C0017662,"Glomerulonephritis, Membranoproliferative",disease
+C1704378,"Glomerulonephritis, Membranous",disease
+C0086432,"Glomerulosclerosis, Focal Segmental",disease
+C0024143,Lupus Nephritis,disease
+C0034186,Pyelonephritis,disease
+C0034188,"Pyelonephritis, Xanthogranulomatous",disease
+C0034183,Pyelitis,disease
+C0022650,Kidney Calculi,disease
+C0027721,"Nephrosis, Lipoid",disease
+C0027726,Nephrotic Syndrome,disease
+C0031065,Perinephritis,disease
+C0035066,Renal Artery Obstruction,disease
+C0035078,Renal Insufficiency,disease
+C0022672,"Kidney Tubular Necrosis, Acute",disease
+C0001126,"Acidosis, Renal Tubular",disease
+C0221043,Liddle Syndrome,disease
+C0002534,Renal Aminoacidurias,disease
+C0010691,Cystinuria,disease
+C0019061,Hemolytic-Uremic Syndrome,disease
+C0041956,Ureteral Obstruction,disease
+C0041960,Ureterocele,disease
+C1456865,Ureteral Calculi,disease
+C0041969,Urethral Diseases,disease
+C0041972,Urethral Obstruction,disease
+C0005694,Urinary Bladder Neck Obstruction,disease
+C0041976,Urethritis,disease
+C0005686,Urinary Bladder Diseases,disease
+C0010692,Cystitis,disease
+C5232302,Vesico-Ureteral Reflux,disease
+C0042035,Urination Disorders,disease
+C0018965,Hematuria,disease
+C0028961,Oliguria,symptom
+C0032617,Polyuria,symptom
+C0001925,Albuminuria,symptom
+C0019048,Hemoglobinuria,symptom
+C0042024,Urinary Incontinence,symptom
+C0080274,Urinary Retention,disease
+C0451641,Urolithiasis,disease
+C0042018,Urinary Calculi,disease
+C0017411,"Genital Diseases, Female",disease
+C0001576,Adnexal Diseases,disease
+C0015556,Fallopian Tube Diseases,disease
+C0036130,Salpingitis,disease
+C0029928,Ovarian Diseases,disease
+C0029051,Oophoritis,disease
+C0085083,Ovarian Hyperstimulation Syndrome,disease
+C0014179,Endometritis,disease
+C0014175,Endometriosis,disease
+C0341869,"Infertility, Female",disease
+C0042131,Uterine Diseases,disease
+C0034215,Pyometra,disease
+C0007867,Uterine Cervical Diseases,disease
+C0042143,Uterine Rupture,disease
+C0042139,Uterine Perforation,disease
+C0042251,Vaginal Diseases,disease
+C0227791,Vaginal Discharge,disease
+C0042267,Vaginitis,disease
+C0042994,Vulvar Diseases,disease
+C0033778,Pruritus Vulvae,disease
+C0000822,"Abortion, Spontaneous",disease
+C0000814,"Abortion, Missed",disease
+C0000823,"Abortion, Veterinary",disease
+C0752350,Embryo Loss,disease
+C0085207,"Diabetes, Gestational",disease
+C2718076,Fetal Death,disease
+C0015951,Fetal Resorption,disease
+C0002631,Chorioamnionitis,disease
+C0014761,"Erythroblastosis, Fetal",disease
+C0015934,Fetal Growth Retardation,disease
+C0013537,Eclampsia,disease
+C0032914,Pre-Eclampsia,disease
+C0022865,Obstetric Labor Complications,disease
+C1566302,"Fetal Membranes, Premature Rupture",disease
+C0022876,"Obstetric Labor, Premature",disease
+C0032044,Placenta Accreta,disease
+C0032046,Placenta Previa,disease
+C0242669,"Placenta, Retained",disease
+C0013927,"Embolism, Amniotic Fluid",disease
+C0032969,Pregnancy in Diabetics,disease
+C0032987,"Pregnancy, Ectopic",disease
+C0032984,"Pregnancy, Abdominal",disease
+C0033054,Prenatal Exposure Delayed Effects,disease
+C0024894,Mastitis,disease
+C0243050,Cardiovascular Abnormalities,disease
+C0003492,Aortic Coarctation,disease
+C0009995,Cor Triatriatum,disease
+C0010074,Coronary Vessel Anomalies,disease
+C0013743,Eisenmenger Complex,disease
+C0018818,"Heart Septal Defects, Ventricular",disease
+C0039685,Tetralogy of Fallot,disease
+C0158570,Vascular Malformations,disease
+C0003857,Arteriovenous Malformations,disease
+C1956223,Arteriovenous Fistula,disease
+C0080304,Vascular Fistula,disease
+C1721096,Brugada Syndrome,disease
+C0151636,Ventricular Premature Complexes,disease
+C0004331,Heart Block,disease
+C0151878,Long QT Syndrome,disease
+C0043202,Wolff-Parkinson-White Syndrome,disease
+C0242513,"Tachycardia, Paroxysmal",disease
+C0039239,"Tachycardia, Sinus",disease
+C0030590,"Tachycardia, Ventricular",disease
+C0040479,Torsades de Pointes,disease
+C0042510,Ventricular Fibrillation,disease
+C0152173,Ventricular Flutter,disease
+C0007166,"Cardiac Output, Low",symptom
+C0007177,Cardiac Tamponade,disease
+C1449563,"Cardiomyopathy, Dilated",disease
+C0149721,"Hypertrophy, Left Ventricular",disease
+C0007194,"Cardiomyopathy, Hypertrophic",disease
+C0027055,Myocardial Reperfusion Injury,disease
+C0027059,Myocarditis,disease
+C1541923,Endocarditis,disease
+C0085298,"Death, Sudden, Cardiac",disease
+C0018814,"Heart Rupture, Post-Infarction",disease
+C1956158,Ventricular Septal Rupture,disease
+C0018824,Heart Valve Diseases,disease
+C0003504,Aortic Valve Insufficiency,disease
+C0003507,Aortic Valve Stenosis,disease
+C0026266,Mitral Valve Insufficiency,disease
+C0026269,Mitral Valve Stenosis,disease
+C0034088,Pulmonary Valve Insufficiency,disease
+C0948089,Acute Coronary Syndrome,symptom
+C0242231,Coronary Stenosis,disease
+C0010072,Coronary Thrombosis,disease
+C0262564,Anterior Wall Myocardial Infarction,disease
+C0036980,"Shock, Cardiogenic",disease
+C0031039,Pericardial Effusion,disease
+C1167732,Pericarditis,disease
+C0031876,"Pericarditis, Constrictive",disease
+C0032760,Postpericardiotomy Syndrome,disease
+C0034072,Pulmonary Heart Disease,disease
+C0242973,Ventricular Dysfunction,disease
+C1739395,Takotsubo Cardiomyopathy,disease
+C0002940,Aneurysm,disease
+C0340643,"Aneurysm, Dissecting",disease
+C1510412,"Aneurysm, False",disease
+C0162869,"Aneurysm, Ruptured",disease
+C0741160,Aortic Rupture,disease
+C0003486,Aortic Aneurysm,disease
+C0162871,"Aortic Aneurysm, Abdominal",disease
+C0162872,"Aortic Aneurysm, Thoracic",disease
+C0162870,Iliac Aneurysm,disease
+C0002992,Angiomatosis,disease
+C0002994,Angioedema,disease
+C0003493,Aortic Diseases,disease
+C0003510,Takayasu Arteritis,disease
+C0003509,Aortitis,disease
+C0264995,Arterial Occlusive Diseases,disease
+C0003850,Arteriosclerosis,disease
+C0003851,Arteriosclerosis Obliterans,disease
+C1704436,Peripheral Arterial Disease,disease
+C0021775,Intermittent Claudication,symptom
+C0040021,Thromboangiitis Obliterans,disease
+C0003860,Arteritis,disease
+C0014100,Endarteritis,disease
+C0086254,Polyarteritis Nodosa,disease
+C0343084,Capillary Leak Syndrome,disease
+C0025945,Diabetic Angiopathies,disease
+C1456868,Diabetic Foot,disease
+C0013922,Embolism,disease
+C0013926,"Embolism, Air",disease
+C0013928,"Embolism, Fat",disease
+C0149649,"Embolism, Cholesterol",disease
+C0040038,Thromboembolism,disease
+C0087086,Thrombosis,disease
+C0042487,Venous Thrombosis,disease
+C0031556,Thrombophlebitis,disease
+C1867450,Pseudoxanthoma Elasticum,disease
+C0037018,Shwartzman Phenomenon,disease
+C0020540,"Hypertension, Malignant",disease
+C0085096,Peripheral Vascular Diseases,disease
+C0014804,Erythromelalgia,disease
+C0031542,Phlebitis,disease
+C0034734,Raynaud Disease,disease
+C0035126,Reperfusion Injury,disease
+C0037998,Splenic Infarction,disease
+C0042344,Varicose Ulcer,disease
+C0264939,Systemic Vasculitis,disease
+C0008728,Churg-Strauss Syndrome,disease
+C0151436,"Vasculitis, Leukocytoclastic, Cutaneous",disease
+C0015625,Fanconi Anemia,disease
+C0002881,"Anemia, Hemolytic, Congenital",disease
+C1306589,"Anemia, Dyserythropoietic, Congenital",disease
+C0002895,"Anemia, Sickle Cell",disease
+C0019034,Hemoglobin SC Disease,disease
+C0037054,Sickle Cell Trait,disease
+C0013902,"Elliptocytosis, Hereditary",disease
+C2939465,Glucosephosphate Dehydrogenase Deficiency,disease
+C0019021,Hemoglobin C Disease,disease
+C0037889,"Spherocytosis, Hereditary",disease
+C0039730,Thalassemia,disease
+C0002312,alpha-Thalassemia,disease
+C0024790,"Hemoglobinuria, Paroxysmal",disease
+C0162316,"Anemia, Iron-Deficiency",disease
+C0002886,"Anemia, Macrocytic",disease
+C0002892,"Anemia, Pernicious",disease
+C0002893,"Anemia, Refractory",disease
+C0002894,"Anemia, Refractory, with Excess of Blasts",disease
+C0002896,"Anemia, Sideroblastic",disease
+C0005779,Blood Coagulation Disorders,disease
+C2584774,Afibrinogenemia,disease
+C1848525,von Willebrand Diseases,disease
+C0012739,Disseminated Intravascular Coagulation,disease
+C0013491,Ecchymosis,symptom
+C0085650,Purpura Fulminans,symptom
+C0857305,"Purpura, Thrombocytopenic",symptom
+C0398650,"Purpura, Thrombocytopenic, Idiopathic",symptom
+C1956258,"Purpura, Thrombotic Thrombocytopenic",symptom
+C3489628,"Thrombocythemia, Essential",disease
+C0005806,Blood Group Incompatibility,disease
+C0035404,Rh Isoimmunization,disease
+C0040034,Thrombocytopenia,disease
+C0836924,Thrombocytosis,disease
+C0005830,Blood Protein Disorders,disease
+C0001768,Agammaglobulinemia,disease
+C0162539,IgG Deficiency,disease
+C0020455,Hypergammaglobulinemia,symptom
+C0026470,Monoclonal Gammopathy of Undetermined Significance,disease
+C0020639,Hypoproteinemia,disease
+C0005956,Bone Marrow Diseases,disease
+C2713368,Myelodysplastic Syndromes,disease
+C0027022,Myeloproliferative Disorders,disease
+C0023501,Leukemoid Reaction,disease
+C0032463,Polycythemia Vera,disease
+C0001815,Primary Myelofibrosis,disease
+C0019045,Hemoglobinopathies,disease
+C0019087,Hemorrhagic Disorders,disease
+C1368797,Angiolymphoid Hyperplasia with Eosinophilia,disease
+C1540912,Hypereosinophilic Syndrome,disease
+C0024282,Lymphocytosis,disease
+C0023530,Leukopenia,disease
+C0001824,Agranulocytosis,disease
+C0027947,Neutropenia,disease
+C0024312,Lymphopenia,disease
+C0206744,"T-Lymphocytopenia, Idiopathic CD4-Positive",disease
+C0282548,Leukostasis,disease
+C3179244,Pelger-Huet Anomaly,disease
+C0031306,Phagocyte Bactericidal Dysfunction,disease
+C0007965,Chediak-Higashi Syndrome,disease
+C3661525,"Granulomatous Disease, Chronic",disease
+C0025637,Methemoglobinemia,disease
+C0030312,Pancytopenia,disease
+C0032461,Polycythemia,disease
+C0019618,Histiocytosis,disease
+C0019624,"Histiocytosis, Non-Langerhans-Cell",disease
+C0878675,Erdheim-Chester Disease,disease
+C0019625,"Histiocytosis, Sinus",disease
+C0019068,"Lymphohistiocytosis, Hemophagocytic",disease
+C0398367,Histiocytic Necrotizing Lymphadenitis,disease
+C0024225,Lymphangitis,disease
+C1704423,Lymphedema,disease
+C0544766,Elephantiasis,disease
+C0549463,Lymphoproliferative Disorders,disease
+C0018188,Granuloma,disease
+C0042171,Uveoparotid Fever,disease
+C0041364,Tumor Lysis Syndrome,disease
+C0221269,Pseudolymphoma,disease
+C0002897,Hypersplenism,disease
+C0038000,Splenic Rupture,disease
+C0040115,Thymus Hyperplasia,disease
+C0000768,Congenital Abnormalities,disease
+C0000771,"Abnormalities, Drug-Induced",disease
+C1706004,Ectodermal Dysplasia,disease
+C0162359,"Ectodermal Dysplasia 1, Anhidrotic",disease
+C0021171,Incontinentia Pigmenti,disease
+C0000773,"Abnormalities, Radiation-Induced",disease
+C0969687,Chromosome Disorders,disease
+C0037221,Situs Inversus,disease
+C0001197,Acrodermatitis,disease
+C0020757,Ichthyosis,disease
+C0235752,Port-Wine Stain,disease
+C0080024,Piebaldism,disease
+C0751422,Hereditary Autoinflammatory Diseases,disease
+C0343068,Cryopyrin-Associated Periodic Syndromes,disease
+C0031069,Familial Mediterranean Fever,disease
+C0007001,"Carbohydrate Metabolism, Inborn Errors",disease
+C0017919,Glycogen Storage Disease,disease
+C0017924,Glycogen Storage Disease Type V,disease
+C0026707,Mucopolysaccharidosis IV,disease
+C0026709,Mucopolysaccharidosis VI,disease
+C0023772,"Lipid Metabolism, Inborn Errors",disease
+C0020623,Hypolipoproteinemias,disease
+C0008384,Cholesterol Ester Storage Disease,disease
+C0043208,Wolman Disease,disease
+C0034139,"Purine-Pyrimidine Metabolism, Inborn Errors",disease
+C0022595,Darier Disease,disease
+C0086196,"Dermatitis, Atopic",disease
+C0021290,"Infant, Newborn, Diseases",disease
+C0004045,Asphyxia Neonatorum,disease
+C0005604,Birth Injuries,disease
+C1565887,"Jaundice, Neonatal",disease
+C0021295,"Infant, Premature, Diseases",disease
+C0027609,Neonatal Abstinence Syndrome,disease
+C0024137,"Lupus Erythematosus, Cutaneous",disease
+C0024138,"Lupus Erythematosus, Discoid",disease
+C0026272,Mixed Connective Tissue Disease,disease
+C0162855,Mucinoses,disease
+C0027145,Myxedema,disease
+C0036413,Scleredema Adultorum,disease
+C0030331,Panniculitis,disease
+C0030328,"Panniculitis, Nodular Nonsuppurative",disease
+C0001144,Acne Vulgaris,disease
+C0877055,Acute Generalized Exanthematous Pustulosis,disease
+C0006145,Breast Diseases,disease
+C0423772,Cutaneous Fistula,disease
+C0011603,Dermatitis,disease
+C0162351,"Dermatitis, Contact",disease
+C0162820,"Dermatitis, Allergic Contact",disease
+C0011974,Diaper Rash,disease
+C0086457,"Dermatitis, Occupational",disease
+C0011606,"Dermatitis, Exfoliative",disease
+C0011608,Dermatitis Herpetiformis,disease
+C0263449,"Dermatitis, Perioral",disease
+C0036508,"Dermatitis, Seborrheic",disease
+C0014743,Erythema Nodosum,disease
+C0036830,Serum Sickness,disease
+C0013595,Eczema,disease
+C0027822,Neurodermatitis,disease
+C0034561,Radiodermatitis,disease
+C0041834,Erythema,disease
+C0014742,Erythema Multiforme,disease
+C0085077,Sweet Syndrome,disease
+C0015704,Facial Dermatoses,disease
+C0016509,Foot Dermatoses,disease
+C0016436,Folliculitis,disease
+C0020678,Hypotrichosis,disease
+C0002170,Alopecia,disease
+C0018567,Hand Dermatoses,disease
+C0022572,Keratoacanthoma,disease
+C0023219,Leg Dermatoses,disease
+C0023801,Lipomatosis,disease
+C0027339,Nail Diseases,disease
+C0031762,Photosensitivity Disorders,disease
+C0038814,Sunburn,disease
+C0033771,Prurigo,disease
+C0033774,Pruritus,symptom
+C0034212,Pyoderma,disease
+C0085652,Pyoderma Gangrenosum,disease
+C0406486,Rosacea,disease
+C0036271,Scalp Dermatoses,disease
+C0162818,"Skin Diseases, Papulosquamous",disease
+C0162848,Lichenoid Eruptions,disease
+C0162850,Pityriasis Lichenoides,disease
+C0030491,Parapsoriasis,disease
+C0032024,Pityriasis,disease
+C0162819,"Skin Diseases, Vascular",disease
+C0080159,"Skin Diseases, Vesiculobullous",disease
+C0000887,Acantholysis,disease
+C0005758,Blister,disease
+C0030805,"Pemphigoid, Bullous",disease
+C0030809,Pemphigus,disease
+C0037299,Skin Ulcer,disease
+C0023223,Leg Ulcer,disease
+C0011127,Pressure Ulcer,disease
+C0038986,Sweat Gland Diseases,disease
+C0085160,Hidradenitis,disease
+C0020458,Hyperhidrosis,disease
+C0020620,Hypohidrosis,disease
+C0026113,Miliaria,disease
+C0025517,Metabolic Diseases,disease
+C0001118,Acid-Base Imbalance,disease
+C0001122,Acidosis,disease
+C0022638,Ketosis,disease
+C0006663,Calcinosis,disease
+C0020598,Hypocalcemia,disease
+C0011849,Diabetes Mellitus,disease
+C0362046,Prediabetic State,disease
+C0282193,Iron Overload,disease
+C0019114,Hemosiderosis,disease
+C0043325,Xanthomatosis,disease
+C0031707,Phosphorus Metabolism Disorders,disease
+C0085682,Hypophosphatemia,disease
+C0043065,Water-Electrolyte Imbalance,disease
+C1136135,Dehydration,disease
+C0020461,Hyperkalemia,disease
+C0043049,Water Intoxication,disease
+C1257753,Child Nutrition Disorders,disease
+C1257752,Infant Nutrition Disorders,disease
+C0162429,Malnutrition,disease
+C0042842,Vitamin A Deficiency,disease
+C0016412,Folic Acid Deficiency,disease
+C0039841,Thiamine Deficiency,disease
+C1527330,Vitamin B 6 Deficiency,disease
+C0032827,Potassium Deficiency,disease
+C0033677,Protein-Energy Malnutrition,disease
+C0038187,Starvation,disease
+C0028756,"Obesity, Morbid",symptom
+C0020457,Hyperglycemic Hyperosmolar Nonketotic Coma,disease
+C0271623,Hypogonadism,disease
+C0030517,Parathyroid Diseases,disease
+C0342342,Hypoparathyroidism,disease
+C0040156,Thyrotoxicosis,disease
+C0040147,Thyroiditis,disease
+C0677607,Hashimoto Disease,disease
+C0040149,"Thyroiditis, Subacute",disease
+C0018133,Graft vs Host Disease,disease
+C0020523,"Hypersensitivity, Immediate",disease
+C0002792,Anaphylaxis,disease
+C0079840,Milk Hypersensitivity,disease
+C0020951,Immune Complex Diseases,disease
+C0003907,Arthus Reaction,disease
+C1619738,Immune Reconstitution Inflammatory Syndrome,disease
+C0021051,Immunologic Deficiency Syndromes,disease
+C2936664,Common Variable Immunodeficiency,disease
+C0242597,Leukocyte-Adhesion Deficiency Syndrome,disease
+C1096155,Macrophage Activation Syndrome,disease
+C0524988,Schnitzler Syndrome,disease
+C0038441,"Stress Disorders, Traumatic",disease
+C0015480,Factitious Disorders,disease
+C0029121,Attention Deficit and Disruptive Behavior Disorders,disease
+C1263846,Attention Deficit Disorder with Hyperactivity,disease
+C0008074,"Child Development Disorders, Pervasive",disease
+C0004352,Autistic Disorder,disease
+C0036344,"Schizophrenia, Catatonic",disease
+C0036347,"Schizophrenia, Disorganized",disease
+C0037650,Somatoform Disorders,disease
+C0006736,Calculi,disease
+C0008519,Choristoma,disease
+C1261287,"Constriction, Pathologic",disease
+C1510475,Diverticulum,disease
+C0012811,"Diverticulum, Colon",disease
+C1306710,Facial Asymmetry,disease
+C0016169,Fistula,disease
+C0019295,"Hernia, Inguinal",disease
+C0019284,"Hernia, Diaphragmatic",disease
+C0019285,"Hernia, Diaphragmatic, Traumatic",disease
+C3489393,"Hernia, Hiatal",disease
+C0038002,Splenomegaly,disease
+C0032584,Polyps,disease
+C0003962,Ascites,disease
+C0008625,Chromosome Aberrations,disease
+C0026499,Monosomy,disease
+C1449861,"Micronuclei, Chromosome-Defective",disease
+C0036868,Sex Chromosome Aberrations,disease
+C0004044,Asphyxia,disease
+C0038644,Sudden Infant Death,disease
+C0013142,Drowning,disease
+C0012634,Disease,disease
+C0001314,Acute Disease,disease
+C0008679,Chronic Disease,disease
+C0010340,Critical Illness,disease
+C0012655,Disease Susceptibility,disease
+C0012675,Diseases in Twins,disease
+C2745965,Emergencies,disease
+C0282631,Facies,disease
+C0020732,Iatrogenic Disease,disease
+C0920627,Rare Diseases,disease
+C0013990,Emphysema,disease
+C0038536,Subcutaneous Emphysema,disease
+C0015378,Extravasation of Diagnostic and Therapeutic Materials,disease
+C2004491,Cicatrix,disease
+C0001511,Tissue Adhesions,disease
+C0031022,Retroperitoneal Fibrosis,disease
+C0018193,"Granuloma, Foreign-Body",disease
+C0018199,"Granuloma, Plasma Cell",disease
+C0399496,"Granulomatosis, Orofacial",disease
+C0015544,Failure to Thrive,disease
+C0019080,Hemorrhage,disease
+C0079027,"Blood Loss, Surgical",disease
+C0032788,Postoperative Hemorrhage,disease
+C0036982,"Shock, Hemorrhagic",disease
+C0020433,Hyperbilirubinemia,disease
+C0022354,"Jaundice, Obstructive",symptom
+C0740394,Hyperuricemia,disease
+C0546884,Hypovolemia,disease
+C0001349,Acute-Phase Reaction,disease
+C0016549,Foreign-Body Reaction,disease
+C0036749,Serositis,disease
+C0242966,Systemic Inflammatory Response Syndrome,disease
+C0021890,Intraoperative Complications,disease
+C0021308,Infarction,disease
+C0023869,Lithiasis,disease
+C0024525,Malacoplakia,disease
+C0033046,Premenstrual Syndrome,disease
+C0015668,Fat Necrosis,disease
+C0017086,Gangrene,disease
+C0029396,"Ossification, Heterotopic",disease
+C0030201,"Pain, Postoperative",symptom
+C0520904,Postoperative Nausea and Vomiting,symptom
+C0038940,Surgical Wound Dehiscence,disease
+C0035361,Retropneumoperitoneum,disease
+C0036974,Shock,disease
+C0026766,Multiple Organ Failure,disease
+C0036986,"Shock, Traumatic",disease
+C0041582,Ulcer,disease
+C0085257,Yin Deficiency,disease
+C0001828,Agricultural Workers' Diseases,disease
+C0282550,Persian Gulf Syndrome,disease
+C0001969,Alcoholic Intoxication,disease
+C0236733,Amphetamine-Related Disorders,disease
+C0009171,Cocaine-Related Disorders,disease
+C0006868,Marijuana Abuse,disease
+C0019337,Heroin Dependence,disease
+C0026552,Morphine Dependence,disease
+C0005658,Bites and Stings,disease
+C0021564,Insect Bites and Stings,disease
+C0037379,Snake Bites,disease
+C0040198,Tick Toxicoses,disease
+C0006635,Cadmium Poisoning,disease
+C0699828,Serotonin Syndrome,disease
+C0014714,Ergotism,disease
+C0679360,Foodborne Diseases,disease
+C0017107,Gas Poisoning,disease
+C0032087,Plant Poisoning,disease
+C0086182,"Substance Abuse, Intravenous",disease
+C0848377,Abdominal Injuries,disease
+C0002694,"Amputation, Traumatic",disease
+C0034628,Radius Fractures,disease
+C0037937,Spinal Injuries,disease
+C0080179,Spinal Fractures,disease
+C0004760,Barotrauma,disease
+C0005700,Blast Injuries,disease
+C0011119,Decompression Sickness,disease
+C0006435,"Burns, Chemical",disease
+C0006436,"Burns, Electric",disease
+C0006437,"Burns, Inhalation",disease
+C0037367,Smoke Inhalation Injury,disease
+C0009938,Contusions,disease
+C0023702,Lightning Injuries,disease
+C1532195,Foreign Bodies,disease
+C0016548,Foreign-Body Migration,disease
+C0332712,"Fractures, Bone",disease
+C0015802,Femoral Fractures,disease
+C0524598,"Fractures, Closed",disease
+C0016662,"Fractures, Open",disease
+C0016663,"Fractures, Spontaneous",disease
+C0035522,Rib Fractures,disease
+C1399682,Heat Stress Disorders,disease
+C0018839,Heat Exhaustion,disease
+C0018843,Heat Stroke,disease
+C0038819,Sunstroke,disease
+C0023220,Leg Injuries,disease
+C0406185,Foot Injuries,disease
+C0026771,Multiple Trauma,disease
+C0036601,Self Mutilation,disease
+C0035127,Cumulative Trauma Disorders,disease
+C0039504,Tendon Injuries,disease
+C0039980,Thoracic Injuries,disease
+C0007172,Heart Injuries,disease
+C0043253,"Wounds, Nonpenetrating",disease
+C0043254,"Wounds, Penetrating",disease
+C0043252,"Wounds, Gunshot",disease
+C0043255,"Wounds, Stab",disease
+C0085178,Needlestick Injuries,disease
+C0015405,"Eye Infections, Fungal",disease
+C0276908,Pneumocystis Infections,disease
+C0341038,Odontogenic Cysts,disease
+C1260325,"Dendritic Cell Sarcoma, Follicular",disease
+C0023492,"Leukemia, T-Cell",disease
+C0024223,Lymphangiomyoma,disease
+C0751674,Lymphangioleiomyomatosis,disease
+C0392788,"Lymphoma, Extranodal NK-T-Cell",disease
+C0206622,Adenomyoma,disease
+C0334463,"Histiocytoma, Malignant Fibrous",disease
+C0019522,"Adenoma, Sweat Gland",disease
+C0206673,Syringoma,disease
+C0010631,Cystadenocarcinoma,disease
+C0027668,"Neoplasms, Vascular Tissue",disease
+C0015807,Femoral Neoplasms,disease
+C0038987,Sweat Gland Neoplasms,disease
+C0032966,"Pregnancy Complications, Neoplastic",disease
+C0020492,Hyperostosis,disease
+C0949690,Spondylarthritis,disease
+C0031900,Pierre Robin Syndrome,disease
+C0029410,"Osteoarthritis, Hip",disease
+C0023892,"Liver Cirrhosis, Biliary",disease
+C0017154,"Gastritis, Atrophic",disease
+C0018926,Hematemesis,symptom
+C0025162,"Megacolon, Toxic",disease
+C2718067,"Fatty Liver, Alcoholic",disease
+C0019065,Hemoperitoneum,disease
+C0026644,"Mouth, Edentulous",disease
+C0017677,"Glossitis, Benign Migratory",disease
+C3489529,Anodontia,disease
+C0011389,Dental Plaque,disease
+C0040456,"Tooth, Impacted",disease
+C0034091,Pulmonary Veno-Occlusive Disease,disease
+C0014591,Epistaxis,disease
+C0042594,Vestibular Diseases,disease
+C0028064,Niemann-Pick Diseases,disease
+C0036489,Sea-Blue Histiocyte Syndrome,disease
+C0268486,Tyrosinemias,disease
+C0750989,Carotid Artery Thrombosis,disease
+C0042376,Vascular Headaches,disease
+C0020258,"Hydrocephalus, Normal Pressure",disease
+C0751215,Hyperesthesia,symptom
+C0393886,Ulnar Nerve Compression Syndromes,disease
+C0155223,Dacryocystitis,disease
+C0035309,Retinal Diseases,disease
+C0005690,Urinary Bladder Fistula,disease
+C0022680,Polycystic Kidney Diseases,disease
+C0035091,"Renal Tubular Transport, Inborn Errors",disease
+C0005683,Urinary Bladder Calculi,disease
+C0020224,Polyhydramnios,disease
+C0041207,"Truncus Arteriosus, Persistent",disease
+C1956257,Pulmonary Valve Stenosis,disease
+C0002963,"Angina Pectoris, Variant",symptom
+C0042512,Ventricular Outflow Obstruction,disease
+C0003490,Aortic Arch Syndromes,disease
+C2347126,Microscopic Polyangiitis,disease
+C0034902,"Red-Cell Aplasia, Pure",disease
+C0042880,Vitamin K Deficiency,disease
+C0206369,Splenosis,disease
+C1138434,"Genetic Diseases, X-Linked",disease
+C0023646,Lichen Planus,disease
+C0020503,"Hyperparathyroidism, Secondary",disease
+C0018023,"Goiter, Nodular",disease
+C0021897,"Goiter, Substernal",disease
+C0009946,Conversion Disorder,disease
+C1623038,Fibrosis,disease
+C0333458,Retrograde Degeneration,disease
+C0018571,Hand Injuries,disease
+C0043246,Lacerations,disease
+C0013363,Primary Dysautonomias,disease
+C0338395,"Meningitis, Escherichia coli",disease
+C0003511,"Syphilis, Cardiovascular",disease
+C0012517,Dipetalonema Infections,disease
+C0023441,"Leukemia, Experimental",disease
+C0205969,Thymoma,disease
+C0008487,Chordoma,disease
+C0001080,Achondroplasia,disease
+C0023221,Leg Length Inequality,disease
+C3179196,Myofascial Pain Syndromes,disease
+C0431362,Holoprosencephaly,disease
+C0015732,Fecal Incontinence,disease
+C0020192,Hyaline Membrane Disease,disease
+C3203358,Hypoventilation,symptom
+C0013446,"Ear Deformities, Acquired",disease
+C1148522,"Hearing Loss, Noise-Induced",symptom
+C0014072,"Encephalomyelitis, Autoimmune, Experimental",disease
+C0027814,"Neuritis, Autoimmune, Experimental",disease
+C0238015,Autonomic Dysreflexia,disease
+C0338591,"Amnesia, Transient Global",symptom
+C0270726,Alexander Disease,disease
+C0751202,Homocystinuria,disease
+C0043121,Wernicke Encephalopathy,disease
+C0749098,"Hematoma, Subdural, Acute",disease
+C0085541,"Epilepsy, Frontal Lobe",disease
+C0278193,"Epilepsy, Reflex",disease
+C0877792,"Sleep Disorders, Circadian Rhythm",disease
+C0796147,Acrocallosal Syndrome,disease
+C0021645,Insulin Coma,disease
+C0026825,Muscle Hypotonia,symptom
+C0271131,Pupil Disorders,symptom
+C0752257,Somatosensory Disorders,symptom
+C1956395,Thoracic Outlet Syndrome,disease
+C0751793,"Trauma, Nervous System",disease
+C0015408,Eye Injuries,disease
+C0017612,"Glaucoma, Open-Angle",disease
+C1561643,"Renal Insufficiency, Chronic",disease
+C0151526,Premature Birth,disease
+C0032964,"Pregnancy Complications, Hematologic",disease
+C1383860,Cardiomegaly,disease
+C2936490,Out-of-Hospital Cardiac Arrest,disease
+C0010073,Coronary Vasospasm,disease
+C1277187,"Ventricular Dysfunction, Left",disease
+C0178824,Hyperemia,disease
+C2909036,Fetofetal Transfusion,disease
+C0019088,Vitamin K Deficiency Bleeding,disease
+C0036415,Sclerema Neonatorum,disease
+C0002514,"Amino Acid Metabolism, Inborn Errors",disease
+C0025534,"Metal Metabolism, Inborn Errors",disease
+C0020941,Immersion Foot,disease
+C0001125,"Acidosis, Lactic",disease
+C0030783,Pellagra,disease
+C0022806,Kwashiorkor,disease
+C0342257,Diabetes Complications,disease
+C0034013,"Puberty, Precocious",disease
+C0242992,Multiple Chemical Sensitivity,disease
+C0577620,Nut Hypersensitivity,disease
+C0376297,Death,disease
+C0036984,"Shock, Surgical",disease
+C0392622,Carbon Tetrachloride Poisoning,disease
+C0008775,Ciguatera Poisoning,disease
+C0004601,Back Injuries,disease
+C0005660,"Bites, Human",disease
+C0027516,Near Drowning,disease
+C1556061,Electric Injuries,disease
+C5690870,Hip Fractures,disease
+C0476171,"Fractures, Comminuted",disease
+C4704922,"Fractures, Stress",disease
+C0016736,Frostbite,disease
+C0008058,Chilblains,disease
+C0016124,Finger Injuries,disease
+C0085111,Ankle Injuries,disease
+C0010392,Crush Syndrome,disease
+C0009770,"Conjunctivitis, Inclusion",disease
+C0040592,Trachoma,disease
+C0022576,"Keratoconjunctivitis, Infectious",disease
+C0006015,Bordetella Infections,disease
+C1258223,Flavobacteriaceae Infections,disease
+C0017575,"Gingivitis, Necrotizing Ulcerative",disease
+C0036969,"Pasteurellosis, Pneumonic",disease
+C0023351,"Leprosy, Tuberculoid",disease
+C0041306,"Tuberculosis, Avian",disease
+C0037118,Silicotuberculosis,disease
+C0085389,Bacillaceae Infections,disease
+C0014736,Erysipelothrix Infections,disease
+C0039007,Swine Erysipelas,disease
+C0036917,"Sexually Transmitted Diseases, Bacterial",disease
+C0037974,Spirochaetales Infections,disease
+C0010043,Corneal Ulcer,disease
+C0006846,"Candidiasis, Cutaneous",disease
+C0085412,Encephalitozoonosis,disease
+C0153064,"Encephalomyelitis, Western Equine",disease
+C0080040,Postpoliomyelitis Syndrome,disease
+C0033839,Pseudorabies,disease
+C0206602,Circoviridae Infections,disease
+C0024793,Marek Disease,disease
+C0002016,Aleutian Mink Disease,disease
+C0949804,Polyomavirus Infections,disease
+C0013570,"Ecthyma, Contagious",disease
+C0013591,"Ectromelia, Infectious",disease
+C0027152,"Myxomatosis, Infectious",disease
+C0019194,"Hepatitis, Viral, Animal",disease
+C0205671,Arenaviridae Infections,disease
+C0206606,Birnaviridae Infections,disease
+C0006008,Border Disease,disease
+C0006023,Borna Disease,disease
+C0206615,Pneumovirus Infections,disease
+C0206604,Arterivirus Infections,disease
+C0010078,Coronaviridae Infections,disease
+C0014342,"Enteritis, Transmissible, of Turkeys",disease
+C0017162,"Gastroenteritis, Transmissible, of Swine",disease
+C0004421,Avian Leukosis,disease
+C0079335,Feline Acquired Immunodeficiency Syndrome,disease
+C1136321,HIV-Associated Lipodystrophy Syndrome,disease
+C0282616,HIV Enteropathy,disease
+C0343755,HIV Wasting Syndrome,disease
+C0032306,"Pneumonia, Progressive Interstitial, of Sheep",disease
+C0085164,"Leukemia, Feline",disease
+C0079864,Murine Acquired Immunodeficiency Syndrome,disease
+C0035921,"Rubella Syndrome, Congenital",disease
+C0752182,Central Nervous System Protozoal Infections,disease
+C0029002,"Onchocerciasis, Ocular",disease
+C0040561,"Toxoplasmosis, Ocular",disease
+C0012561,Diphyllobothriasis,disease
+C0020413,Hymenolepiasis,disease
+C5392955,Taeniasis,disease
+C0018891,"Helminthiasis, Animal",disease
+C0012118,Dictyocaulus Infections,disease
+C0012602,Dirofilariasis,disease
+C0015655,Fascioloidiasis,disease
+C0027583,Nematode Infections,disease
+C0003952,Ascaridiasis,disease
+C0030100,Oxyuriasis,disease
+C0162636,Spirurida Infections,disease
+C0013100,Dracunculiasis,disease
+C0002831,Ancylostomiasis,disease
+C0027528,Necatoriasis,disease
+C0028887,Oesophagostomiasis,disease
+C0040947,Trichostrongyloidiasis,disease
+C0018477,Haemonchiasis,disease
+C0040948,Trichostrongylosis,disease
+C0013514,Echinostomiasis,disease
+C0030500,"Parasitic Diseases, Animal",disease
+C0033741,"Protozoan Infections, Animal",disease
+C0036231,Sarcocystosis,disease
+C0007930,Chagas Cardiomyopathy,disease
+C0040923,Trichomonas Vaginitis,disease
+C0013578,Ectoparasitic Infestations,disease
+C0024710,Scabies,disease
+C0040124,Thyroglossal Cyst,disease
+C0023420,Leukemia L1210,disease
+C0023421,Leukemia L5178,disease
+C0023429,Leukemia P388,disease
+C0023494,"Leukemia, Prolymphocytic, T-Cell",disease
+C0023484,"Leukemia, Plasma Cell",disease
+C0023488,"Leukemia, Radiation-Induced",disease
+C0206764,"Neoplasms, Complex and Mixed",disease
+C0206624,Hepatoblastoma,disease
+C0027656,"Neoplasms, Connective Tissue",disease
+C0936248,Chondroma,disease
+C0008479,Chondrosarcoma,disease
+C0206638,Giant Cell Tumor of Bone,disease
+C0036221,Mast-Cell Sarcoma,disease
+C0206641,Osteochondromatosis,disease
+C0015306,"Exostoses, Multiple Hereditary",disease
+C0001422,Adenofibroma,disease
+C0206650,Fibroadenoma,disease
+C0027086,Myoma,disease
+C0206658,Smooth Muscle Tumor,disease
+C0036213,Sarcoma 37,disease
+C0036211,Sarcoma 180,disease
+C0206093,Neuroectodermal Tumors,disease
+C0751677,"Neoplasms, Neuroepithelial",disease
+C0017075,Ganglioneuroma,disease
+C0206693,"Carcinoma, Medullary",disease
+C0086768,Vipoma,disease
+C0751567,Trophoblastic Neoplasms,disease
+C0022134,"Adenoma, Islet Cell",disease
+C0021670,Insulinoma,disease
+C0206669,"Adenoma, Liver Cell",disease
+C0206677,Adenomatous Polyps,disease
+C0206709,"Cystadenoma, Serous",disease
+C0206682,"Adenocarcinoma, Follicular",disease
+C0007135,"Adenocarcinoma, Scirrhous",disease
+C0206686,Adrenocortical Carcinoma,disease
+C1332347,"Carcinoma, Intraductal, Noninfiltrating",disease
+C0017689,Glucagonoma,disease
+C0206694,"Carcinoma, Mucoepidermoid",disease
+C0206700,"Cystadenocarcinoma, Papillary",disease
+C0206708,Cervical Intraepithelial Neoplasia,disease
+C0282612,Prostatic Intraepithelial Neoplasia,disease
+C0007128,"Carcinoma, Krebs 2",disease
+C0206704,"Carcinoma, Large Cell",disease
+C0243038,"Carcinoma, Lewis Lung",disease
+C0206713,"Papilloma, Intraductal",disease
+C0206724,Sex Cord-Gonadal Stromal Tumors,disease
+C0018206,Granulosa Cell Tumor,disease
+C0024167,Luteoma,disease
+C0023601,Leydig Cell Tumor,disease
+C0036769,Sertoli Cell Tumor,disease
+C0027830,Neurofibroma,disease
+C0206728,"Neurofibroma, Plexiform",disease
+C0027831,Neurofibromatosis 1,disease
+C0027858,Neuroma,disease
+C0027960,Nevus,disease
+C0027961,Nevus of Ota,disease
+C0022364,Jaw Neoplasms,disease
+C0030215,Palatal Neoplasms,disease
+C0751394,Nose Neoplasms,disease
+C3179349,Gastrointestinal Stromal Tumors,disease
+C0027662,Multiple Endocrine Neoplasia,disease
+C0025268,Multiple Endocrine Neoplasia Type 2a,disease
+C0027577,Nelson Syndrome,disease
+C0042162,Uveal Neoplasms,disease
+C0008523,Choroid Neoplasms,disease
+C0023532,"Leukoplakia, Oral",disease
+C0029897,Otorhinolaryngologic Neoplasms,disease
+C0027766,Nervous System Neoplasms,disease
+C0751886,Brain Stem Neoplasms,disease
+C0007762,Cerebellar Neoplasms,disease
+C0038874,Supratentorial Neoplasms,disease
+C0153644,Cranial Nerve Neoplasms,disease
+C0036503,Sebaceous Gland Neoplasms,disease
+C0035244,Respiratory Tract Neoplasms,disease
+C0042237,Vaginal Neoplasms,disease
+C0007122,"Carcinoma, Brown-Pearce",disease
+C0027666,"Neoplasms, Radiation-Induced",disease
+C0027626,Neoplasm Invasiveness,disease
+C0043515,Zollinger-Ellison Syndrome,disease
+C0282313,Precancerous Conditions,disease
+C0013338,"Dwarfism, Pituitary",disease
+C0039743,Thanatophoric Dysplasia,disease
+C2931196,Craniofacial Dysostosis,disease
+C0035934,Rubinstein-Taybi Syndrome,disease
+C1833340,Craniosynostoses,disease
+C0039075,Syndactyly,disease
+C0016842,Funnel Chest,disease
+C0282102,Chondrodysplasia Punctata,disease
+C0008928,Cleidocranial Dysplasia,disease
+C0013903,Ellis-Van Creveld Syndrome,disease
+C4704884,Fibrous Dysplasia of Bone,disease
+C0242292,"Fibrous Dysplasia, Polyostotic",disease
+C4721789,Hyperostosis Frontalis Interna,disease
+C0029464,Osteosclerosis,disease
+C0242699,"Bone Demineralization, Pathologic",disease
+C0033788,Mucolipidoses,disease
+C3887650,Osteomalacia,disease
+C1721053,Female Athlete Triad Syndrome,disease
+C3494506,Pseudohypoparathyroidism,disease
+C0033835,Pseudopseudohypoparathyroidism,disease
+C0206231,Bone Malalignment,disease
+C0002382,Alveolar Bone Loss,disease
+C0014571,"Epiphyses, Slipped",disease
+C1442903,Exostoses,disease
+C2674695,"Osteoarthropathy, Primary Hypertrophic",disease
+C0036310,Scheuermann Disease,disease
+C0037932,Spinal Curvatures,disease
+C0024003,Lordosis,disease
+C1442869,"Osteoarthritis, Spine",disease
+C5545315,Spondylolisthesis,disease
+C1136148,"Fasciitis, Plantar",disease
+C0025585,Foot Deformities,disease
+C0152237,Flatfoot,disease
+C0016507,"Foot Deformities, Acquired",disease
+C0018536,Hallux Valgus,disease
+C1136154,Posterior Tibial Tendon Dysfunction,disease
+C0018566,"Hand Deformities, Congenital",disease
+C0033324,Prognathism,disease
+C0024689,Mandibular Diseases,disease
+C0079173,Craniomandibular Disorders,disease
+C0003090,Ankylosis,disease
+C0409959,"Osteoarthritis, Knee",disease
+C0003892,"Arthropathy, Neurogenic",disease
+C2936290,Femoracetabular Impingement,disease
+C4551649,"Hip Dislocation, Congenital",disease
+C0022410,Joint Instability,disease
+C0242287,Isaacs Syndrome,disease
+C0752352,"Muscular Disorders, Atrophic",disease
+C0686353,"Muscular Dystrophies, Limb-Girdle",disease
+C0175709,"Myopathies, Structural, Congenital",disease
+C0546125,"Myopathies, Nemaline",disease
+C0030443,"Paralyses, Familial Periodic",disease
+C1568272,Tendinopathy,disease
+C0151491,Musculoskeletal Abnormalities,disease
+C0220704,DiGeorge Syndrome,disease
+C1527404,Noonan Syndrome,disease
+C0206762,"Limb Deformities, Congenital",disease
+C0031575,Ectromelia,disease
+C0152427,Polydactyly,disease
+C1855284,Biliary Atresia,disease
+C0085280,Alagille Syndrome,disease
+C0003466,"Anus, Imperforate",disease
+C0014850,Esophageal Atresia,disease
+C0021828,Intestinal Atresia,disease
+C0017128,Gastric Fistula,disease
+C0030290,Pancreatic Fistula,disease
+C0014858,Esophageal Motility Disorders,disease
+C0032249,Plummer-Vinson Syndrome,disease
+C0014869,"Esophagitis, Peptic",disease
+C0009374,"Colonic Diseases, Functional",disease
+C0001727,Afferent Loop Syndrome,disease
+C0005750,Blind Loop Syndrome,disease
+C0036992,Short Bowel Syndrome,disease
+C0038054,"Sprue, Tropical",disease
+C0038238,Steatorrhea,disease
+C0032266,Pneumatosis Cystoides Intestinalis,disease
+C0033680,Protein-Losing Enteropathies,disease
+C0001075,Achlorhydria,disease
+C0152020,Gastroparesis,symptom
+C0019156,Hepatic Veno-Occlusive Disease,disease
+C0600452,Hepatopulmonary Syndrome,disease
+C0023893,"Liver Cirrhosis, Experimental",disease
+C0029163,Oral Hemorrhage,symptom
+C0017577,Gingival Diseases,disease
+C0376480,Gingival Overgrowth,disease
+C0017566,Gingival Hyperplasia,disease
+C0266929,Chronic Periodontitis,disease
+C0031094,Periodontal Pocket,disease
+C0040444,Tooth Migration,disease
+C0043352,Xerostomia,disease
+C0038364,"Stomatitis, Denture",disease
+C0024421,Macroglossia,disease
+C0162475,"Tooth, Supernumerary",disease
+C0011330,Dental Calculus,disease
+C1527284,Dental Pulp Calcification,disease
+C0011406,Dental Pulp Exposure,disease
+C0026618,"Fluorosis, Dental",disease
+C0242385,Malocclusion,disease
+C0011385,"Dental Occlusion, Traumatic",disease
+C0399523,"Malocclusion, Angle Class I",disease
+C0024638,"Malocclusion, Angle Class II",disease
+C0011360,Dental Fissures,disease
+C0040434,Tooth Discoloration,disease
+C0040428,Tooth Abrasion,disease
+C5691421,Tooth Erosion,disease
+C0040451,Tooth Resorption,disease
+C0035851,Root Resorption,disease
+C0015263,"Asthma, Exercise-Induced",disease
+C0023052,Laryngeal Edema,disease
+C0340228,Laryngostenosis,disease
+C0542142,Vocal Cord Paralysis,symptom
+C0751201,Hoarseness,symptom
+C0031190,Persistent Fetal Circulation Syndrome,disease
+C0037061,Siderosis,disease
+C0206063,Radiation Pneumonitis,disease
+C0025048,Meconium Aspiration Syndrome,disease
+C0006287,Bronchopulmonary Dysplasia,disease
+C0019077,Hemopneumothorax,disease
+C0751761,"Sleep Apnea, Obstructive",disease
+C0031880,Obesity Hypoventilation Syndrome,disease
+C0008039,Cheyne-Stokes Respiration,symptom
+C0026635,Mouth Breathing,symptom
+C0018780,"Hearing Loss, High-Frequency",symptom
+C0033074,Presbycusis,symptom
+C0009197,Cochlear Diseases,disease
+C0029899,Otosclerosis,disease
+C0004303,"Auditory Diseases, Central",disease
+C0750942,Auditory Perceptual Disorders,symptom
+C0751875,"Demyelinating Autoimmune Diseases, CNS",disease
+C0752087,"Myasthenia Gravis, Autoimmune, Experimental",disease
+C0007462,Causalgia,disease
+C0034931,Reflex Sympathetic Dystrophy,disease
+C0393571,Multiple System Atrophy,disease
+C0751721,"Syncope, Vasovagal",symptom
+C0162473,"Sweating, Gustatory",disease
+C0751739,Basal Ganglia Cerebrovascular Disease,disease
+C0013423,Dystonia Musculorum Deformans,disease
+C0751398,Olivopontocerebellar Atrophies,disease
+C0040517,Tourette Syndrome,disease
+C0751813,"Brain Injury, Chronic",disease
+C3542499,Canavan Disease,disease
+C0023521,"Leukodystrophy, Globoid Cell",disease
+C0023374,Lesch-Nyhan Syndrome,disease
+C0751491,Sandhoff Disease,disease
+C1848922,Tay-Sachs Disease,disease
+C0268247,"Niemann-Pick Disease, Type C",disease
+C0751285,Maple Syrup Urine Disease,disease
+C0028860,Oculocerebrorenal Syndrome,disease
+C0751708,Peroxisomal Disorders,disease
+C0034960,Refsum Disease,disease
+C0085547,"Phenylketonuria, Maternal",disease
+C0268542,Ornithine Carbamoyltransferase Deficiency Disease,disease
+C0022610,Kernicterus,disease
+C0751668,Machado-Joseph Disease,disease
+C0016719,Friedreich Ataxia,disease
+C0022958,"Dementia, Multi-Infarct",disease
+C0751531,Subclavian Steal Syndrome,disease
+C0751816,Carotid Artery Injuries,disease
+C0393561,"Dementia, Vascular",disease
+C0007774,Cerebral Arterial Diseases,disease
+C0023529,"Leukomalacia, Periventricular",disease
+C0338451,Frontotemporal Dementia,disease
+C0236642,Pick Disease of the Brain,disease
+C0014068,Encephalomalacia,disease
+C0751785,Unverricht-Lundborg Syndrome,disease
+C0752166,Bardet-Biedl Syndrome,disease
+C0751221,Hyperpituitarism,disease
+C0221406,Pituitary ACTH Hypersecretion,disease
+C0162534,Prion Diseases,disease
+C0085209,"Encephalopathy, Bovine Spongiform",disease
+C0036457,Scrapie,disease
+C0026847,"Muscular Atrophy, Spinal",disease
+C0700595,Spinal Muscular Atrophies of Childhood,disease
+C0751820,Facial Nerve Injuries,disease
+C0221060,Mobius Syndrome,disease
+C0751945,Hypoglossal Nerve Diseases,disease
+C0338508,"Optic Atrophy, Autosomal Dominant",disease
+C0393789,Trigeminal Nerve Diseases,disease
+C0431383,Hydranencephaly,disease
+C0751870,"Heredodegenerative Disorders, Nervous System",disease
+C0035372,Rett Syndrome,disease
+C0085084,Motor Neuron Disease,disease
+C0393540,"Bulbar Palsy, Progressive",disease
+C0949664,Tauopathies,disease
+C0278076,Tics,symptom
+C0231694,"Gait Disorders, Neurologic",symptom
+C0751257,Language Development Disorders,symptom
+C0349464,Korsakoff Syndrome,symptom
+C0010314,Cri-du-Chat Syndrome,disease
+C1136249,"Mental Retardation, X-Linked",disease
+C0026705,Mucopolysaccharidosis II,disease
+C0175702,Williams Syndrome,disease
+C0872084,Sarcopenia,symptom
+C0586323,Alcohol Withdrawal Seizures,disease
+C0553757,Olfaction Disorders,symptom
+C5392959,Taste Disorders,symptom
+C0278155,Ageusia,symptom
+C0042798,"Vision, Low",symptom
+C0751950,Neuromuscular Junction Diseases,disease
+C0001198,Acrodynia,disease
+C0235880,Mononeuropathies,disease
+C0456516,Median Neuropathy,disease
+C0206239,Cubital Tunnel Syndrome,disease
+C0085677,Alcoholic Neuropathy,disease
+C0001957,Alcohol Withdrawal Delirium,disease
+C0751859,"Lead Poisoning, Nervous System",disease
+C0751860,"Lead Poisoning, Nervous System, Childhood",disease
+C0677050,Manganese Poisoning,disease
+C0546127,"Mercury Poisoning, Nervous System",disease
+C0752285,"Sleep Disorders, Intrinsic",disease
+C0027404,Narcolepsy,disease
+C0393776,REM Sleep Parasomnias,disease
+C0751794,"Head Injuries, Penetrating",disease
+C0009759,Conjunctival Diseases,disease
+C0085109,Corneal Neovascularization,disease
+C0010038,Corneal Opacity,disease
+C0015393,Eye Abnormalities,disease
+C0003119,Anophthalmos,disease
+C0009363,Coloboma,disease
+C0035313,Retinal Dysplasia,disease
+C0015398,"Eye Diseases, Hereditary",disease
+C0078922,"Albinism, Oculocutaneous",disease
+C0035334,Retinitis Pigmentosa,disease
+C0005741,Blepharitis,disease
+C5392168,Aphakia,disease
+C0003535,"Aphakia, Postcataract",disease
+C0017614,Ocular Hypertension,disease
+C0034951,Refractive Errors,disease
+C1847524,Astigmatism,disease
+C0020490,Hyperopia,disease
+C0011884,Diabetic Retinopathy,disease
+C0006123,Retinal Artery Occlusion,disease
+C0035304,Retinal Degeneration,disease
+C5200822,Retinal Neovascularization,disease
+C0035344,Retinopathy of Prematurity,disease
+C4074771,Infertility,disease
+C0848558,Hypospadias,disease
+C0033117,Priapism,disease
+C0237873,"Sexual Dysfunction, Physiological",disease
+C0242998,"Impotence, Vasculogenic",disease
+C0037859,Spermatocele,disease
+C0042063,Urogenital Abnormalities,disease
+C0206081,Hyperandrogenism,disease
+C0268301,Androgen-Insensitivity Syndrome,disease
+C0018054,"Gonadal Dysgenesis, 46,XY",disease
+C1563720,Kallmann Syndrome,disease
+C0016697,Freemartinism,disease
+C0027706,"Nephritis, Hereditary",disease
+C0020500,Hyperoxaluria,disease
+C0085548,"Polycystic Kidney, Autosomal Recessive",disease
+C0027709,Nephrocalcinosis,disease
+C0392525,Nephrolithiasis,disease
+C0027719,Nephrosclerosis,disease
+C0027720,Nephrosis,disease
+C3245525,"Glycosuria, Renal",disease
+C0033805,Pseudohypoaldosteronism,disease
+C0242528,Azotemia,disease
+C0041954,Ureteral Diseases,disease
+C0878773,"Urinary Bladder, Overactive",symptom
+C0014394,Enuresis,disease
+C0017979,Glycosuria,disease
+C0042025,"Urinary Incontinence, Stress",symptom
+C1720887,Female Urogenital Diseases,disease
+C0003128,Anovulation,disease
+C0456483,Endometrial Hyperplasia,disease
+C0025323,Menorrhagia,disease
+C0205990,Uterine Prolapse,disease
+C0042998,Vulvovaginitis,disease
+C0042582,Vesicovaginal Fistula,disease
+C0000821,"Abortion, Threatened",disease
+C0015938,Fetal Macrosomia,symptom
+C0455988,Hydrops Fetalis,symptom
+C0015924,Fetal Hypoxia,symptom
+C1285261,Fetal Nutrition Disorders,disease
+C0341934,"Hypertension, Pregnancy-Induced",disease
+C0162739,HELLP Syndrome,disease
+C0020450,Hyperemesis Gravidarum,symptom
+C0000832,Abruptio Placentae,disease
+C0233283,Breech Presentation,disease
+C0013418,Dystocia,disease
+C0079924,Oligohydramnios,disease
+C0032051,Placental Insufficiency,disease
+C0032993,"Pregnancy, Prolonged",disease
+C2909478,"Depression, Postpartum",disease
+C0013274,"Ductus Arteriosus, Patent",disease
+C0013481,Ebstein Anomaly,disease
+C0014116,Endocardial Cushion Defects,disease
+C0152101,Hypoplastic Left Heart Syndrome,disease
+C5690880,Transposition of Great Vessels,disease
+C0003813,"Arrhythmia, Sinus",disease
+C0001396,Adams-Stokes Syndrome,disease
+C0004245,Atrioventricular Block,disease
+C0039234,"Tachycardia, Ectopic Atrial",disease
+C0085128,"Cardiac Output, High",symptom
+C0162770,"Hypertrophy, Right Ventricular",disease
+C0007192,"Cardiomyopathy, Alcoholic",disease
+C0949658,"Cardiomyopathy, Hypertrophic, Familial",disease
+C0853897,Diabetic Cardiomyopathies,disease
+C0553980,Endomyocardial Fibrosis,disease
+C0013608,"Edema, Cardiac",symptom
+C1135196,"Heart Failure, Diastolic",disease
+C1959586,Heart Rupture,disease
+C0206064,Microvascular Angina,disease
+C0376416,Myocardial Stunning,disease
+C0242707,"Ventricular Dysfunction, Right",disease
+C0019243,"Angioedemas, Hereditary",disease
+C1696708,Prehypertension,disease
+C1138421,Telangiectasis,disease
+C0178324,Vascular System Injuries,disease
+C0042485,Venous Insufficiency,disease
+C0002891,"Anemia, Neonatal",disease
+C0008533,Hemophilia B,disease
+C0005818,Blood Platelet Disorders,disease
+C0162538,IgA Deficiency,disease
+C0239981,Hypoalbuminemia,disease
+C0398623,Thrombophilia,disease
+C0024215,"Lymphangiectasis, Intestinal",disease
+C0004903,Beckwith-Wiedemann Syndrome,disease
+C0175694,Smith-Lemli-Opitz Syndrome,disease
+C1955934,Trichothiodystrophy Syndromes,disease
+C0014527,Epidermolysis Bullosa,disease
+C0079136,Epidermolysis Bullosa Dystrophica,disease
+C0598608,Hyperhomocysteinemia,disease
+C0282577,Congenital Disorders of Glycosylation,disease
+C0017920,Glycogen Storage Disease Type I,disease
+C0017922,Glycogen Storage Disease Type III,disease
+C0026703,Mucopolysaccharidoses,disease
+C0026708,Mucopolysaccharidosis I,disease
+C0026706,Mucopolysaccharidosis III,disease
+C0034350,"Pyruvate Metabolism, Inborn Errors",disease
+C0022350,"Jaundice, Chronic Idiopathic",disease
+C0020474,"Hyperlipidemia, Familial Combined",disease
+C0023817,Hyperlipoproteinemia Type I,disease
+C1704417,Hyperlipoproteinemia Type II,disease
+C0020479,Hyperlipoproteinemia Type III,disease
+C0020480,Hyperlipoproteinemia Type IV,disease
+C0020481,Hyperlipoproteinemia Type V,disease
+C0000744,Abetalipoproteinemia,disease
+C0023794,Lipidoses,disease
+C0085078,Lysosomal Storage Diseases,disease
+C0020630,Hypophosphatasia,disease
+C2936847,Acatalasia,disease
+C0037277,"Skin Diseases, Genetic",disease
+C1306503,"Hernia, Umbilical",disease
+C0022548,Keloid,disease
+C0085750,Fibrocystic Breast Disease,disease
+C1449721,Gynecomastia,disease
+C0162823,"Dermatitis, Irritant",disease
+C0162830,"Dermatitis, Phototoxic",disease
+C0085119,Foot Ulcer,disease
+C0019572,Hirsutism,symptom
+C0020555,Hypertrichosis,disease
+C0022594,Keratosis,disease
+C0376154,Callosities,disease
+C0025209,Melanosis,disease
+C0000889,Acanthosis Nigricans,disease
+C0023321,Lentigo,disease
+C0006666,Calciphylaxis,disease
+C1257958,Glucose Metabolism Disorders,disease
+C0011859,"Diabetes Mellitus, Lipoatrophic",disease
+C0271650,Glucose Intolerance,disease
+C0012715,Iron Metabolism Disorders,disease
+C0154251,Lipid Metabolism Disorders,disease
+C0242339,Dyslipidemias,disease
+C0020476,Hyperlipoproteinemias,disease
+C0085681,Hyperphosphatemia,disease
+C0043046,Wasting Syndrome,disease
+C0020579,Hypervitaminosis A,disease
+C0008412,Choline Deficiency,disease
+C0035528,Riboflavin Deficiency,disease
+C0005122,Beriberi,disease
+C0042875,Vitamin E Deficiency,disease
+C0038981,Swayback,disease
+C1257763,Overnutrition,disease
+C2936179,"Obesity, Abdominal",disease
+C0018050,Gonadal Disorders,disease
+C0151721,Eunuchism,disease
+C0034012,"Puberty, Delayed",disease
+C0015190,Euthyroid Sick Syndromes,disease
+C0018022,"Goiter, Endemic",disease
+C0020551,Hyperthyroxinemia,disease
+C2940786,Thyroid Hormone Resistance Syndrome,disease
+C0559470,Peanut Hypersensitivity,disease
+C0001818,Agoraphobia,disease
+C0020703,Dissociative Disorders,disease
+C0596170,Binge-Eating Disorder,disease
+C2267227,Bulimia Nervosa,disease
+C0009983,Coprophagia,symptom
+C0232480,Pica,disease
+C0040953,Trichotillomania,disease
+C0003477,"Anxiety, Separation",disease
+C0236792,Asperger Syndrome,disease
+C0525042,Feeding and Eating Disorders of Childhood,disease
+C0026613,Motor Skills Disorders,disease
+C0038273,Stereotypic Movement Disorder,disease
+C4704929,Dysthymic Disorder,disease
+C0085159,Seasonal Affective Disorder,disease
+C0021151,Schizotypal Personality Disorder,disease
+C0011251,"Schizophrenia, Paranoid",disease
+C0525047,Sexual and Gender Disorders,disease
+C0033953,"Sexual Dysfunctions, Psychological",disease
+C0040765,Transsexualism,disease
+C0005887,Body Dysmorphic Disorders,disease
+C0333641,Atrophy,disease
+C0012359,"Dilatation, Pathologic",disease
+C0019288,"Hernia, Femoral",disease
+C0019326,"Hernia, Ventral",disease
+C0019310,"Hernia, Obturator",disease
+C0020564,Hypertrophy,disease
+C0027344,"Nails, Malformed",disease
+C2936349,"Plaque, Amyloid",disease
+C0015697,"Plaque, Atherosclerotic",disease
+C0021846,Intestinal Polyps,disease
+C0009376,Colonic Polyps,disease
+C0600519,Ventricular Remodeling,disease
+C0376628,Chromosome Breakage,disease
+C0969675,Uniparental Disomy,disease
+C0043379,XYY Karyotype,disease
+C0040715,"Translocation, Genetic",disease
+C0035624,Rigor Mortis,disease
+C1566590,Delayed Graft Function,disease
+C0020507,Hyperplasia,disease
+C0013390,Dysmenorrhea,symptom
+C0028949,Oligomenorrhea,disease
+C0025568,Metaplasia,disease
+C0018128,"Graft Occlusion, Vascular",disease
+C0085258,Yang Deficiency,disease
+C0027412,Opioid-Related Disorders,disease
+C0016325,Fluoride Poisoning,disease
+C0026865,Mushroom Poisoning,disease
+C0025427,Mercury Poisoning,disease
+C0026953,Mycotoxicosis,disease
+C0023119,Lathyrism,disease
+C0028043,Tobacco Use Disorder,disease
+C0016537,Forearm Injuries,disease
+C0041601,Ulna Fractures,disease
+C0020162,Humeral Fractures,disease
+C0037005,Shoulder Dislocation,disease
+C0043264,Wrist Injuries,disease
+C0015401,Eye Foreign Bodies,disease
+C0022363,Jaw Fractures,disease
+C0024692,Mandibular Fractures,disease
+C0162437,Orbital Fractures,disease
+C0019554,Hip Dislocation,disease
+C1135812,Patellar Dislocation,disease
+C0015806,Femoral Neck Fractures,disease
+C0521169,"Fractures, Compression",disease
+C0016665,"Fractures, Ununited",disease
+C0033785,Pseudarthrosis,disease
+C0521170,Osteoporotic Fractures,disease
+C0009353,Colles' Fracture,disease
+C1564560,"Fractures, Cartilage",disease
+C0022744,Knee Injuries,disease
+C0027531,Neck Injuries,disease
+C0043145,Whiplash Injuries,disease
+C0037578,Soft Tissue Injuries,disease
+C0080194,Sprains and Strains,disease
+C0036916,Sexually Transmitted Diseases,disease
+C0006852,"Candidiasis, Vulvovaginal",disease
+C0085438,"Meningitis, Fungal",disease
+C0751905,Bell Palsy,disease
+C0751675,"Neuroectodermal Tumors, Primitive",disease
+C0027962,"Nevus, Pigmented",disease
+C0242387,Mandibulofacial Dysostosis,disease
+C0016508,"Foot Deformities, Congenital",disease
+C0018565,"Hand Deformities, Acquired",disease
+C0019112,Hemorrhoids,disease
+C3658299,Zellweger Syndrome,disease
+C0018777,"Hearing Loss, Conductive",symptom
+C0001163,Vestibulocochlear Nerve Diseases,disease
+C0751127,"Epilepsy, Post-Traumatic",disease
+C0393693,"Epilepsy, Benign Neonatal",disease
+C0014877,Esotropia,disease
+C0015310,Exotropia,disease
+C0338503,Septo-Optic Dysplasia,disease
+C0454560,Language Disorders,symptom
+C0002018,Dyslexia,symptom
+C0474368,Labor Pain,symptom
+C0686721,Shaken Baby Syndrome,disease
+C0042909,Vitreous Hemorrhage,disease
+C0339543,Epiretinal Membrane,disease
+C0339546,Retinal Detachment,disease
+C0024441,Retinal Perforations,disease
+C1720771,Testicular Hydrocele,disease
+C1567426,Multicystic Dysplastic Kidney,disease
+C2004487,Vaginismus,disease
+C0007871,Uterine Cervical Incompetence,disease
+C0025874,Metrorrhagia,disease
+C0000810,"Abortion, Incomplete",disease
+C0312416,Morning Sickness,symptom
+C1721023,Nuchal Cord,disease
+C0019343,Pemphigoid Gestationis,disease
+C0032994,"Pregnancy, Tubal",disease
+C3665358,Galactorrhea,disease
+C0018816,Heart Septal Defects,disease
+C0242855,Pulmonary Atresia,disease
+C1384670,Single Umbilical Artery,disease
+C0014117,Endocardial Fibroelastosis,disease
+C0032319,Pneumopericardium,disease
+C0238096,"Embolism, Paradoxical",disease
+C0015959,Fetomaternal Transfusion,disease
+C0015523,Factor XI Deficiency,disease
+C4722227,Hypoprothrombinemias,disease
+C3853779,"Thrombocytopenia, Neonatal Alloimmune",disease
+C3543867,"Ichthyosis, Lamellar",disease
+C0017923,Glycogen Storage Disease Type IV,disease
+C0220991,"Hyperbilirubinemia, Hereditary",disease
+C1257809,"Steroid Metabolism, Inborn Errors",disease
+C0342488,"Mineralocorticoid Excess Syndrome, Apparent",disease
+C0030445,"Paralysis, Obstetric",disease
+C0857007,"Hyperbilirubinemia, Neonatal",disease
+C5392973,Conduct Disorder,disease
+C0948163,Leukoaraiosis,disease
+C0036429,Sclerosis,disease
+C0031391,Phencyclidine Abuse,disease
+C0037006,Shoulder Fractures,disease
+C0038505,Sturge-Weber Syndrome,disease
+C1384606,Dyspareunia,disease
+C0162482,Uterine Inversion,disease
+C0042135,Uterine Inertia,disease
+C0022739,Klippel-Trenaunay-Weber Syndrome,disease
+C1258090,"Pneumonia of Swine, Mycoplasmal",disease
+C0206746,Hepadnaviridae Infections,disease
+C0277066,Cysticercosis,disease
+C0206695,"Carcinoma, Neuroendocrine",disease
+C1306214,ACTH-Secreting Pituitary Adenoma,disease
+C2919945,"Hemangioma, Cavernous, Central Nervous System",disease
+C0206667,Adrenocortical Adenoma,disease
+C0015424,Eyelid Neoplasms,disease
+C1456779,Optic Nerve Neoplasms,disease
+C0001231,"ACTH Syndrome, Ectopic",disease
+C2745963,Kashin-Beck Disease,disease
+C1258085,Barrett Esophagus,disease
+C0376620,Pouchitis,disease
+C0149771,Rectocele,disease
+C2350350,Ventilator-Induced Lung Injury,disease
+C0338480,Migraine without Aura,disease
+C0033893,Tension-Type Headache,disease
+C0393739,Cluster Headache,disease
+C0155305,"Optic Neuropathy, Ischemic",disease
+C0032768,"Neuralgia, Postherpetic",symptom
+C0751930,Femoral Neuropathy,disease
+C1563709,Graves Ophthalmopathy,disease
+C0271178,Macular Edema,disease
+C0600518,Choroidal Neovascularization,disease
+C0030593,Pars Planitis,disease
+C0014588,Epispadias,disease
+C0010695,Cystocele,disease
+C0023804,"Lipomatosis, Multiple Symmetrical",disease
+C1720859,"Lipodystrophy, Familial Partial",disease
+C0860549,Refeeding Syndrome,disease
+C0376185,Hypoaldosteronism,disease
+C0030662,Gambling,disease
+C0752235,Lyme Neuroborreliosis,disease
+C0752342,Neuroaspergillosis,disease
+C0026393,Molluscum Contagiosum,disease
+C0242917,Filoviridae Infections,disease
+C0206751,Rhabdoviridae Infections,disease
+C0085306,Feline Infectious Peritonitis,disease
+C0078911,AIDS-Associated Nephropathy,disease
+C0080323,Visna,disease
+C0034049,"Pulmonary Adenomatosis, Ovine",disease
+C0012102,Dicrocoeliasis,disease
+C0026229,Mite Infestations,disease
+C0023439,"Leukemia, Eosinophilic, Acute",disease
+C0025464,Mesenchymoma,disease
+C0206627,"Mixed Tumor, Mullerian",disease
+C0017525,Giant Cell Tumors,disease
+C0079218,"Fibromatosis, Aggressive",disease
+C0206647,Dermatofibrosarcoma,disease
+C0037661,Somatostatinoma,disease
+C0027832,Neurofibromatosis 2,disease
+C0023743,Linitis Plastica,disease
+C0206696,"Carcinoma, Signet Ring Cell",disease
+C1333190,"Neoplasms, Cystic, Mucinous, and Serous",disease
+C0751689,Nerve Sheath Neoplasms,disease
+C0206731,Angiofibroma,disease
+C1333990,"Colorectal Neoplasms, Hereditary Nonpolyposis",disease
+C0009761,Conjunctival Neoplasms,disease
+C0024958,Maxillary Sinus Neoplasms,disease
+C1096154,Opsoclonus-Myoclonus Syndrome,disease
+C0020498,"Hyperostosis, Diffuse Idiopathic Skeletal",disease
+C0162666,Mitochondrial Encephalomyopathies,disease
+C0238288,"Muscular Dystrophy, Facioscapulohumeral",disease
+C0238358,Hypokalemic Periodic Paralysis,disease
+C0014863,"Esophageal Spasm, Diffuse",disease
+C0917875,"Diverticulosis, Esophageal",disease
+C0238067,"Colitis, Collagenous",disease
+C0033246,Proctitis,disease
+C0015734,Fecal Impaction,disease
+C1257915,Intestinal Polyposis,disease
+C1867403,"Pyloric Stenosis, Hypertrophic",disease
+C0162566,Porphyria Cutanea Tarda,disease
+C0162532,"Porphyria, Variegate",disease
+C0376670,"Pancreatitis, Alcoholic",disease
+C0031028,Periapical Diseases,disease
+C0454545,Dysphonia,symptom
+C0020303,Hydropneumothorax,disease
+C0475712,"Sleep Apnea, Central",disease
+C1720922,Respiratory Aspiration,symptom
+C0752347,Lewy Body Disease,disease
+C0751817,Carotid-Cavernous Sinus Fistula,disease
+C0271371,Oculomotor Nerve Diseases,disease
+C0271270,Cogan Syndrome,disease
+C0019816,Hereditary Sensory and Motor Neuropathy,disease
+C0019562,von Hippel-Lindau Disease,disease
+C0037771,"Paraparesis, Spastic",symptom
+C0013378,Dysgeusia,symptom
+C0270810,Peroneal Neuropathies,disease
+C0085404,POEMS Syndrome,disease
+C0752289,Dyssomnias,disease
+C0017605,"Glaucoma, Angle-Closure",disease
+C0014306,Enophthalmos,disease
+C0004698,Balkan Nephropathy,disease
+C0150045,"Urinary Incontinence, Urge",symptom
+C0085642,Livedo Reticularis,symptom
+C0079293,Epidermolysis Bullosa Acquisita,disease
+C0027538,Necrobiosis Lipoidica,disease
+C0263409,"Scleroderma, Localized",disease
+C0022603,"Keratosis, Seborrheic",disease
+C0001529,Adiposis Dolorosa,disease
+C0014854,"Diverticulum, Esophageal",disease
+C0085232,Zenker Diverticulum,disease
+C0178282,"Hernia, Abdominal",disease
+C1956418,Torsion Abnormality,disease
+C0018994,Hemobilia,disease
+C0262627,Seroma,disease
+C0024961,Maxillofacial Injuries,disease
+C0751910,Optic Nerve Glioma,disease
+C0022972,Lambert-Eaton Myasthenic Syndrome,disease
+C0018948,Hematometra,disease
+C0751543,Tabes Dorsalis,disease
+C0085261,Proteus Syndrome,disease
+C0279070,Oligodendroglioma,disease
+C0007093,Carcinoid Heart Disease,disease
+C0038478,Struma Ovarii,disease
+C0010606,"Carcinoma, Adenoid Cystic",disease
+C0039747,Thecoma,disease
+C0027657,Odontogenic Tumors,disease
+C0025184,Meigs Syndrome,disease
+C0751836,Gait Ataxia,symptom
+C0004095,Asthenopia,disease
+C0028077,Night Blindness,disease
+C1563718,Sexual Infantilism,disease
+C0024164,Lutembacher Syndrome,disease
+C0018854,Heavy Chain Disease,disease
+C0024693,Mandibular Injuries,disease
+C1332965,"Nephroma, Mesoblastic",disease
+C0749794,"Upper Extremity Deformities, Congenital",disease
+C0206687,"Carcinoma, Endometrioid",disease
+C0019123,Hemothorax,disease
+C0014390,Entropion,disease
+C1135191,"Heart Failure, Systolic",disease
+C0159970,Knee Dislocation,disease
+C0162836,Hidradenitis Suppurativa,disease
+C0040259,Tinea Pedis,symptom
+C1258666,Ganglion Cysts,disease
+C0085648,Synovial Cyst,disease
+C1961099,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,disease
+C0206625,"Mixed Tumor, Malignant",disease
+C0206115,WAGR Syndrome,disease
+C0206631,"Neoplasms, Adipose Tissue",disease
+C1510502,"Adenoma, Oxyphilic",disease
+C0206699,"Cystadenocarcinoma, Mucinous",disease
+C0030186,"Paget Disease, Extramammary",disease
+C0206722,"Neoplasms, Gonadal Tissue",disease
+C0206723,Sertoli-Leydig Cell Tumor,disease
+C0278601,Inflammatory Breast Neoplasms,disease
+C1704374,Endocrine Gland Neoplasms,disease
+C0025267,Multiple Endocrine Neoplasia Type 1,disease
+C0220636,Salivary Gland Neoplasms,disease
+C0747273,Parotid Neoplasms,disease
+C0014536,Epidural Neoplasms,disease
+C0271568,Laron Syndrome,disease
+C0022738,Klippel-Feil Syndrome,disease
+C0238402,Pycnodysostosis,disease
+C0005942,"Bone Diseases, Endocrine",disease
+C0011085,"Decalcification, Pathologic",disease
+C0029421,Osteochondritis Dissecans,disease
+C0206366,Ossification of Posterior Longitudinal Ligament,disease
+C0022360,Jaw Abnormalities,disease
+C0877149,Patellofemoral Pain Syndrome,disease
+C0039516,Tennis Elbow,disease
+C0947622,Cholecystolithiasis,disease
+C0919691,Anastomotic Leak,disease
+C0013299,Duodenogastric Reflux,disease
+C4759657,Fissure in Ano,disease
+C0033775,Pruritus Ani,disease
+C0745744,End Stage Liver Disease,disease
+C0027773,Nesidioblastosis,disease
+C0031106,Aggressive Periodontitis,disease
+C0038218,Status Asthmaticus,disease
+C0008780,Ciliary Motility Disorders,disease
+C0242676,"Positive-Pressure Respiration, Intrinsic",disease
+C0750903,Amblyopia,symptom
+C0175683,Citrullinemia,disease
+C0752132,"Infarction, Posterior Cerebral Artery",disease
+C0751731,Intracranial Hypotension,disease
+C1135993,"Wasting Disease, Chronic",disease
+C0221069,Anterior Spinal Artery Syndrome,disease
+C0700501,"Nystagmus, Congenital",disease
+C0234329,Vagus Nerve Diseases,disease
+C0268425,Alstrom Syndrome,disease
+C0858621,"Blindness, Cortical",symptom
+C0751544,Tangier Disease,disease
+C0206085,Kleine-Levin Syndrome,disease
+C0751946,Parasomnias,disease
+C0015402,Eye Hemorrhage,symptom
+C0013592,Ectropion,disease
+C0028841,Ocular Hypotension,disease
+C0154778,"Myopia, Degenerative",disease
+C0154841,Retinal Vein Occlusion,disease
+C0030848,Penile Induration,disease
+C0018055,"Gonadal Dysgenesis, Mixed",disease
+C1720814,Urethral Stricture,disease
+C0270327,Nocturnal Enuresis,disease
+C0008043,Chiari-Frommel Syndrome,disease
+C0011813,Dextrocardia,disease
+C0016522,"Foramen Ovale, Patent",disease
+C0007196,"Cardiomyopathy, Restrictive",disease
+C0151814,Coronary Occlusion,disease
+C0948480,Coronary Restenosis,disease
+C0277919,Postthrombotic Syndrome,disease
+C0032807,Postphlebitic Syndrome,disease
+C0852077,"Blood Coagulation Disorders, Inherited",disease
+C0600433,Activated Protein C Resistance,disease
+C1956093,Jacobsen Distal 11q Deletion Syndrome,disease
+C0043324,"Xanthogranuloma, Juvenile",disease
+C0398368,Lymphatic Abnormalities,disease
+C1704429,Hypoalphalipoproteinemias,disease
+C0020597,Hypobetalipoproteinemias,disease
+C0001145,Acne Keloid,disease
+C0021807,Intertrigo,disease
+C0037279,"Skin Diseases, Metabolic",disease
+C0006705,Calcium Metabolism Disorders,disease
+C0577628,Latex Hypersensitivity,disease
+C0011548,Dependent Personality Disorder,disease
+C0877015,Pelvic Organ Prolapse,disease
+C0035956,"Rupture, Spontaneous",disease
+C0021943,Chromosome Inversion,disease
+C0162810,"Cicatrix, Hypertrophic",disease
+C0003794,Arm Injuries,disease
+C0206674,"Adenoma, Villous",disease
+C0206685,"Carcinoma, Acinar Cell",disease
+C0701818,Choledocholithiasis,disease
+C0399526,"Malocclusion, Angle Class III",disease
+C0162644,Root Caries,disease
+C0027873,Neuromyelitis Optica,disease
+C0273483,Cranial Nerve Injuries,disease
+C0917796,"Optic Atrophy, Hereditary, Leber",disease
+C0038833,Superior Vena Cava Syndrome,disease
+C0015499,Factor V Deficiency,disease
+C0038355,"Diverticulum, Stomach",disease
+C0346302,Growth Hormone-Secreting Pituitary Adenoma,disease
+C0019212,Hepatorenal Syndrome,disease
+C0751802,"Brain Stem Hemorrhage, Traumatic",disease
+C0349788,Arrhythmogenic Right Ventricular Dysplasia,disease
+C0003516,Aortopulmonary Septal Defect,disease
+C0003843,Arterio-Arterial Fistula,disease
+C0039232,"Tachycardia, Atrioventricular Nodal Reentry",disease
+C0039235,"Tachycardia, Ectopic Junctional",disease
+C0003499,"Aortic Stenosis, Supravalvular",disease
+C0040963,Tricuspid Valve Stenosis,disease
+C0242666,Protein S Deficiency,disease
+C0032372,"Poliomyelitis, Bulbar",disease
+C3665596,Warts,disease
+C0265326,"Hamartoma Syndrome, Multiple",disease
+C0035411,Rhabdomyoma,disease
+C0036400,Scimitar Syndrome,disease
+C0035459,"Rhinitis, Atrophic",disease
+C0458219,Complex Regional Pain Syndromes,disease
+C0155015,Color Vision Defects,symptom
+C0020581,Hyphema,disease
+C0042996,Vulvitis,disease
+C0023569,Levocardia,disease
+C0243002,Tricuspid Atresia,disease
+C0340375,"Aortic Stenosis, Subvalvular",disease
+C0034084,Pulmonary Subvalvular Stenosis,disease
+C0398625,Protein C Deficiency,disease
+C0038732,Sulfhemoglobinemia,disease
+C0024214,Lymphangiectasis,disease
+C0041428,"Twins, Conjoined",disease
+C0002066,Alkaptonuria,disease
+C0022584,"Keratoderma, Palmoplantar, Diffuse",disease
+C0003782,Argyria,disease
+C0028817,Ochronosis,disease
+C0040197,Tick Paralysis,disease
+C3203359,Rupture,disease
+C0339166,Ophthalmia Neonatorum,disease
+C0030332,Panophthalmitis,disease
+C0035468,Rhinoscleroma,disease
+C0007947,Chancroid,disease
+C0085568,Buruli Ulcer,disease
+C0242301,Furunculosis,disease
+C0030578,Paronychia,disease
+C0019191,"Hepatitis, Infectious Canine",disease
+C0015406,"Eye Infections, Parasitic",disease
+C1328252,"Leishmaniasis, Mucocutaneous",disease
+C0152244,"Bone Cysts, Aneurysmal",disease
+C0011428,Dentigerous Cyst,disease
+C0031087,Periodontal Cyst,disease
+C0034543,Radicular Cyst,disease
+C0025467,Mesenteric Cyst,disease
+C0030584,Parovarian Cyst,disease
+C0032650,Popliteal Cyst,disease
+C0024224,Lymphangiosarcoma,disease
+C0036920,Sezary Syndrome,disease
+C0206634,"Liposarcoma, Myxoid",disease
+C0008441,Chondroblastoma,disease
+C1136033,"Mastocytosis, Cutaneous",disease
+C0206640,"Fibroma, Ossifying",disease
+C0029423,Osteochondroma,disease
+C0206643,"Neoplasms, Fibrous Tissue",disease
+C0334511,"Solitary Fibrous Tumor, Pleural",disease
+C0206652,"Sarcoma, Small Cell",disease
+C0206656,"Rhabdomyosarcoma, Embryonal",disease
+C0206659,"Carcinoma, Embryonal",disease
+C0206717,"Esthesioneuroblastoma, Olfactory",disease
+C0206681,"Adenocarcinoma, Clear Cell",disease
+C0206697,"Carcinoma, Skin Appendage",disease
+C0206766,"Neoplasms, Adnexal and Skin Appendage",disease
+C0206711,Pilomatrixoma,disease
+C0206733,"Hemangioma, Capillary",disease
+C0751692,Hemangioblastoma,disease
+C0002448,Ameloblastoma,disease
+C0334556,Adamantinoma,disease
+C0029185,Orbital Neoplasms,disease
+C0376527,Skull Base Neoplasms,disease
+C0038554,Sublingual Gland Neoplasms,disease
+C0021432,Infratentorial Neoplasms,disease
+C0015558,Fallopian Tube Neoplasms,disease
+C0023531,Leukoplakia,disease
+C0043346,Xeroderma Pigmentosum,disease
+C0020534,Hypertelorism,disease
+C0039093,Synostosis,disease
+C0014084,Enchondromatosis,disease
+C0025239,Melorheostosis,disease
+C0001860,Ainhum,disease
+C0038018,Spondylolysis,disease
+C0018564,Hand Deformities,disease
+C0003960,Rheumatic Nodule,disease
+C2936445,Sacroiliitis,disease
+C0029427,"Chondromatosis, Synovial",disease
+C1253936,Hydrarthrosis,disease
+C0022411,Joint Loose Bodies,disease
+C0039106,"Synovitis, Pigmented Villonodular",disease
+C4082974,Dupuytren Contracture,disease
+C0205929,Rectal Fistula,disease
+C0024633,Mallory-Weiss Syndrome,disease
+C0343387,"Enterocolitis, Neutropenic",disease
+C0034888,Rectal Prolapse,disease
+C0162569,"Porphyria, Hepatoerythropoietic",disease
+C0162568,"Protoporphyria, Erythropoietic",disease
+C0015458,Facial Hemiatrophy,disease
+C0007971,Cheilitis,disease
+C0025235,Melkersson-Rosenthal Syndrome,disease
+C0079943,Oral Fistula,disease
+C0011361,Dental Fistula,disease
+C0017565,Gingival Hemorrhage,disease
+C2936258,Peri-Implantitis,disease
+C0026103,Mikulicz' Disease,disease
+C0036089,Salivary Duct Calculi,disease
+C0036091,Salivary Gland Calculi,disease
+C0040412,"Tongue, Fissured",disease
+C0011430,Dentin Dysplasia,disease
+C0006325,Bruxism,disease
+C0011405,Dental Pulp Diseases,disease
+C2717739,Dental Pulp Necrosis,disease
+C0011434,"Dentin, Secondary",disease
+C0034103,Pulpitis,disease
+C0040438,"Tooth Eruption, Ectopic",disease
+C0040441,Tooth Fractures,disease
+C0015029,Ethmoid Sinusitis,disease
+C0206586,Endolymphatic Hydrops,disease
+C0029878,Otitis Externa,disease
+C0206504,Tympanic Membrane Perforation,disease
+C0025183,Meige Syndrome,disease
+C0018609,Hartnup Disease,disease
+C0017083,Gangliosidoses,disease
+C3887633,Dandy-Walker Syndrome,disease
+C0455718,Brain Stem Infarctions,disease
+C0751824,Sagittal Sinus Thrombosis,disease
+C1262087,SUNCT Syndrome,disease
+C0560651,Central Cord Syndrome,disease
+C0161407,Abducens Nerve Injury,disease
+C0751822,Optic Nerve Injuries,disease
+C0751838,Gait Apraxia,symptom
+C0031315,Phantom Limb,symptom
+C0751693,Brown-Sequard Syndrome,symptom
+C0026205,Miosis,symptom
+C0542141,Radial Neuropathy,disease
+C0039319,Tarsal Tunnel Syndrome,disease
+C0154743,Ulnar Neuropathies,disease
+C4520843,Pterygium,disease
+C0024439,"Corneal Dystrophies, Hereditary",disease
+C0016781,Fuchs' Endothelial Dystrophy,disease
+C0005747,Blepharospasm,disease
+C0022906,Lacrimal Duct Obstruction,disease
+C0023308,Lens Diseases,disease
+C0085270,Orbital Pseudotumor,disease
+C0302497,Retrobulbar Hemorrhage,disease
+C0002982,Angioid Streaks,disease
+C0242852,"Vitreoretinopathy, Proliferative",disease
+C0042161,Uveal Diseases,disease
+C0022081,Iritis,disease
+C0029077,"Ophthalmia, Sympathetic",disease
+C0042166,"Uveitis, Intermediate",disease
+C1262061,Hematocele,disease
+C0004690,Balanitis,disease
+C0031538,Phimosis,disease
+C0030483,Paraphimosis,disease
+C0042021,Urinary Fistula,disease
+C0282488,"Cystitis, Interstitial",disease
+C0007860,Uterine Cervicitis,disease
+C0022783,Vulvar Lichen Sclerosus,disease
+C0919631,Upper Extremity Deep Vein Thrombosis,disease
+C0034151,"Purpura, Hyperglobulinemic",symptom
+C1260899,"Anemia, Diamond-Blackfan",disease
+C0002882,"Anemia, Hemolytic, Congenital Nonspherocytic",disease
+C0015702,Favism,disease
+C3658294,Antithrombin III Deficiency,disease
+C1275339,Necrobiotic Xanthogranuloma,disease
+C0033770,Prune Belly Syndrome,disease
+C0085132,Mucopolysaccharidosis VII,disease
+C0238052,"Xanthomatosis, Cerebrotendinous",disease
+C0025221,"Keratoderma, Palmoplantar",disease
+C2713394,Papillon-Lefevre Disease,disease
+C0221348,Yellow Nail Syndrome,disease
+C0002636,Amniotic Band Syndrome,disease
+C0162812,Necrobiotic Disorders,disease
+C0030327,"Panniculitis, Lupus Erythematosus",disease
+C0002173,"Mucinosis, Follicular",disease
+C0263390,Scleromyxedema,disease
+C0748540,"Scleroderma, Limited",disease
+C0032342,"Dermatitis, Toxicodendron",disease
+C1619692,Nephrogenic Fibrosing Dermopathy,disease
+C0020241,Hydroa Vacciniforme,disease
+C0162817,"Skin Diseases, Eczematous",disease
+C0010598,Cyclothymic Disorder,disease
+C0009940,Convalescence,disease
+C0206260,"Granuloma, Pyogenic",disease
+C0877172,"Hematoma, Epidural, Spinal",disease
+C0043020,Wallerian Degeneration,disease
+C0015395,Eye Burns,disease
+C0015409,"Eye Injuries, Penetrating",disease
+C0024953,Maxillary Fractures,disease
+C0043540,Zygomatic Fractures,disease
+C0281865,Hip Injuries,disease
+C1176475,"Carcinoma, Ductal",disease
+C0282492,Sneddon Syndrome,disease
+C0232347,No-Reflow Phenomenon,disease
+C0014741,Erythema Induratum,disease
+C0206648,Myofibromatosis,disease
+C0013393,Dysostoses,disease
+C0024507,Short Rib-Polydactyly Syndrome,disease
+C0040587,Tracheobronchomegaly,disease
+C0035238,Respiratory System Abnormalities,disease
+C0751738,"Lysosomal Storage Diseases, Nervous System",disease
+C0268221,Fucosidosis,disease
+C2717907,Isolated Noncompaction of the Ventricular Myocardium,disease
+C0033036,Atrial Premature Complexes,disease
+C0032915,Pre-Excitation Syndromes,disease
+C2713367,"Abnormalities, Severe Teratoid",disease
+C0162530,"Porphyria, Erythropoietic",disease
+C0031946,Pinta,disease
+C0043388,Yaws,disease
+C0035469,Rhinosporidiosis,disease
+C0684337,"Neuroectodermal Tumors, Primitive, Peripheral",disease
+C0001433,"Adenoma, Acidophil",disease
+C0008029,Cherubism,disease
+C0032209,Platybasia,disease
+C0027341,Nail-Patella Syndrome,disease
+C0015467,Facial Neuralgia,disease
+C0029166,Oral Manifestations,symptom
+C0011346,Dental Deposits,disease
+C0022802,Kuru,disease
+C0027854,Neurologic Manifestations,symptom
+C0271202,Hemianopsia,symptom
+C0020302,Hydrophthalmos,disease
+C0002890,"Anemia, Myelophthisic",disease
+C0022079,Iris Neoplasms,disease
+C0037033,"Sialometaplasia, Necrotizing",disease
+C0008522,Choroid Hemorrhage,disease
+C0023309,Lens Subluxation,disease
+C0017609,"Glaucoma, Neovascular",disease
+C0152136,Low Tension Glaucoma,disease
+C0271091,Retinoschisis,disease
+C0040015,Thrombasthenia,disease
+C0040381,Tolosa-Hunt Syndrome,disease
+C0022078,Iris Diseases,disease
+C1609538,Latent Tuberculosis,disease
+C0040262,Tinea Versicolor,disease
+C1258039,Henipavirus Infections,disease
+C3494181,Glomus Jugulare Tumor,disease
+C0270932,Paraneoplastic Polyneuropathy,disease
+C0149925,Small Cell Lung Carcinoma,disease
+C0376685,Shoulder Impingement Syndrome,disease
+C0751336,Distal Myopathies,disease
+C0751713,"Myositis, Inclusion Body",disease
+C0006430,Burning Mouth Syndrome,disease
+C0751726,Hemifacial Spasm,symptom
+C0031055,Pericoronitis,disease
+C0264598,Aphonia,symptom
+C0003165,Anthracosis,disease
+C0393665,"Multiple Sclerosis, Chronic Progressive",disease
+C1299624,Postural Orthostatic Tachycardia Syndrome,disease
+C0038868,"Supranuclear Palsy, Progressive",symptom
+C0546983,Post-Concussion Syndrome,disease
+C0752150,"Headache Disorders, Primary",disease
+C0393743,Paroxysmal Hemicrania,disease
+C0752146,"Headache Disorders, Secondary",disease
+C0270612,Leukoencephalopathies,disease
+C0393598,Dystonic Disorders,disease
+C0231311,Jet Lag Syndrome,disease
+C0751050,Communication Disorders,symptom
+C0001825,Agraphia,symptom
+C0750915,Anomia,symptom
+C0751612,Anisocoria,symptom
+C0751774,Nocturnal Myoclonus Syndrome,disease
+C0022575,Keratoconjunctivitis Sicca,disease
+C0025322,"Menopause, Premature",disease
+C0012628,Discrete Subaortic Stenosis,disease
+C2717865,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,disease
+C0023510,Leukocyte Disorders,disease
+C0017551,Gilbert Disease,disease
+C0162835,Hypopigmentation,disease
+C0221032,"Lipodystrophy, Congenital Generalized",disease
+C0236816,"Stress Disorders, Traumatic, Acute",disease
+C0014089,Encopresis,symptom
+C0029461,Osteoradionecrosis,disease
+C0001630,Adrenal Rest Tumor,disease
+C0031269,Peutz-Jeghers Syndrome,disease
+C0475073,"Subarachnoid Hemorrhage, Traumatic",disease
+C0086468,Prenatal Injuries,disease
+C4551647,Romano-Ward Syndrome,disease
+C0023461,"Leukemia, Mast-Cell",disease
+C2242987,Mastocytoma,disease
+C0003650,Apudoma,disease
+C0549471,Pancoast Syndrome,disease
+C1306571,Hepatic Insufficiency,disease
+C0751611,Tonic Pupil,symptom
+C1720983,Channelopathies,disease
+C0022541,Kearns-Sayre Syndrome,disease
+C1956413,Double Outlet Right Ventricle,disease
+C0003505,Aortic Valve Prolapse,disease
+C0016052,Fibromuscular Dysplasia,disease
+C0006845,"Candidiasis, Chronic Mucocutaneous",disease
+C0040261,Onychomycosis,disease
+C0020091,Deltaretrovirus Infections,disease
+C1955860,"Leukemia, Large Granular Lymphocytic",disease
+C0206139,"Lichen Planus, Oral",disease
+C0035460,"Rhinitis, Vasomotor",disease
+C0015503,Factor VII Deficiency,disease
+C0015519,Factor X Deficiency,disease
+C0015530,Factor XIII Deficiency,disease
+C0853030,Hyperamylasemia,disease
+C0085292,Stiff-Person Syndrome,disease
+C0751932,Tibial Neuropathy,disease
+C0023370,Leriche Syndrome,disease
+C0242645,Blue Toe Syndrome,disease
+C0263859,Acquired Hyperostosis Syndrome,disease
+C0033790,Pseudobulbar Palsy,symptom
+C0033075,Presbyopia,disease
+C0751246,Illusions,symptom
+C0027070,Myoepithelioma,disease
+C0017672,Glossalgia,symptom
+C0037899,Sphingolipidoses,disease
+C0751091,"Dyslexia, Acquired",symptom
+C0001816,Agnosia,symptom
+C0017494,Gerstmann Syndrome,symptom
+C0751033,Cervical Rib Syndrome,disease
+C0010324,Crigler-Najjar Syndrome,disease
+C0008373,Cholesteatoma,disease
+C0028431,"Nose Deformities, Acquired",disease
+C0155490,"Cholesteatoma, Middle Ear",disease
+C0155552,"Hearing Loss, Mixed Conductive-Sensorineural",symptom
+C0751814,Cerebrovascular Trauma,disease
+C0994516,Duane Retraction Syndrome,disease
+C0751810,"Skull Fracture, Basilar",disease
+C0333157,Colloid Cysts,disease
+C0205770,"Papilloma, Choroid Plexus",disease
+C0751026,Cerebrospinal Fluid Otorrhea,symptom
+C0270733,Striatonigral Degeneration,disease
+C0018523,Pantothenate Kinase-Associated Neurodegeneration,disease
+C0751843,"Infarction, Anterior Cerebral Artery",disease
+C0026654,Moyamoya Disease,disease
+C0751892,"Intracranial Hemorrhage, Hypertensive",disease
+C0751072,Frontotemporal Lobar Degeneration,disease
+C0270707,Kluver-Bucy Syndrome,disease
+C0751776,"Myoclonic Epilepsies, Progressive",disease
+C0085543,Epilepsia Partialis Continua,disease
+C0234523,"Apraxia, Ideomotor",symptom
+C0751136,"Pain, Referred",symptom
+C0015765,Feline Panleukopenia,disease
+C0085165,Enzootic Bovine Leukosis,disease
+C0020102,HTLV-II Infections,disease
+C0037341,Slow Virus Diseases,disease
+C0752184,Central Nervous System Helminthiasis,disease
+C0206632,Angiolipoma,disease
+C1266119,Solitary Fibrous Tumors,disease
+C0751678,Ganglioglioma,disease
+C1622510,Neurocytoma,disease
+C0206718,Ganglioneuroblastoma,disease
+C0206703,"Carcinoma, Giant Cell",disease
+C0334448,"Nevus, Blue",disease
+C0085138,Choroid Plexus Neoplasms,disease
+C1261380,Spondylosis,disease
+C0162672,MERRF Syndrome,disease
+C0221055,Myotonic Disorders,disease
+C0002452,Amelogenesis Imperfecta,disease
+C0018776,"Hearing Loss, Central",symptom
+C0751877,Hereditary Central Nervous System Demyelinating Diseases,disease
+C0751914,Pelizaeus-Merzbacher Disease,disease
+C0268274,"Gangliosidoses, GM2",disease
+C0034345,Pyruvate Dehydrogenase Complex Deficiency Disease,disease
+C0751798,"Brain Hemorrhage, Traumatic",disease
+C0007761,Myoclonic Cerebellar Dyssynergia,disease
+C0043019,Lateral Medullary Syndrome,disease
+C0085220,Cerebral Amyloid Angiopathy,disease
+C0751783,Lafora Disease,disease
+C0270724,Neuroaxonal Dystrophies,disease
+C0752128,Spinal Cord Vascular Diseases,disease
+C0029125,"Optic Atrophies, Hereditary",disease
+C0566625,Articulation Disorders,symptom
+C0684219,Myokymia,symptom
+C0751882,"Myasthenic Syndromes, Congenital",disease
+C0751660,Amyloid Neuropathies,disease
+C0751765,Night Terrors,disease
+C0003076,Aniridia,disease
+C0026755,Multiple Carboxylase Deficiency,disease
+C0220754,Biotinidase Deficiency,disease
+C0024748,alpha-Mannosidosis,disease
+C0268237,Cytochrome-c Oxidase Deficiency,disease
+C0236970,Alcohol-Induced Disorders,disease
+C0220654,Meningeal Carcinomatosis,disease
+C0011989,Camurati-Engelmann Syndrome,disease
+C0206042,"Insomnia, Fatal Familial",disease
+C1879312,Lissencephaly,disease
+C1720956,Hyper-IgM Immunodeficiency Syndrome,disease
+C0949570,Wheat Hypersensitivity,disease
+C0221065,Subacute Combined Degeneration,disease
+C0019553,Hip Contracture,disease
+C0016049,"Fibromatosis, Gingival",disease
+C0023795,Lipoid Proteinosis of Urbach and Wiethe,disease
+C0456511,Sleep Paralysis,disease
+C0393576,Neuroacanthocytosis,disease
+C0454573,"Aphasia, Broca",symptom
+C0393777,Nocturnal Paroxysmal Dystonia,disease
+C0085411,Angiodysplasia,disease
+C0206653,Angiomyoma,disease
+C0026363,Orofaciodigital Syndromes,disease
+C0149870,De Quervain Disease,disease
+C0410060,Trigger Finger Disorder,disease
+C0003164,Anthracosilicosis,disease
+C0752323,"Epilepsy, Partial, Motor",disease
+C0152180,Accessory Nerve Diseases,disease
+C0234362,Synkinesis,symptom
+C0752295,Sleep Arousal Disorders,disease
+C0037231,Sjogren-Larsson Syndrome,disease
+C1279481,X-Linked Combined Immunodeficiency Diseases,disease
+C4042763,Delayed Emergence from Anesthesia,disease
+C1450010,"Plagiocephaly, Nonsynostotic",disease
+C0042454,Velopharyngeal Insufficiency,disease
+C0271375,Trochlear Nerve Diseases,disease
+C0003078,Aniseikonia,disease
+C0282512,Landau-Kleffner Syndrome,disease
+C0019537,High Pressure Neurological Syndrome,disease
+C0013528,Echolalia,symptom
+C1516516,Chromosome Duplication,disease
+C0158982,"Myasthenia Gravis, Neonatal",disease
+C0282513,"Aphasia, Primary Progressive",symptom
+C0005744,Blepharophimosis,disease
+C0751690,Neurofibrosarcoma,disease
+C0393774,Sleep Bruxism,disease
+C0278188,"Epilepsy, Partial, Sensory",disease
+C0456512,Sleep-Wake Transition Disorders,disease
+C0079588,"Ichthyosis, X-Linked",disease
+C0021268,Inert Gas Narcosis,disease
+C0162533,"Porphyrias, Hepatic",disease
+C0034880,Hyperacusis,symptom
+C0454575,"Aphasia, Wernicke",symptom
+C0022387,Jervell-Lange Nielsen Syndrome,disease
+C0003824,Firesetting Behavior,disease
+C0751194,"Hematoma, Subdural, Spinal",disease
+C0040445,Tooth Mobility,disease
+C0040443,Tooth Avulsion,disease
+C0014670,Equinus Deformity,disease
+C1956234,Putaminal Hemorrhage,disease
+C1839259,"Bulbo-Spinal Atrophy, X-Linked",disease
+C0026139,Milk Sickness,disease
+C0729544,Central Nervous System Fungal Infections,disease
+C0206637,"Chondrosarcoma, Mesenchymal",disease
+C0158461,Hammer Toe Syndrome,disease
+C0395932,Vestibular Neuronitis,disease
+C1850386,Giant Axonal Neuropathy,disease
+C0034341,Pyruvate Carboxylase Deficiency Disease,disease
+C0238265,Marchiafava-Bignami Disease,disease
+C0751706,Primary Progressive Nonfluent Aphasia,symptom
+C0234471,"Aphasia, Conduction",symptom
+C2717760,Alien Hand Syndrome,symptom
+C0018425,Gyrate Atrophy,disease
+C0398791,Nijmegen Breakage Syndrome,disease
+C0030764,Pedophilia,disease
+C0234447,Stupor,symptom
+C0030477,Paranoid Personality Disorder,disease
+C0030631,Passive-Aggressive Personality Disorder,disease
+C0006895,Capgras Syndrome,disease
+C0040774,Transvestism,disease
+C0234512,Prosopagnosia,symptom
+C0949683,Sex Chromosome Disorders,disease
+C0086040,Compulsive Personality Disorder,disease
+C0751840,"Alexia, Pure",symptom
+C0018779,"Hearing Loss, Functional",symptom
+C1848213,Periventricular Nodular Heterotopia,disease
+C0008525,Choroideremia,disease
+C0265240,Goldenhar Syndrome,disease
+C2936346,22q11 Deletion Syndrome,disease
+C1955603,Deaf-Blind Disorders,symptom
+C0271097,Usher Syndromes,symptom
+C2607947,"Hearing Loss, Unilateral",symptom
+C0525043,Reactive Attachment Disorder,disease
+C0014522,Epidermodysplasia Verruciformis,disease
+C0006131,Branchioma,disease
+C0206661,Gonadoblastoma,disease
+C0022367,"Jaw, Edentulous, Partially",disease
+C0524948,Maxillofacial Abnormalities,disease
+C0029293,Oroantral Fistula,disease
+C0017567,Gingival Hypertrophy,disease
+C0236001,Gingival Recession,disease
+C0011436,Dentinogenesis Imperfecta,disease
+C0266061,Open Bite,disease
+C1527338,"Cerebral Amyloid Angiopathy, Familial",disease
+C0233795,"Amnesia, Anterograde",symptom
+C0950122,Frasier Syndrome,disease
+C4048196,beta-Mannosidosis,disease
+C0751807,"Skull Fracture, Depressed",disease
+C2718017,TDP-43 Proteinopathies,disease
+C0751941,Glossopharyngeal Nerve Diseases,disease
+C0751676,"Neoplasms, Basal Cell",disease
+C0023481,"Leukemia, Neutrophilic, Chronic",disease
+C0394016,"Coma, Post-Head Injury",disease
+C0017409,Herpes Zoster Oticus,disease
+C2717757,Susac Syndrome,symptom
+C1956255,"Pre-Excitation, Mahaim-Type",disease
+C0036939,Shared Paranoid Disorder,disease
+C1827301,Extensively Drug-Resistant Tuberculosis,disease
+C0040254,Tinea Favosa,disease
+C0281328,"Glioma, Subependymal",disease
+C0016064,"Fibrous Dysplasia, Monostotic",disease
+C0475060,"Hematoma, Subdural, Intracranial",disease
+C0752330,"AIDS Arteritis, Central Nervous System",disease
+C0520720,Tarlov Cysts,disease
+C0152232,Decapitation,disease
+C0376551,Rubulavirus Infections,disease
+C0001364,Massive Hepatic Necrosis,disease
+C0028271,Noma,disease
+C0751753,Carbamoyl-Phosphate Synthase I Deficiency Disease,disease
+C1264040,"von Willebrand Disease, Type 2",disease
+C0014145,Endodermal Sinus Tumor,disease
+C0474820,Glomus Tympanicum Tumor,disease
+C0238357,"Paralysis, Hyperkalemic Periodic",disease
+C0175704,LEOPARD Syndrome,disease
+C0752137,Intracranial Arterial Diseases,disease
+C0265252,Coffin-Lowry Syndrome,disease
+C0015411,Eye Manifestations,symptom
+C0018934,Hematocolpos,disease
+C0948355,Myocardial Bridging,disease
+C1955864,"Sinus Arrest, Cardiac",disease
+C0206068,Parasystole,disease
+C0242514,"Tachycardia, Reciprocating",disease
+C0039238,"Tachycardia, Sinoatrial Nodal Reentry",disease
+C0078888,Accelerated Idioventricular Rhythm,disease
+C0393911,Pure Autonomic Failure,disease
+C0149793,Amaurosis Fugax,symptom
+C2717758,Diffuse Neurofibrillary Tangles with Calcification,disease
+C0751188,Post-Dural Puncture Headache,disease
+C0751862,"Lead Poisoning, Nervous System, Adult",disease
+C0078917,"Albinism, Ocular",disease
+C0003081,Anisometropia,disease
+C0206721,"Papilloma, Inverted",disease
+C0042907,Vitreous Detachment,disease
+C0015269,Exhibitionism,disease
+C0151827,Eye Pain,symptom
+C0016395,Focal Dermal Hypoplasia,disease
+C0282529,"Chondrodysplasia Punctata, Rhizomelic",disease
+C0024433,Macrostomia,disease
+C0342853,Sialic Acid Storage Disease,disease
+C0751937,Olfactory Nerve Diseases,disease
+C0032197,Platelet Storage Pool Deficiency,disease
+C0242621,Isochromosomes,disease
+C0085262,PC12 Cells,disease
+C0017926,Glycogen Storage Disease Type VII,disease
+C0009765,"Conjunctivitis, Acute Hemorrhagic",disease
+C0878588,Sphincter of Oddi Dysfunction,disease
+C0026034,Microstomia,disease
+C0406670,Vulvodynia,disease
+C0015526,Factor XII Deficiency,disease
+C0175167,Acneiform Eruptions,disease
+C0029455,Osteopoikilosis,disease
+C0175693,Silver-Russell Syndrome,disease
+C1956097,Wolf-Hirschhorn Syndrome,disease
+C1135841,Zoster Sine Herpete,disease
+C0079680,Lentivirus Infections,disease
+C0206765,"Neoplasms, Connective and Soft Tissue",disease
+C0029417,Osteoblastoma,disease
+C1956261,Central Nervous System Venous Angioma,disease
+C0878677,Glycogen Storage Disease Type IIb,disease
+C0034935,"Reflex, Babinski",symptom
+C0751850,"Heavy Metal Poisoning, Nervous System",disease
+C0270328,Diurnal Enuresis,disease
+C1563715,Andersen Syndrome,disease
+C0221011,Malignant Atrophic Papulosis,disease
+C0398689,"Hyper-IgM Immunodeficiency Syndrome, Type 1",disease
+C0080333,Epidermolysis Bullosa Simplex,disease
+C0017927,Glycogen Storage Disease Type VIII,disease
+C1856401,Multiple Acyl Coenzyme A Dehydrogenase Deficiency,disease
+C0027343,"Nails, Ingrown",disease
+C0406209,Onycholysis,disease
+C0221263,Cafe-au-Lait Spots,symptom
+C0019054,Hemolysis,disease
+C0206230,"Fractures, Malunited",disease
+C0032357,Poland Syndrome,disease
+C0158322,Heel Spur,disease
+C3541458,"Hyperoxaluria, Primary",disease
+C0040962,Tricuspid Valve Prolapse,disease
+C0400822,"Colitis, Lymphocytic",disease
+C0206645,"Fibroma, Desmoplastic",disease
+C0017097,Gardner Syndrome,disease
+C0085784,Dry Socket,disease
+C0029172,Oral Submucous Fibrosis,disease
+C0004692,Balantidiasis,disease
+C0024286,Lymphogranuloma Venereum,disease
+C0000880,Acanthamoeba Keratitis,disease
+C0276791,Dientamoebiasis,disease
+C0022361,Jaw Cysts,disease
+C0014851,Esophageal Cyst,disease
+C0349639,"Leukemia, Myelomonocytic, Juvenile",disease
+C0001429,Adenolymphoma,disease
+C0206636,Chondromatosis,disease
+C0206730,Neurothekeoma,disease
+C0206642,"Osteosarcoma, Juxtacortical",disease
+C0206649,"Neoplasms, Fibroepithelial",disease
+C0085167,Granular Cell Tumor,disease
+C0206671,Acrospiroma,disease
+C0206683,"Carcinoma, Papillary, Follicular",disease
+C3714739,"Neoplasms, Mesothelial",disease
+C0543478,"Neoplasm, Residual",disease
+C0022602,"Keratosis, Actinic",disease
+C0917990,Acro-Osteolysis,disease
+C0029405,Osteitis Fibrosa Cystica,disease
+C1956089,Osteophyte,disease
+C0020499,"Hyperostosis, Sternocostoclavicular",disease
+C0029429,Osteochondrosis,disease
+C0008475,Chondromalacia Patellae,disease
+C0752242,Hallux Limitus,disease
+C0264134,Hallux Rigidus,disease
+C0025587,Metatarsalgia,symptom
+C0158329,Tendon Entrapment,disease
+C0267539,Typhlitis,disease
+C0042783,Visceral Prolapse,disease
+C0221757,alpha 1-Antitrypsin Deficiency,disease
+C0206306,Furcation Defects,disease
+C0017571,Gingival Pocket,disease
+C0011432,Dentin Sensitivity,disease
+C0742343,Acute Chest Syndrome,disease
+C0026069,Middle Lobe Syndrome,disease
+C0752089,"Nervous System Autoimmune Disease, Experimental",disease
+C0268243,"Niemann-Pick Disease, Type B",disease
+C1565172,Trigeminal Autonomic Cephalalgias,disease
+C0458101,Post-Traumatic Headache,disease
+C0458224,Piriformis Muscle Syndrome,symptom
+C1363854,Hand-Arm Vibration Syndrome,disease
+C0013581,Ectopia Lentis,disease
+C0206368,Exfoliation Syndrome,disease
+C0007869,Uterine Cervical Erosion,disease
+C0023533,Leukorrhea,disease
+C0042253,Vaginal Fistula,disease
+C0269084,Vulvar Vestibulitis,disease
+C0238442,Pubic Symphysis Diastasis,disease
+C1721007,Pachyonychia Congenita,disease
+C0079301,"Epidermolysis Bullosa, Junctional",disease
+C0085074,Granuloma Annulare,disease
+C0032633,"Eczema, Dyshidrotic",disease
+C0030436,Parakeratosis,disease
+C0023652,Lichen Sclerosus et Atrophicus,disease
+C1704299,"Hypobetalipoproteinemia, Familial, Apolipoprotein B",disease
+C0024862,Masochism,disease
+C0036913,Sadism,disease
+C0007397,Catastrophic Illness,disease
+C3179278,Prosthesis Failure,disease
+C2609162,Periprosthetic Fractures,disease
+C1262206,Iliotibial Band Syndrome,disease
+C0016196,Flail Chest,disease
+C1334455,Pulmonary Sclerosing Hemangioma,disease
+C0477611,Spinal Osteochondrosis,disease
+C1963763,Failed Back Surgery Syndrome,disease
+C0917715,Hajdu-Cheney Syndrome,disease
+C0431943,"Lower Extremity Deformities, Congenital",disease
+C0032027,Pityriasis Rubra Pilaris,disease
+C0001264,"Actinomycosis, Cervicofacial",disease
+C0007659,Cementoma,disease
+C0205865,Odontoma,disease
+C1305740,Overbite,disease
+C0155930,Tooth Ankylosis,disease
+C0010261,Cracked Tooth Syndrome,disease
+C0040458,"Tooth, Unerupted",disease
+C0001431,"Adenoma, Basophil",disease
+C0162531,"Coproporphyria, Hereditary",disease
+C0154246,"Urea Cycle Disorders, Inborn",disease
+C0029128,Optic Disk Drusen,disease
+C0266494,Sinus Pericranii,disease
+C0005689,Bladder Exstrophy,disease
+C0085988,Cephalopelvic Disproportion,disease
+C0376699,"Tooth, Nonvital",disease
+C0008493,"Hydatidiform Mole, Invasive",disease
+C0002757,Anal Gland Neoplasms,disease
+C0038558,Submandibular Gland Neoplasms,disease
+C0022681,Medullary Sponge Kidney,disease
+C0039082,Syndrome,disease
+C2717988,Shellfish Poisoning,disease
+C0036094,Salivary Gland Fistula,disease
+C0265234,Branchio-Oto-Renal Syndrome,disease
+C0027155,Myxosarcoma,disease
+C0034895,Rectovaginal Fistula,disease
+C0243025,Hantavirus Pulmonary Syndrome,disease
+C0206664,Teratocarcinoma,disease
+C0206706,"Carcinoma, Verrucous",disease
+C0037917,Spina Bifida Cystica,disease
+C1504464,Endoleak,disease
+C0272414,Wandering Spleen,disease
+C0033377,Prolapse,disease
+C0086533,"Leiomyoma, Epithelioid",disease
+C0023003,Langer-Giedion Syndrome,disease
+C1846545,Autoimmune Lymphoproliferative Syndrome,disease
+C0007118,"Carcinoma, Basosquamous",disease
+C0264303,Laryngomalacia,disease
+C0018196,"Granuloma, Laryngeal",disease
+C1562503,Vein of Galen Malformations,disease
+C0007868,Uterine Cervical Dysplasia,disease
+C0030455,Parametritis,disease
+C0004779,Basal Cell Nevus Syndrome,disease
+C0544008,Iridocorneal Endothelial Syndrome,disease
+C0266568,Persistent Hyperplastic Primary Vitreous,disease
+C0025269,Multiple Endocrine Neoplasia Type 2b,disease
+C0281508,Desmoplastic Small Round Cell Tumor,disease
+C0206094,"Neuroectodermal Tumor, Melanotic",disease
+C0042465,"Venereal Tumors, Veterinary",disease
+C0002793,Anaplasia,disease
+C0268553,Hyperlysinemias,disease
+C1955870,Classical Lissencephalies and Subcortical Band Heterotopias,disease
+C2717961,Thrombotic Microangiopathies,disease
+C0268579,Propionic Acidemia,disease
+C0268225,Aspartylglucosaminuria,disease
+C0302363,"Brucellosis, Bovine",disease
+C0010636,"Cystadenoma, Papillary",disease
+C0022882,Laboratory Infection,disease
+C0206614,Morbillivirus Infections,disease
+C0206737,"Nevus, Intradermal",disease
+C1563751,"Genetic Diseases, Y-Linked",disease
+C1257826,Chromosomal Instability,disease
+C0600498,"Anticipation, Genetic",disease
+C1292772,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",disease
+C0003742,Arcus Senilis,disease
+C0035312,Retinal Drusen,disease
+C0685837,"Gonadal Dysgenesis, 46,XX",disease
+C2713537,Bernard-Soulier Syndrome,disease
+C0079583,"Ichthyosiform Erythroderma, Congenital",disease
+C0079584,Ichthyosis Vulgaris,disease
+C0162838,Porokeratosis,disease
+C0024054,Lown-Ganong-Levine Syndrome,disease
+C1720965,"Ectodermal Dysplasia 3, Anhidrotic",disease
+C0205747,Dysplastic Nevus Syndrome,disease
+C0206114,Periodontal Attachment Loss,disease
+C0011320,Dens in Dente,disease
+C0020441,Hypercementosis,disease
+C0035352,Retrocochlear Diseases,disease
+C0079153,"Hyperkeratosis, Epidermolytic",disease
+C0686715,Ascaridida Infections,disease
+C0559469,Egg Hypersensitivity,disease
+C0751649,"Neoplasms, Post-Traumatic",disease
+C0042168,"Uveitis, Suppurative",disease
+C0007933,Chalazion,disease
+C0206672,Hidrocystoma,disease
+C1842914,Vitelliform Macular Dystrophy,disease
+C2717990,Corneal Wavefront Aberration,disease
+C3540662,Leber Congenital Amaurosis,disease
+C0730328,Central Serous Chorioretinopathy,disease
+C2237660,Wet Macular Degeneration,disease
+C0854723,Retinal Dystrophies,disease
+C0154832,Retinal Telangiectasis,disease
+C0032026,Pityriasis Rosea,disease
+C0003706,Arachnodactyly,disease
+C0221259,Trichiasis,disease
+C0079504,Hermanski-Pudlak Syndrome,disease
+C2350476,Orbital Myositis,disease
+C1306068,Capsule Opacification,disease
+C1536085,Geographic Atrophy,disease
+C0695242,Neurogenic Bowel,disease
+C0266284,Lingual Thyroid,disease
+C0206657,"Sarcoma, Alveolar Soft Part",disease
+C0019338,Herpangina,disease
+C0018190,Granuloma Inguinale,disease
+C0311386,Isosporiasis,disease
+C1292753,"Lymphoma, Primary Effusion",disease
+C0001442,Adenosarcoma,disease
+C1563725,Brenner Tumor,disease
+C1333068,Perivascular Epithelioid Cell Neoplasms,disease
+C0206680,"Mesothelioma, Cystic",disease
+C1328479,"Carcinoma, Islet Cell",disease
+C0017150,Gastrinoma,disease
+C0022790,Krukenberg Tumor,disease
+C0524781,Postcholecystectomy Syndrome,disease
+C0079238,Digestive System Fistula,disease
+C0400821,"Colitis, Microscopic",disease
+C0008677,"Bronchitis, Chronic",disease
+C0266361,Ovotesticular Disorders of Sex Development,disease
+C0034216,Pyonephrosis,disease
+C1857728,Hereditary Angioedema Type III,disease
+C0016752,"Fructose Metabolism, Inborn Errors",disease
+C0206607,Torovirus Infections,disease
+C0016427,Follicular Cyst,disease
+C1334603,"Mixed Tumor, Mesodermal",disease
+C0600502,Hemostatic Disorders,disease
+C0041952,Ureterolithiasis,disease
+C2745948,"Hyalinosis, Systemic",disease
+C0332715,Intra-Articular Fractures,disease
+C0341106,Eosinophilic Esophagitis,disease
+C0264700,Inferior Wall Myocardial Infarction,disease
+C1610620,Coronary-Subclavian Steal Syndrome,disease
+C2936381,Neointima,disease
+C0011378,Dental Leakage,disease
+C0878681,Dent Disease,disease
+C0156372,Gynatresia,disease
+C2717756,Corneal Endothelial Cell Loss,disease
+C0014371,Enterotoxemia,disease
+C0013895,Elimination Disorders,disease
+C0949885,Peste-des-Petits-Ruminants,disease
+C0014073,"Encephalomyelitis, Enzootic Porcine",disease
+C0086942,"Sarcoma, Avian",disease
+C1959620,Dihydropyrimidine Dehydrogenase Deficiency,disease
+C0021070,Immunoproliferative Disorders,disease
+C0040414,"Tongue, Hairy",disease
+C2717979,Tooth Wear,disease
+C0264746,Chorea Gravidarum,disease
+C0948187,Tracheomalacia,disease
+C0149707,Hemospermia,disease
+C0036918,"Sexually Transmitted Diseases, Viral",disease
+C0206684,"Adenocarcinoma, Sebaceous",disease
+C0340231,Tracheobronchomalacia,disease
+C0264353,Bronchomalacia,disease
+C1319853,"Asthma, Aspirin-Induced",disease
+C0005138,Berylliosis,disease
+C0014014,"Empyema, Tuberculous",disease
+C0206712,Mucoepidermoid Tumor,disease
+C2936443,Cerebral Ventriculitis,disease
+C3494175,Fused Teeth,disease
+C0232100,Exsanguination,disease
+C0265220,Pallister-Hall Syndrome,disease
+C0025476,Mesial Movement of Teeth,disease
+C0035466,Rhinophyma,disease
+C0265985,Mongolian Spot,disease
+C0206739,"Nevus, Epithelioid and Spindle Cell",disease
+C0524911,"Hepatitis D, Chronic",disease
+C0267878,Mirizzi Syndrome,disease
+C0008582,Chromoblastomycosis,disease
+C0041170,Trombiculiasis,disease
+C0265961,Erythrokeratodermia Variabilis,disease
+C0085106,"Pemphigus, Benign Familial",disease
+C0162849,Lichen Nitidus,disease
+C0016632,Fox-Fordyce Disease,disease
+C0014752,Erythrasma,disease
+C0031898,Piedra,disease
+C1138371,Hemorrhagic Septicemia,disease
+C0272302,Gray Platelet Syndrome,disease
+C0950121,Denys-Drash Syndrome,disease
+C0878486,Arteriolosclerosis,disease
+C0751746,"Amino Acid Transport Disorders, Inborn",disease
+C0038235,Steatitis,disease
+C0948031,Primary Graft Dysfunction,disease
+C0334486,Endometrial Stromal Tumors,disease
+C1860042,Antley-Bixler Syndrome Phenotype,disease
+C0238394,"46, XX Disorders of Sex Development",disease
+C0231341,"Aging, Premature",symptom
+C0004093,Asthenia,symptom
+C0015967,Fever,symptom
+C0015970,Fever of Unknown Origin,symptom
+C0242843,Sweating Sickness,symptom
+C0274285,Hypothermia,symptom
+C0005910,Body Weight,symptom
+C0005612,Birth Weight,symptom
+C0005911,Body Weight Changes,symptom
+C0043094,Weight Gain,symptom
+C1262477,Weight Loss,symptom
+C0013911,Emaciation,symptom
+C0006625,Cachexia,symptom
+C0751992,Fetal Weight,symptom
+C0497406,Overweight,symptom
+C0041667,Thinness,symptom
+C0085593,Chills,symptom
+C0010520,Cyanosis,symptom
+C0013604,Edema,symptom
+C0086525,Fatigue,symptom
+C0015676,Mental Fatigue,symptom
+C0015799,Feminization,symptom
+C0015930,Fetal Distress,symptom
+C0016382,Flushing,symptom
+C0232255,Heart Murmurs,symptom
+C0277910,Systolic Murmurs,symptom
+C0600142,Hot Flashes,symptom
+C1565249,Mobility Limitation,symptom
+C0026603,Motion Sickness,symptom
+C0242700,Space Motion Sickness,symptom
+C0525041,Neurobehavioral Manifestations,symptom
+C2316166,Slit Ventricle Syndrome,symptom
+C0033931,Psychophysiologic Disorders,symptom
+C0000737,Abdominal Pain,symptom
+C0000727,"Abdomen, Acute",symptom
+C0000729,Colic,symptom
+C0152169,Renal Colic,symptom
+C0008031,Chest Pain,symptom
+C0423640,Flank Pain,symptom
+C0030794,Pelvic Pain,symptom
+C0684343,Pseudophakia,symptom
+C0206160,Reticulocytosis,symptom
+C0001707,Aerophagy,symptom
+C0003123,Anorexia,symptom
+C1257861,Constipation,symptom
+C0011991,Diarrhea,symptom
+C0011992,"Diarrhea, Infantile",symptom
+C0013395,Dyspepsia,symptom
+C0014724,Eructation,symptom
+C0016204,Flatulence,symptom
+C0016927,Gagging,symptom
+C0018520,Halitosis,symptom
+C0018834,Heartburn,symptom
+C0019521,Hiccup,symptom
+C0020505,Hyperphagia,symptom
+C0006370,Bulimia,symptom
+C0027497,Nausea,symptom
+C0042963,Vomiting,symptom
+C0042964,"Vomiting, Anticipatory",symptom
+C0020440,Hypercapnia,symptom
+C0242706,Hyperoxia,symptom
+C0085383,Hypocapnia,symptom
+C0032230,Respiratory Sounds,symptom
+C0037384,Snoring,symptom
+C0037383,Sneezing,symptom
+C0037285,Skin Manifestations,symptom
+C0221243,Necrolytic Migratory Erythema,symptom
+C0030232,Pallor,symptom
+C0152459,Striae Distensae,symptom
+C0013428,Dysuria,symptom
+C0020438,Hypercalciuria,symptom
+C0028734,Nocturia,symptom
+C0242453,Prostatism,symptom
+C1313921,Urinoma,symptom
+C1452968,Virilism,symptom

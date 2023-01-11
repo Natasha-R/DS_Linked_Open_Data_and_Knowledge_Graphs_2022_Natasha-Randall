@@ -1,0 +1,1160 @@
+disease,disease_mesh,symptom,symptom_mesh,disease_umls,symptom_umls
+Abscess,D000038,Erythema,D004890,C0000833,C0041834
+Achondroplasia,D000130,Macrocephaly,D058627,C0001080,C0221355
+Acne,D000152,Scar,D002921,C0001144,C2004491
+Acrocallosal syndrome,D055673,Psychomotor retardation,D011596,C0796147,C5441816
+Acrocallosal syndrome,D055673,Polydactyly,D017689,C0796147,C0152427
+Bronchitis,D001991,Cough,D003371,C0006277,C0010200
+Bronchitis,D001991,Fever,D005334,C0006277,C0015967
+Bronchitis,D001991,Shortness of breath,D004417,C0006277,C0085619
+Acute liver failure,D017114,Jaundice,D007565,C0162557,C0242183
+Acute liver failure,D017114,Hypotension,D007022,C0162557,C0020649
+Acute liver failure,D017114,Bleeding diathesis,D006474,C0162557,C0019087
+Acute lymphoblastic leukemia,D054198,Lymphadenopathy,D008206,C0023452,C0024228
+Acute lymphoblastic leukemia,D054198,Fever,D005334,C0023452,C0015967
+Acute myeloid leukemia,D015470,Bruise,D003288,C1879321,C0009938
+Acute myeloid leukemia,D015470,Infection,D003141,C1879321,C0009450
+Acute myeloid leukemia,D015470,Bleeding,D006470,C1879321,C0019080
+Acute myeloid leukemia,D015470,Shortness of breath,D004417,C1879321,C0085619
+Acute myeloid leukemia,D015470,Fatigue,D005221,C1879321,C0086525
+Acute radiation syndrome,D011832,Vomiting,D014839,C0034530,C0042963
+Acute radiation syndrome,D011832,Anorexia (symptom),D000855,C0034530,C0003123
+Acute respiratory distress syndrome,D012128,Chest pain,D002637,C2887484,C0008031
+Acute respiratory distress syndrome,D012128,Cyanosis,D003490,C2887484,C0010520
+Acute respiratory distress syndrome,D012128,Shortness of breath,D004417,C2887484,C0085619
+Adenovirus infection,D000257,Conjunctivitis,D003231,C0001486,C0009763
+Adenovirus infection,D000257,Vomiting,D014839,C0001486,C0042963
+Adenovirus infection,D000257,Gastroenteritis,D005759,C0001486,C0017160
+Adenovirus infection,D000257,Urinary tract infection,D014552,C0001486,C0042029
+Adenovirus infection,D000257,Rhinitis,D012220,C0001486,C0035455
+Adenovirus infection,D000257,Abdominal pain,D015746,C0001486,C0000737
+Adenovirus infection,D000257,Tonsillitis,D014069,C0001486,C0040425
+Adenovirus infection,D000257,Lymphadenopathy,D008206,C0001486,C0024228
+Adenovirus infection,D000257,Chills,D023341,C0001486,C0085593
+Adenovirus infection,D000257,Myalgia,D063806,C0001486,C0231528
+Adenovirus infection,D000257,Cough,D003371,C0001486,C0010200
+Adenovirus infection,D000257,Headache,D006261,C0001486,C0877781
+Adenovirus infection,D000257,Fever,D005334,C0001486,C0015967
+Adenovirus infection,D000257,Pharyngitis,D010612,C0001486,C0031350
+Adenovirus infection,D000257,Photophobia,D020795,C0001486,C0085636
+Adenovirus infection,D000257,Fatigue,D005221,C0001486,C0086525
+Adenylosuccinate lyase deficiency,C538235,Microcephaly,D008831,C0268126,C0025958
+African trypanosomiasis,D014353,Confusion,D003221,C0027333,C0233407
+African trypanosomiasis,D014353,Arthralgia,D018771,C0027333,C0003862
+African trypanosomiasis,D014353,Insomnia,D007319,C0027333,C0541798
+African trypanosomiasis,D014353,Ataxia,D001259,C0027333,C0750937
+Agoraphobia,D000379,Anxiety,D001007,C0001818,C0027769
+Agoraphobia,D000379,Panic disorder,D016584,C0001818,C0086769
+Air embolism,D004618,Vertigo,D014717,C0013926,C0155503
+Air embolism,D004618,Dizziness,D004244,C0013926,C0220870
+Air embolism,D004618,Hypotension,D007022,C0013926,C0020649
+Air embolism,D004618,Headache,D006261,C0013926,C0877781
+Alcohol abuse,D000437,Insomnia,D007319,C0001956,C0541798
+Alcohol abuse,D000437,Fatigue,D005221,C0001956,C0086525
+Alcohol intoxication,D000435,Vomiting,D014839,C0001969,C0042963
+Alcohol intoxication,D000435,Coma,D003128,C0001969,C0860634
+Alcohol intoxication,D000435,Ataxia,D001259,C0001969,C0750937
+Alcohol intoxication,D000435,Hypoventilation,D007040,C0001969,C3203358
+Alcohol intoxication,D000435,Dysarthria,D004401,C0001969,C0454596
+Allergy,D006967,Allergic conjunctivitis,D003233,C1527304,C0022577
+Allergy,D006967,Cough,D003371,C1527304,C0010200
+Allergy,D006967,Edema,D004487,C1527304,C0013604
+Allergy,D006967,Shortness of breath,D004417,C1527304,C0085619
+Alopecia areata,D000506,Hair loss,D000505,C0002171,C0002170
+Alpha-1 antitrypsin deficiency,D019896,Jaundice,D007565,C0221757,C0242183
+Alpha-1 antitrypsin deficiency,D019896,Shortness of breath,D004417,C0221757,C0085619
+Alpha-thalassemia,D017085,Jaundice,D007565,C0002312,C0242183
+Altitude sickness,D000532,Dizziness,D004244,C3887755,C0220870
+Altitude sickness,D000532,Vomiting,D014839,C3887755,C0042963
+Altitude sickness,D000532,Insomnia,D007319,C3887755,C0541798
+Altitude sickness,D000532,Headache,D006261,C3887755,C0877781
+Altitude sickness,D000532,Fatigue,D005221,C3887755,C0086525
+Alzheimer's disease,D000544,Amnesia,D000647,C0002395,C0002622
+Alzheimer's disease,D000544,Primary progressive aphasia,D018888,C0002395,C0282513
+Amoebiasis,D000562,Abdominal pain,D015746,C0002438,C0000737
+Amoebiasis,D000562,Dysentery,D004403,C0002438,C0013369
+Amyotrophic lateral sclerosis,D000690,Respiratory failure,D012131,C0002736,C0340194
+Amyotrophic lateral sclerosis,D000690,Fasciculation,D005207,C0002736,C0541957
+Amyotrophic lateral sclerosis,D000690,Shortness of breath,D004417,C0002736,C0085619
+Amyotrophic lateral sclerosis,D000690,Spasticity,D009128,C0002736,C0026838
+Amyotrophic lateral sclerosis,D000690,Dysarthria,D004401,C0002736,C0454596
+Amyotrophic lateral sclerosis,D000690,Dysphagia,D003680,C0002736,C0011168
+Anaphylaxis,D000707,Hypotension,D007022,C0002792,C0020649
+Anaphylaxis,D000707,Shortness of breath,D004417,C0002792,C0085619
+Andersen–Tawil syndrome,D050030,Arrhythmia,D001145,C1563715,C0003811
+Anemia,D000740,Muscle weakness,D018908,C0002871,C0151786
+Anemia,D000740,Lightheadedness,D013575,C0002871,C0700200
+Anemia,D000740,Shortness of breath,D004417,C0002871,C0085619
+Anemia,D000740,Pallor,D010167,C0002871,C0030232
+Anemia,D000740,Fatigue,D005221,C0002871,C0086525
+Angelman syndrome,D017204,Intellectual disability,D008607,C0162635,C0917816
+Angelman syndrome,D017204,Microcephaly,D008831,C0162635,C0025958
+Angular cheilitis,D002613,Erythema,D004890,C0007971,C0041834
+Ankylosing spondylitis,D013167,Back pain,D001416,C0038013,C0750949
+Anorexia nervosa,D000856,Underweight,D013851,C0003125,C0041667
+Anthrax,D000881,Abscess,D000038,C0003175,C0000833
+Anthrax,D000881,Shortness of breath,D004417,C0003175,C0085619
+Anxiety disorder,D001008,Tachycardia,D013610,C0376280,C0080203
+Aphthous stomatitis,D013281,Lymphadenopathy,D008206,C0086789,C0024228
+Aphthous stomatitis,D013281,Fever,D005334,C0086789,C0015967
+Aplastic anemia,D000741,Dizziness,D004244,C0178416,C0220870
+Aplastic anemia,D000741,Tachycardia,D013610,C0178416,C0080203
+Aplastic anemia,D000741,Rash,D005076,C0178416,C0015230
+Aplastic anemia,D000741,Infection,D003141,C0178416,C0009450
+Aplastic anemia,D000741,Headache,D006261,C0178416,C0877781
+Aplastic anemia,D000741,Pallor,D010167,C0178416,C0030232
+Aplastic anemia,D000741,Fatigue,D005221,C0178416,C0086525
+Appendix cancer,D001063,Anorexia (symptom),D000855,C0496779,C0003123
+Appendix cancer,D001063,Shortness of breath,D004417,C0496779,C0085619
+Aquagenic urticaria,D000094482,Hives,D014581,C0263334,C0042109
+Arrhythmia,D001145,Lightheadedness,D013575,C0003811,C0700200
+Arrhythmia,D001145,Chest pain,D002637,C0003811,C0008031
+Arrhythmia,D001145,Shortness of breath,D004417,C0003811,C0085619
+Arsenic poisoning,D020261,Hyperpigmentation,D017495,C0751851,C0162834
+Arsenic poisoning,D020261,Vomiting,D014839,C0751851,C0042963
+Arsenic poisoning,D020261,Abdominal pain,D015746,C0751851,C0000737
+Arsenic poisoning,D020261,Neoplasm,D009369,C0751851,C0027651
+Arsenic poisoning,D020261,Diarrhea,D003967,C0751851,C0011991
+Arthritis,D001168,Arthralgia,D018771,C0003864,C0003862
+Ascariasis,D001196,Diarrhea,D003967,C0003950,C0011991
+Ascariasis,D001196,Shortness of breath,D004417,C0003950,C0085619
+Ascites,D001201,Shortness of breath,D004417,C0003962,C0085619
+Aspiration pneumonia,D011015,Cough,D003371,C0032290,C0010200
+Aspiration pneumonia,D011015,Fever,D005334,C0032290,C0015967
+Athlete's foot,D014008,Itch,D011537,C0040259,C0033774
+Atransferrinemia,C538259,Anemia,D000740,C0521802,C0002871
+Atrial fibrillation,D001281,Lightheadedness,D013575,C3468561,C0700200
+Atrial fibrillation,D001281,Angina,D000787,C3468561,C0002962
+Atrial fibrillation,D001281,Shortness of breath,D004417,C3468561,C0085619
+Autoimmune disease,D001327,Fever,D005334,C0004364,C0015967
+Autoimmune disease,D001327,Fatigue,D005221,C0004364,C0086525
+Autoimmune hepatitis,D019693,Nausea,D009325,C0241910,C0027497
+Autoimmune hepatitis,D019693,Rash,D005076,C0241910,C0015230
+Autoimmune hepatitis,D019693,Anorexia nervosa,D000856,C0241910,C0003125
+Autoimmune hepatitis,D019693,Arthralgia,D018771,C0241910,C0003862
+Autoimmune hepatitis,D019693,Jaundice,D007565,C0241910,C0242183
+Autoimmune hepatitis,D019693,Fatigue,D005221,C0241910,C0086525
+Autoimmune polyendocrine syndrome type 1,D016884,Chronic mucocutaneous candidiasis,D002178,C0085859,C0006845
+Autosomal recessive polycystic kidney disease,D017044,Polyuria,D011141,C0085548,C0032617
+Avascular necrosis,D010020,Arthralgia,D018771,C0027543,C0003862
+Babesiosis,D001404,Chills,D023341,C0004576,C0085593
+Babesiosis,D001404,Fever,D005334,C0004576,C0015967
+Bacterial vaginosis,D016585,Vaginal discharge,D019522,C0085166,C0227791
+Bacterial vaginosis,D016585,Dysuria,D053159,C0085166,C0013428
+Bannayan–Riley–Ruvalcaba syndrome,D006223,Macrocephaly,D058627,C0265326,C0221355
+Basal-cell carcinoma,D002280,Telangiectasia,D013684,C4721806,C1138421
+Bed bug,D001511,Blister,D001768,C0004913,C0005758
+Bed bug,D001511,Itch,D011537,C0004913,C0033774
+Behçet's disease,D001528,Arthritis,D001168,C0004943,C0003864
+Behçet's disease,D001528,Aphthous stomatitis,D013281,C0004943,C0086789
+Behçet's disease,D001528,Fatigue,D005221,C0004943,C0086525
+Vertigo,D014717,Vertigo,D014717,C0155503,C0155503
+Benign prostatic hyperplasia,D011470,Urinary retention,D016055,C1704272,C0080274
+Benign prostatic hyperplasia,D011470,Urinary incontinence,D014549,C1704272,C0042024
+Beta-mannosidosis,D044905,Hearing loss,D034381,C4048196,C1384666
+Bile acid malabsorption,C567652,Diarrhea,D003967,C2750087,C0011991
+Biphenotypic acute leukaemia,D015456,Anemia,D000740,C0023464,C0002871
+Biphenotypic acute leukaemia,D015456,Lymphadenopathy,D008206,C0023464,C0024228
+Bipolar disorder,D001714,Depression (mood),D003863,C0005586,C0086132
+Bird fancier's lung,D001716,Anorexia nervosa,D000856,C0031903,C0003125
+Bird fancier's lung,D001716,Chest pain,D002637,C0031903,C0008031
+Bird fancier's lung,D001716,Cough,D003371,C0031903,C0010200
+Bird fancier's lung,D001716,Fever,D005334,C0031903,C0015967
+Bird fancier's lung,D001716,Shortness of breath,D004417,C0031903,C0085619
+Bird fancier's lung,D001716,Fatigue,D005221,C0031903,C0086525
+Birth defect,D009358,Developmental disability,D002658,C0027612,C0085996
+Birth defect,D009358,Intellectual disability,D008607,C0027612,C0917816
+Bladder cancer,D001749,Dysuria,D053159,C0005695,C0013428
+Bladder cancer,D001749,Hematuria,D006417,C0005695,C0018965
+Bladder stone,D001744,Pain,D010146,C0005683,C0458257
+Bone tumor,D001859,Nausea,D009325,C0005967,C0027497
+Bone tumor,D001859,Anemia,D000740,C0005967,C0002871
+Bone tumor,D001859,Pain,D010146,C0005967,C0458257
+Bone tumor,D001859,Fever,D005334,C0005967,C0015967
+Bone tumor,D001859,Fatigue,D005221,C0005967,C0086525
+Borderline personality disorder,D001883,Self-harm,D016728,C0006012,C0085271
+Bornholm disease,D011000,Fever,D005334,C0032238,C0015967
+Botulism,D001906,Fatigue,D005221,C0006057,C0086525
+Bowel obstruction,D007415,Vomiting,D014839,C0021843,C0042963
+Bowel obstruction,D007415,Abdominal pain,D015746,C0021843,C0000737
+Bowel obstruction,D007415,Flatulence,D005414,C0021843,C0016204
+Brain tumor,D001932,Vomiting,D014839,C0006118,C0042963
+Brain tumor,D001932,Seizure,D012640,C0006118,C3495874
+Brain tumor,D001932,Headache,D006261,C0006118,C0877781
+Bronchiectasis,D001987,Chest pain,D002637,C0006267,C0008031
+Bronchiectasis,D001987,Shortness of breath,D004417,C0006267,C0085619
+Bronchiolitis,D001988,Cough,D003371,C0006271,C0010200
+Bronchiolitis,D001988,Fever,D005334,C0006271,C0015967
+Bronchiolitis obliterans,D001989,Shortness of breath,D004417,C2350875,C0085619
+Bronchiolitis obliterans,D001989,Fatigue,D005221,C2350875,C0086525
+Brucellosis,D002006,Arthralgia,D018771,C0006309,C0003862
+Brucellosis,D002006,Fever,D005334,C0006309,C0015967
+Brugada syndrome,D053840,Lightheadedness,D013575,C1721096,C0700200
+Brugada syndrome,D053840,Cardiac arrest,D006323,C1721096,C0018790
+Bulbar palsy,D010244,Drooling,D012798,C0393540,C0013132
+Bulbar palsy,D010244,Dysarthria,D004401,C0393540,C0454596
+Bulbar palsy,D010244,Dysphagia,D003680,C0393540,C0011168
+Bulbar palsy,D010244,Muscle atrophy,D009133,C0393540,C0026846
+Burn,D002056,Pain,D010146,C0006434,C0458257
+Burn,D002056,Blister,D001768,C0006434,C0005758
+Buruli ulcer,D054312,Ulcer (dermatology),D012883,C0085568,C0037299
+Buschke–Ollendorff syndrome,C537415,Osteopoikilosis,D010023,C0265514,C0029455
+Calcium channel blocker toxicity,D062787,Vomiting,D014839,C0029944,C0042963
+Calcium channel blocker toxicity,D062787,Bradycardia,D001919,C0029944,C0428977
+Calcium channel blocker toxicity,D062787,Hypotension,D007022,C0029944,C0020649
+Campylobacteriosis,D002169,Abdominal pain,D015746,C0006818,C0000737
+Campylobacteriosis,D002169,Diarrhea,D003967,C0006818,C0011991
+Campylobacteriosis,D002169,Fever,D005334,C0006818,C0015967
+Capillary leak syndrome,D019559,Compartment syndrome,D003161,C0343084,C0009492
+Capillary leak syndrome,D019559,Hypotension,D007022,C0343084,C0020649
+Capillary leak syndrome,D019559,Hypoalbuminemia,D034141,C0343084,C0239981
+Capillary leak syndrome,D019559,Edema,D004487,C0343084,C0013604
+Carbon monoxide poisoning,D002249,Confusion,D003221,C0007020,C0233407
+Carbon monoxide poisoning,D002249,Dizziness,D004244,C0007020,C0220870
+Carbon monoxide poisoning,D002249,Chest pain,D002637,C0007020,C0008031
+Carbon monoxide poisoning,D002249,Headache,D006261,C0007020,C0877781
+Cardiac tamponade,D002305,Lightheadedness,D013575,C0007177,C0700200
+Cardiac tamponade,D002305,Shortness of breath,D004417,C0007177,C0085619
+Cardiogenic shock,D012770,Tachycardia,D013610,C0036980,C0080203
+Cardiogenic shock,D012770,Perspiration,D013546,C0036980,C0038990
+Cardiogenic shock,D012770,Hypotension,D007022,C0036980,C0020649
+Cardiogenic shock,D012770,Shortness of breath,D004417,C0036980,C0085619
+Cardiogenic shock,D012770,Fatigue,D005221,C0036980,C0086525
+Cardiovascular disease,D002318,Chest pain,D002637,C0007222,C0008031
+Cardiovascular disease,D002318,Shortness of breath,D004417,C0007222,C0085619
+Cardiovascular disease,D002318,Fatigue,D005221,C0007222,C0086525
+Carpal tunnel syndrome,D002349,Paresthesia,D010292,C0007286,C0392699
+Cartilage–hair hypoplasia,C535916,Neutropenia,D009503,C0220748,C0027947
+Catecholaminergic polymorphic ventricular tachycardia,C536334,Lightheadedness,D013575,C2677794,C0700200
+Catecholaminergic polymorphic ventricular tachycardia,C536334,Cardiac arrest,D006323,C2677794,C0018790
+Cellulitis,D002481,Fever,D005334,C0031557,C0015967
+Cerebral palsy,D002547,Tremor,D014202,C0394003,C0751564
+Cerebral palsy,D002547,Spasticity,D009128,C0394003,C0026838
+Cervical cancer,D002583,Pelvic pain,D017699,C0007873,C0030794
+Chalazion,D017043,Cyst,D003560,C0007933,C0010709
+Channelopathy,D053447,Lightheadedness,D013575,C1720983,C0700200
+Channelopathy,D053447,Muscle weakness,D018908,C1720983,C0151786
+Channelopathy,D053447,Seizure,D012640,C1720983,C3495874
+Channelopathy,D053447,Shortness of breath,D004417,C1720983,C0085619
+Charcot–Marie–Tooth disease,D002607,Hammer toe,D037801,C0270911,C0158461
+Charcot–Marie–Tooth disease,D002607,Muscle atrophy,D009133,C0270911,C0026846
+Chemical burn,D002057,Hyperpigmentation,D017495,C0006435,C0162834
+Chemical burn,D002057,Itch,D011537,C0006435,C0033774
+Chemical burn,D002057,Hemoptysis,D006469,C0006435,C0019079
+Chemical burn,D002057,Shortness of breath,D004417,C0006435,C0085619
+Chemical burn,D002057,Pallor,D010167,C0006435,C0030232
+Chest pain,D002637,Pain,D010146,C0008031,C0458257
+Chikungunya,D018354,Arthralgia,D018771,C0919833,C0003862
+Chikungunya,D018354,Fever,D005334,C0919833,C0015967
+Chilaiditi syndrome,D059269,Abdominal pain,D015746,C0267494,C0000737
+Chilaiditi syndrome,D059269,Shortness of breath,D004417,C0267494,C0085619
+Chlamydia,D002690,Vaginal discharge,D019522,C0008149,C0227791
+Chlamydia,D002690,Dysuria,D053159,C0008149,C0013428
+Cholecystitis,D002764,Vomiting,D014839,C0014012,C0042963
+Cholecystitis,D002764,Abdominal pain,D015746,C0014012,C0000737
+Cholecystitis,D002764,Fever,D005334,C0014012,C0015967
+Cholera,D002771,Vomiting,D014839,C0008354,C0042963
+Cholera,D002771,Cramp,D009120,C0008354,C0026821
+Cholera,D002771,Diarrhea,D003967,C0008354,C0011991
+Chronic fatigue syndrome,D015673,Fatigue,D005221,C0015674,C0086525
+Chronic kidney disease,D007676,Confusion,D003221,C0022661,C0233407
+Chronic kidney disease,D007676,Vomiting,D014839,C0022661,C0042963
+Chronic kidney disease,D007676,Edema,D004487,C0022661,C0013604
+Chronic lymphocytic leukemia,D015451,Fever,D005334,C0023434,C0015967
+Chronic multifocal Langerhans cell histiocytosis,D006646,Diabetes insipidus,D003919,C0019621,C0011848
+Chronic multifocal Langerhans cell histiocytosis,D006646,Exophthalmos,D005094,C0019621,C0015300
+Chronic multifocal Langerhans cell histiocytosis,D006646,Otitis media,D010033,C0019621,C0029882
+Cirrhosis,D008103,Ascites,D001201,C0023890,C0003962
+Cirrhosis,D008103,Jaundice,D007565,C0023890,C0242183
+Cirrhosis,D008103,Itch,D011537,C0023890,C0033774
+Cirrhosis,D008103,Fatigue,D005221,C0023890,C0086525
+Cluster headache,D003027,Headache,D006261,C0393739,C0877781
+Coeliac disease,D002446,Constipation,D003248,C0007570,C1257861
+Coeliac disease,D002446,Malabsorption,D008286,C0007570,C0024523
+Coeliac disease,D002446,Dermatitis herpetiformis,D003874,C0007570,C0011608
+Coeliac disease,D002446,Diarrhea,D003967,C0007570,C0011991
+Common cold,D003139,Pharyngitis,D010612,C0086066,C0031350
+Common cold,D003139,Cough,D003371,C0086066,C0010200
+Common cold,D003139,Fever,D005334,C0086066,C0015967
+Compartment syndrome,D003161,Pallor,D010167,C0009492,C0030232
+Concussion,D001924,Headache,D006261,C0006107,C0877781
+Congenital dyserythropoietic anemia,D000742,Muscle weakness,D018908,C1306589,C0151786
+Congenital generalized lipodystrophy,D052497,Gigantism,D005877,C0221032,C0017547
+Congenital generalized lipodystrophy,D052497,Acromegaly,D000172,C0221032,C0001206
+Congenital heart defect,D006330,Cyanosis,D003490,C0018798,C0010520
+Constrictive pericarditis,D010494,Fatigue,D005221,C0031876,C0086525
+Conversion disorder,D003291,Lightheadedness,D013575,C0009946,C0700200
+Conversion disorder,D003291,Muscle weakness,D018908,C0009946,C0151786
+Conversion disorder,D003291,Paralysis,D010243,C0009946,C0234544
+Conversion disorder,D003291,Tremor,D014202,C0009946,C0751564
+Conversion disorder,D003291,Dysphagia,D003680,C0009946,C0011168
+Seizure,D012640,Spasm,D013035,C3495874,C0235229
+Coronary artery disease,D003324,Chest pain,D002637,C1956346,C0008031
+Coronary artery disease,D003324,Shortness of breath,D004417,C1956346,C0085619
+Crohn's disease,D003424,Abdominal pain,D015746,C0949272,C0000737
+Crohn's disease,D003424,Diarrhea,D003967,C0949272,C0011991
+Crohn's disease,D003424,Fever,D005334,C0949272,C0015967
+Crohn's disease,D003424,Fatigue,D005221,C0949272,C0086525
+Croup,D003440,Fever,D005334,C2350036,C0015967
+Cryptococcosis,D003453,Vomiting,D014839,C3888929,C0042963
+Cryptococcosis,D003453,Nausea,D009325,C3888929,C0027497
+Cryptococcosis,D003453,Chest pain,D002637,C3888929,C0008031
+Cryptococcosis,D003453,Meningism,D008580,C3888929,C0025287
+Cryptococcosis,D003453,Cough,D003371,C3888929,C0010200
+Cryptococcosis,D003453,Headache,D006261,C3888929,C0877781
+Cryptococcosis,D003453,Fever,D005334,C3888929,C0015967
+Cryptococcosis,D003453,Photophobia,D020795,C3888929,C0085636
+Cryptococcosis,D003453,Shortness of breath,D004417,C3888929,C0085619
+Cushing's syndrome,D003480,Muscle weakness,D018908,C0010481,C0151786
+Cushing's syndrome,D003480,Acne,D000152,C0010481,C0001144
+Cushing's syndrome,D003480,Lipodystrophy,D008060,C0010481,C0023787
+Cushing's syndrome,D003480,Hypertension,D006973,C0010481,C0020538
+Cystadenocarcinoma,D003536,Vomiting,D014839,C0010631,C0042963
+Cystadenocarcinoma,D003536,Nausea,D009325,C0010631,C0027497
+Cystadenocarcinoma,D003536,Ascites,D001201,C0010631,C0003962
+Cystadenocarcinoma,D003536,Abdominal pain,D015746,C0010631,C0000737
+Cystadenocarcinoma,D003536,Anorexia (symptom),D000855,C0010631,C0003123
+Cystadenocarcinoma,D003536,Fatigue,D005221,C0010631,C0086525
+Cystic fibrosis,D003550,Steatorrhea,D045602,C1527396,C0038238
+Cystic fibrosis,D003550,Shortness of breath,D004417,C1527396,C0085619
+Cystic fibrosis,D003550,Failure to thrive,D005183,C1527396,C0015544
+Cystocele,D052858,Urinary incontinence,D014549,C0010695,C0042024
+Deep vein thrombosis,D020246,Edema,D004487,C0042487,C0013604
+Delirium,D003693,Amnesia,D000647,C0154333,C0002622
+Delirium,D003693,Confusion,D003221,C0154333,C0233407
+Delirium,D003693,Delusion,D003702,C0154333,C0011253
+Delirium,D003693,Psychomotor agitation,D011595,C0154333,C3887612
+Delirium,D003693,Hallucination,D006212,C0154333,C0544668
+Delirium tremens,D000430,Delirium,D003693,C0001957,C0154333
+Delirium tremens,D000430,Hallucination,D006212,C0001957,C0544668
+Delirium tremens,D000430,Tremor,D014202,C0001957,C0751564
+Dermatitis,D004485,Rash,D005076,C0013595,C0015230
+Dermatitis,D004485,Erythema,D004890,C0013595,C0041834
+Dermatitis,D004485,Itch,D011537,C0013595,C0033774
+Dermatomyositis,D003882,Rash,D005076,C0263666,C0015230
+Dermatomyositis,D003882,Muscle weakness,D018908,C0263666,C0151786
+Diabetic ketoacidosis,D016883,Confusion,D003221,C0011880,C0233407
+Diabetic ketoacidosis,D016883,Vomiting,D014839,C0011880,C0042963
+Diabetic ketoacidosis,D016883,Abdominal pain,D015746,C0011880,C0000737
+Diabetic ketoacidosis,D016883,Polyuria,D011141,C0011880,C0032617
+Diabetic nephropathy,D003928,Albuminuria,D000419,C4759705,C0001925
+Diabetic nephropathy,D003928,Hypertension,D006973,C4759705,C0020538
+Diabetic nephropathy,D003928,Fatigue,D005221,C4759705,C0086525
+Dilated cardiomyopathy,D002311,Lightheadedness,D013575,C1449563,C0700200
+Dilated cardiomyopathy,D002311,Chest pain,D002637,C1449563,C0008031
+Dilated cardiomyopathy,D002311,Edema,D004487,C1449563,C0013604
+Dilated cardiomyopathy,D002311,Shortness of breath,D004417,C1449563,C0085619
+Diphtheria,D004165,Fever,D005334,C1301422,C0015967
+Disseminated intravascular coagulation,D004211,Chest pain,D002637,C0012739,C0008031
+Disseminated intravascular coagulation,D004211,Bleeding,D006470,C0012739,C0019080
+Disseminated intravascular coagulation,D004211,Shortness of breath,D004417,C0012739,C0085619
+Diverticulitis,D004238,Constipation,D003248,C0012813,C1257861
+Diverticulitis,D004238,Nausea,D009325,C0012813,C0027497
+Diverticulitis,D004238,Abdominal pain,D015746,C0012813,C0000737
+Diverticulitis,D004238,Diarrhea,D003967,C0012813,C0011991
+Diverticulitis,D004238,Fever,D005334,C0012813,C0015967
+Dizziness,D004244,Vertigo,D014717,C0220870,C0155503
+Dizziness,D004244,Lightheadedness,D013575,C0220870,C0700200
+Dubin–Johnson syndrome,D007566,Jaundice,D007565,C0022350,C0242183
+Duchenne muscular dystrophy,D020388,Muscle weakness,D018908,C3542021,C0151786
+Dysarthria,D004401,Dysarthria,D004401,C0454596,C0454596
+Dysautonomia,D001342,Anxiety,D001007,C0393912,C0027769
+Dysentery,D004403,Abdominal pain,D015746,C0013369,C0000737
+Dysentery,D004403,Fever,D005334,C0013369,C0015967
+Dyshidrosis,D011146,Blister,D001768,C0032633,C0005758
+Dyslipidemia,D050171,Atherosclerosis,D050197,C0242339,C1563937
+Dysmenorrhea,D004412,Nausea,D009325,C0013390,C0027497
+Dysmenorrhea,D004412,Pain,D010146,C0013390,C0458257
+Dysmenorrhea,D004412,Diarrhea,D003967,C0013390,C0011991
+Dysthymia,D019263,Depression (mood),D003863,C4704929,C0086132
+Dysthymia,D019263,Anhedonia,D059445,C4704929,C3178803
+Dysthymia,D019263,Pain,D010146,C4704929,C0458257
+Eastern equine encephalitis,D020242,Myalgia,D063806,C0153065,C0231528
+Eastern equine encephalitis,D020242,Headache,D006261,C0153065,C0877781
+Eastern equine encephalitis,D020242,Photophobia,D020795,C0153065,C0085636
+Eclampsia,D004461,Seizure,D012640,C0013537,C3495874
+Eclampsia,D004461,Hypertension,D006973,C0013537,C0020538
+Ectopic pregnancy,D011271,Abdominal pain,D015746,C0032987,C0000737
+Empty sella syndrome,D004652,Cryptorchidism,D003456,C0014008,C0431664
+Encephalitis,D004660,Confusion,D003221,C0393484,C0233407
+Encephalitis,D004660,Vomiting,D014839,C0393484,C0042963
+Encephalitis,D004660,Headache,D006261,C0393484,C0877781
+Encephalitis,D004660,Fever,D005334,C0393484,C0015967
+Endemic goitre,D006043,Goitre,D006042,C0018022,C0018021
+Endometrial cancer,D016889,Pelvic pain,D017699,C0476089,C0030794
+Endometrial cancer,D016889,Dysuria,D053159,C0476089,C0013428
+Endometriosis,D004715,Pelvic pain,D017699,C0014175,C0030794
+Endometritis,D004716,Vaginal discharge,D019522,C0014179,C0227791
+Endometritis,D004716,Fever,D005334,C0014179,C0015967
+Eosinophilic granulomatosis with polyangiitis,D015267,Arthralgia,D018771,C0008728,C0003862
+Eosinophilic granulomatosis with polyangiitis,D015267,Hives,D014581,C0008728,C0042109
+Eosinophilic granulomatosis with polyangiitis,D015267,Purpura,D011693,C0008728,C0034150
+Eosinophilic granulomatosis with polyangiitis,D015267,Myalgia,D063806,C0008728,C0231528
+Eosinophilic granulomatosis with polyangiitis,D015267,Fever,D005334,C0008728,C0015967
+Epidermolysis bullosa,D004820,Blister,D001768,C0014527,C0005758
+Epididymitis,D004823,Dysuria,D053159,C0014534,C0013428
+Epidural hematoma,D006407,Paralysis,D010243,C0238154,C0234544
+Epidural hematoma,D006407,Headache,D006261,C0238154,C0877781
+Epiglottitis,D004826,Fever,D005334,C0014541,C0015967
+Scleritis,D015423,Photophobia,D020795,C0027547,C0085636
+Esophageal cancer,D004938,Hoarse voice,D055154,C0546837,C0454545
+Esophageal cancer,D004938,Lymphadenopathy,D008206,C0546837,C0024228
+Esophageal cancer,D004938,Dysphagia,D003680,C0546837,C0011168
+Fasciolosis,D005211,Nausea,D009325,C0015652,C0027497
+Fat embolism syndrome,D004620,Shortness of breath,D004417,C0013928,C0085619
+Fat embolism syndrome,D004620,Purpura,D011693,C0013928,C0034150
+Fatal insomnia,D034062,Diplopia,D004172,C0206042,C0271186
+Febrile seizure,D003294,Generalized tonic–clonic seizure,D004830,C0751057,C0014549
+Fever,D005334,Perspiration,D013546,C0015967,C0038990
+Fever,D005334,Chills,D023341,C0015967,C0085593
+Fever,D005334,Flushing (physiology),D005483,C0015967,C0016382
+Fibrocystic breast changes,D005348,Breast cyst,D047688,C0085750,C0006144
+Fibromyalgia,D005356,Sleep disorder,D012893,C0751153,C0751508
+Food allergy,D005512,Hives,D014581,C0016470,C0042109
+Food allergy,D005512,Itch,D011537,C0016470,C0033774
+Fragile X syndrome,D005600,Intellectual disability,D008607,C0751157,C0917816
+Gallbladder cancer,D005706,Nausea,D009325,C0153452,C0027497
+Gallbladder cancer,D005706,Jaundice,D007565,C0153452,C0242183
+Gallbladder cancer,D005706,Abdominal pain,D015746,C0153452,C0000737
+Gallbladder cancer,D005706,Fever,D005334,C0153452,C0015967
+Gastric antral vascular ectasia,D020252,Gastrointestinal bleeding,D006471,C0267211,C0018932
+Gastric antral vascular ectasia,D020252,Edema,D004487,C0267211,C0013604
+Gastritis,D005756,Vomiting,D014839,C0017152,C0042963
+Gastritis,D005756,Nausea,D009325,C0017152,C0027497
+Gastritis,D005756,Abdominal pain,D015746,C0017152,C0000737
+Gastritis,D005756,Anorexia (symptom),D000855,C0017152,C0003123
+Gastritis,D005756,Heartburn,D006356,C0017152,C0018834
+Gastroenteritis,D005759,Vomiting,D014839,C0017160,C0042963
+Gastroenteritis,D005759,Diarrhea,D003967,C0017160,C0011991
+Gastroenteritis,D005759,Fever,D005334,C0017160,C0015967
+Gastroesophageal reflux disease,D005764,Chest pain,D002637,C0017168,C0008031
+Gastroesophageal reflux disease,D005764,Heartburn,D006356,C0017168,C0018834
+Gastroesophageal reflux disease,D005764,Bad breath,D006209,C0017168,C0018520
+Gastrointestinal bleeding,D006471,Fatigue,D005221,C0018932,C0086525
+Gastrointestinal bleeding,D006471,Gastrointestinal bleeding,D006471,C0018932,C0018932
+Gastroparesis,D018589,Vomiting,D014839,C0152020,C0042963
+Gastroparesis,D018589,Nausea,D009325,C0152020,C0027497
+Gastroparesis,D018589,Abdominal pain,D015746,C0152020,C0000737
+General paresis of the insane,D009494,Delusion,D003702,C0343686,C0011253
+General paresis of the insane,D009494,Dementia,D003704,C0343686,C0497327
+General paresis of the insane,D009494,Seizure,D012640,C0343686,C3495874
+General paresis of the insane,D009494,Cachexia,D002100,C0343686,C0006625
+General paresis of the insane,D009494,Neurasthenia,D009440,C0343686,C0027804
+General paresis of the insane,D009494,Tremor,D014202,C0343686,C0751564
+General paresis of the insane,D009494,Hyperreflexia,D012021,C0343686,C0277850
+Gestational pemphigoid,D006559,Blister,D001768,C0019343,C0005758
+Gestational pemphigoid,D006559,Hives,D014581,C0019343,C0042109
+Gestational pemphigoid,D006559,Itch,D011537,C0019343,C0033774
+Giant cell arteritis,D013700,Diplopia,D004172,C1956391,C0271186
+Giant cell arteritis,D013700,Headache,D006261,C1956391,C0877781
+Giardiasis,D005873,Abdominal pain,D015746,C0017536,C0000737
+Giardiasis,D005873,Diarrhea,D003967,C0017536,C0011991
+Gigantism,D005877,Insomnia,D007319,C0017547,C0541798
+Glaucoma,D005901,Nausea,D009325,C0017601,C0027497
+Glioblastoma,D005909,Nausea,D009325,C0334588,C0027497
+Glioblastoma,D005909,Stroke,D020521,C0334588,C0751956
+Glioblastoma,D005909,Headache,D006261,C0334588,C0877781
+Glucose-6-phosphate dehydrogenase deficiency,D005955,Jaundice,D007565,C2939465,C0242183
+Glucose-6-phosphate dehydrogenase deficiency,D005955,Shortness of breath,D004417,C2939465,C0085619
+Glycogen storage disease type III,D006010,Hypotonia,D009123,C0017922,C0026825
+Gonorrhea,D006069,Vaginal discharge,D019522,C0018081,C0227791
+Gonorrhea,D006069,Pelvic pain,D017699,C0018081,C0030794
+Gonorrhea,D006069,Dysuria,D053159,C0018081,C0013428
+Gout,D006073,Arthralgia,D018771,C0018099,C0003862
+Gout,D006073,Erythema,D004890,C0018099,C0041834
+Graves' disease,D006111,Tachycardia,D013610,C0018213,C0080203
+Graves' disease,D006111,Anxiety,D001007,C0018213,C0027769
+Graves' disease,D006111,Perspiration,D013546,C0018213,C0038990
+Graves' disease,D006111,Insomnia,D007319,C0018213,C0541798
+Graves' disease,D006111,Graves' ophthalmopathy,D049970,C0018213,C1563709
+Graves' disease,D006111,Erectile dysfunction,D007172,C0018213,C0242350
+Graves' disease,D006111,Goitre,D006042,C0018213,C0018021
+HELLP syndrome,D017359,Nausea,D009325,C0162739,C0027497
+HELLP syndrome,D017359,Seizure,D012640,C0162739,C3495874
+HELLP syndrome,D017359,Abdominal pain,D015746,C0162739,C0000737
+HELLP syndrome,D017359,Headache,D006261,C0162739,C0877781
+HIV/AIDS,D000163,Lymphadenopathy,D008206,C0001175,C0024228
+HIV/AIDS,D000163,Fever,D005334,C0001175,C0015967
+Haemophilia,D025861,Bleeding,D006470,C0852077,C0019080
+Hashimoto's thyroiditis,D050031,Constipation,D003248,C0677607,C1257861
+Hashimoto's thyroiditis,D050031,Hair loss,D000505,C0677607,C0002170
+Hashimoto's thyroiditis,D050031,Mood disorder,D019964,C0677607,C0525045
+Hashimoto's thyroiditis,D050031,Fatigue,D005221,C0677607,C0086525
+Hashimoto's thyroiditis,D050031,Goitre,D006042,C0677607,C0018021
+Heart failure,D006333,Edema,D004487,C0018801,C0013604
+Heart failure,D006333,Shortness of breath,D004417,C0018801,C0085619
+Heart failure,D006333,Fatigue,D005221,C0018801,C0086525
+Heartburn,D006356,Nausea,D009325,C0018834,C0027497
+Helicobacter pylori,D016481,Nausea,D009325,C0079487,C0027497
+Helicobacter pylori,D016481,Abdominal pain,D015746,C0079487,C0000737
+Hemolytic–uremic syndrome,D006463,Vomiting,D014839,C0019061,C0042963
+Hemolytic–uremic syndrome,D006463,Anemia,D000740,C0019061,C0002871
+Hemolytic–uremic syndrome,D006463,Fever,D005334,C0019061,C0015967
+Hemorrhoid,D006484,Gastrointestinal bleeding,D006471,C0019112,C0018932
+Hepatic veno-occlusive disease,D006504,Ascites,D001201,C0019156,C0003962
+Hepatic veno-occlusive disease,D006504,Jaundice,D007565,C0019156,C0242183
+Hepatitis,D006505,Jaundice,D007565,C0019158,C0242183
+Hepatitis,D006505,Abdominal pain,D015746,C0019158,C0000737
+Hepatitis,D006505,Anorexia (symptom),D000855,C0019158,C0003123
+Hepatitis A,D006506,Nausea,D009325,C0019159,C0027497
+Hepatitis A,D006506,Jaundice,D007565,C0019159,C0242183
+Hepatitis A,D006506,Diarrhea,D003967,C0019159,C0011991
+Hepatitis A,D006506,Fever,D005334,C0019159,C0015967
+Hepatitis B,D006509,Jaundice,D007565,C0019163,C0242183
+Hepatitis B,D006509,Abdominal pain,D015746,C0019163,C0000737
+Hepatitis B,D006509,Fatigue,D005221,C0019163,C0086525
+Hepatitis D,D003699,Vomiting,D014839,C1956384,C0042963
+Hepatitis E,D016751,Nausea,D009325,C0085293,C0027497
+Hepatitis E,D016751,Jaundice,D007565,C0085293,C0242183
+Hereditary angioedema,D054179,Angioedema,D000799,C0019243,C0002994
+Hereditary hemorrhagic telangiectasia,D013683,Gastrointestinal bleeding,D006471,C0039445,C0018932
+Herpes labialis,D006560,Blister,D001768,C0019345,C0005758
+Herpes labialis,D006560,Ulcer (dermatology),D012883,C0019345,C0037299
+Hiatal hernia,D006551,Heartburn,D006356,C3489393,C0018834
+Hiatal hernia,D006551,Dysphagia,D003680,C3489393,C0011168
+Hirschsprung's disease,D006627,Constipation,D003248,C0085758,C1257861
+Hirschsprung's disease,D006627,Vomiting,D014839,C0085758,C0042963
+Hirschsprung's disease,D006627,Abdominal pain,D015746,C0085758,C0000737
+Hirschsprung's disease,D006627,Diarrhea,D003967,C0085758,C0011991
+Hirschsprung's disease,D006627,Failure to thrive,D005183,C0085758,C0015544
+Hodgkin lymphoma,D006689,Lymphadenopathy,D008206,C1334968,C0024228
+Hodgkin lymphoma,D006689,Fever,D005334,C1334968,C0015967
+Hypercalcaemia,D006934,Confusion,D003221,C0026141,C0233407
+Hypercalcaemia,D006934,Depression (mood),D003863,C0026141,C0086132
+Hypercalcaemia,D006934,Muscle weakness,D018908,C0026141,C0151786
+Hypercalcaemia,D006934,Abdominal pain,D015746,C0026141,C0000737
+Hyperkalemia,D006947,Muscle weakness,D018908,C0020461,C0151786
+Hyperkalemia,D006947,Myalgia,D063806,C0020461,C0231528
+Hyperkalemia,D006947,Paresthesia,D010292,C0020461,C0392699
+Hyperparathyroidism,D006961,Kidney stone disease,D052878,C0020502,C0451641
+Hyperparathyroidism,D006961,Major depressive disorder,D003865,C0020502,C1571984
+Hyperpituitarism,D006964,Hirsutism,D006628,C0751221,C0019572
+Hypersensitivity pneumonitis,D000542,Chills,D023341,C0002390,C0085593
+Hypersensitivity pneumonitis,D000542,Cough,D003371,C0002390,C0010200
+Hypersensitivity pneumonitis,D000542,Fever,D005334,C0002390,C0015967
+Hypersensitivity pneumonitis,D000542,Shortness of breath,D004417,C0002390,C0085619
+Hypersensitivity pneumonitis,D000542,Fatigue,D005221,C0002390,C0086525
+Hyperthermia,D000084462,Delirium,D003693,C5232927,C0154333
+Hyperthyroidism,D006980,Tachycardia,D013610,C3714618,C0080203
+Hyperthyroidism,D006980,Diarrhea,D003967,C3714618,C0011991
+Hyperthyroidism,D006980,Goitre,D006042,C3714618,C0018021
+Hypertrophic cardiomyopathy,D002312,Lightheadedness,D013575,C0007194,C0700200
+Hypertrophic cardiomyopathy,D002312,Chest pain,D002637,C0007194,C0008031
+Hypertrophic cardiomyopathy,D002312,Edema,D004487,C0007194,C0013604
+Hypertrophic cardiomyopathy,D002312,Shortness of breath,D004417,C0007194,C0085619
+Hypoalbuminemia,D034141,Ascites,D001201,C0239981,C0003962
+Hypoalbuminemia,D034141,Edema,D004487,C0239981,C0013604
+Hypoalbuminemia,D034141,Fatigue,D005221,C0239981,C0086525
+Hypoglycemia,D007003,Confusion,D003221,C0271708,C0233407
+Hypoglycemia,D007003,Nausea,D009325,C0271708,C0027497
+Hypoglycemia,D007003,Anxiety,D001007,C0271708,C0027769
+Hypoglycemia,D007003,Seizure,D012640,C0271708,C3495874
+Hypoglycemia,D007003,Headache,D006261,C0271708,C0877781
+Hypoglycemia,D007003,Lightheadedness,D013575,C0271708,C0700200
+Hyponatremia,D007010,Confusion,D003221,C0020625,C0233407
+Hyponatremia,D007010,Nausea,D009325,C0020625,C0027497
+Hyponatremia,D007010,Seizure,D012640,C0020625,C3495874
+Hyponatremia,D007010,Coma,D003128,C0020625,C0860634
+Hyponatremia,D007010,Headache,D006261,C0020625,C0877781
+Hypotension,D007022,Dizziness,D004244,C0020649,C0220870
+Hypotension,D007022,Angina,D000787,C0020649,C0002962
+Hypotension,D007022,Arrhythmia,D001145,C0020649,C0003811
+Hypotension,D007022,Seizure,D012640,C0020649,C3495874
+Hypotension,D007022,Fever,D005334,C0020649,C0015967
+Hypotension,D007022,Lightheadedness,D013575,C0020649,C0700200
+Hypotension,D007022,Fatigue,D005221,C0020649,C0086525
+Hypothermia,D007035,Confusion,D003221,C0274285,C0233407
+Hypothermia,D007035,Cardiac arrest,D006323,C0274285,C0018790
+Hypothyroidism,D007037,Constipation,D003248,C3665349,C1257861
+Hypothyroidism,D007037,Depression (mood),D003863,C3665349,C0086132
+Hypothyroidism,D007037,Anxiety,D001007,C3665349,C0027769
+Hypotonia,D009123,Muscle weakness,D018908,C0026825,C0151786
+Hypovolemia,D020896,Fatigue,D005221,C0546884,C0086525
+Hypoxia (medical),D000860,Cyanosis,D003490,C0242184,C0010520
+Hypoxia (medical),D000860,Paresthesia,D010292,C0242184,C0392699
+Idiopathic intracranial hypertension,D011559,Headache,D006261,C0033845,C0877781
+Idiopathic intracranial hypertension,D011559,Tinnitus,D014012,C0033845,C0751557
+Idiopathic pulmonary fibrosis,D011658,Shortness of breath,D004417,C0034069,C0085619
+Infectious mononucleosis,D007244,Lymphadenopathy,D008206,C0021345,C0024228
+Infectious mononucleosis,D007244,Fever,D005334,C0021345,C0015967
+Infectious mononucleosis,D007244,Pharyngitis,D010612,C0021345,C0031350
+Infectious mononucleosis,D007244,Fatigue,D005221,C0021345,C0086525
+Influenza,D007251,Pharyngitis,D010612,C0021400,C0031350
+Influenza,D007251,Myalgia,D063806,C0021400,C0231528
+Influenza,D007251,Cough,D003371,C0021400,C0010200
+Influenza,D007251,Headache,D006261,C0021400,C0877781
+Influenza,D007251,Fever,D005334,C0021400,C0015967
+Influenza,D007251,Fatigue,D005221,C0021400,C0086525
+Insect bites and stings,D007299,Pain,D010146,C0021564,C0458257
+Insomnia,D007319,Depression (mood),D003863,C0541798,C0086132
+Insomnia,D007319,Excessive daytime sleepiness,D006970,C0541798,C0917799
+Interstitial cystitis,D018856,Chronic pain,D059350,C0282488,C3178789
+Intestinal pseudo-obstruction,D003112,Vomiting,D014839,C0009377,C0042963
+Intestinal pseudo-obstruction,D003112,Nausea,D009325,C0009377,C0027497
+Intestinal pseudo-obstruction,D003112,Abdominal pain,D015746,C0009377,C0000737
+Intestinal pseudo-obstruction,D003112,Dysphagia,D003680,C0009377,C0011168
+Intracerebral hemorrhage,D002543,Seizure,D012640,C2937358,C3495874
+Intracerebral hemorrhage,D002543,Headache,D006261,C2937358,C0877781
+Intracerebral hemorrhage,D002543,Fever,D005334,C2937358,C0015967
+Intracerebral hemorrhage,D002543,Hemiparesis,D006429,C2937358,C0392550
+Intracranial aneurysm,D002532,Confusion,D003221,C0917996,C0233407
+Intracranial aneurysm,D002532,Vomiting,D014839,C0917996,C0042963
+Intracranial aneurysm,D002532,Nausea,D009325,C0917996,C0027497
+Intracranial aneurysm,D002532,Headache,D006261,C0917996,C0877781
+Intussusception (medical disorder),D007443,Vomiting,D014839,C0021933,C0042963
+Intussusception (medical disorder),D007443,Abdominal pain,D015746,C0021933,C0000737
+Iron-deficiency anemia,D018798,Lightheadedness,D013575,C0162316,C0700200
+Iron-deficiency anemia,D018798,Shortness of breath,D004417,C0162316,C0085619
+Iron-deficiency anemia,D018798,Pallor,D010167,C0162316,C0030232
+Iron-deficiency anemia,D018798,Fatigue,D005221,C0162316,C0086525
+Irritable bowel syndrome,D043183,Constipation,D003248,C0022104,C1257861
+Irritable bowel syndrome,D043183,Diarrhea,D003967,C0022104,C0011991
+Japanese encephalitis,D004672,Seizure,D012640,C0014057,C3495874
+Jervell and Lange-Nielsen syndrome,D029593,Lightheadedness,D013575,C0022387,C0700200
+Jervell and Lange-Nielsen syndrome,D029593,Seizure,D012640,C0022387,C3495874
+Jervell and Lange-Nielsen syndrome,D029593,Sensorineural hearing loss,D006319,C0022387,C0018784
+Kabuki syndrome,C537705,Hypotonia,D009123,C0796004,C0026825
+Kallmann syndrome,D017436,Anosmia,D000857,C1563720,C0553757
+Kallmann syndrome,D017436,Infertility,D007246,C1563720,C4074771
+Kawasaki disease,D009080,Pharyngitis,D010612,C0026691,C0031350
+Kawasaki disease,D009080,Rash,D005076,C0026691,C0015230
+Kawasaki disease,D009080,Lymphadenopathy,D008206,C0026691,C0024228
+Kawasaki disease,D009080,Diarrhea,D003967,C0026691,C0011991
+Keratoconus,D007640,Myopia,D009216,C0022578,C0027092
+Kidney cancer,D007680,Back pain,D001416,C0022665,C0750949
+Kidney cancer,D007680,Hematuria,D006417,C0022665,C0018965
+Klinefelter syndrome,D007713,Gigantism,D005877,C0543754,C0017547
+Klinefelter syndrome,D007713,Muscle weakness,D018908,C0543754,C0151786
+Klinefelter syndrome,D007713,Infertility,D007246,C0543754,C4074771
+Klippel–Feil syndrome,D007714,Congenital heart defect,D006330,C0022738,C0018798
+Laron syndrome,D046150,Dwarfism,D004392,C0271568,C0013336
+Laryngitis,D007827,Hoarse voice,D055154,C0023067,C0454545
+Laryngitis,D007827,Fever,D005334,C0023067,C0015967
+Lassa fever,D007835,Headache,D006261,C0023092,C0877781
+Lassa fever,D007835,Fever,D005334,C0023092,C0015967
+Lassa fever,D007835,Bleeding,D006470,C0023092,C0019080
+Lead poisoning,D007855,Constipation,D003248,C0023176,C1257861
+Lead poisoning,D007855,Abdominal pain,D015746,C0023176,C0000737
+Lead poisoning,D007855,Infertility,D007246,C0023176,C4074771
+Lead poisoning,D007855,Intellectual disability,D008607,C0023176,C0917816
+Lead poisoning,D007855,Paresthesia,D010292,C0023176,C0392699
+Legionnaires' disease,D007876,Myalgia,D063806,C0023240,C0231528
+Legionnaires' disease,D007876,Fever,D005334,C0023240,C0015967
+Legionnaires' disease,D007876,Shortness of breath,D004417,C0023240,C0085619
+Legius syndrome,C548032,Café au lait spot,D019080,C1969623,C0221263
+Leishmaniasis,D007896,Anemia,D000740,C0023281,C0002871
+Leishmaniasis,D007896,Ulcer (dermatology),D012883,C0023281,C0037299
+Leishmaniasis,D007896,Fever,D005334,C0023281,C0015967
+Lemierre's syndrome,D057831,Pharyngitis,D010612,C0343525,C0031350
+Lemierre's syndrome,D057831,Vomiting,D014839,C0343525,C0042963
+Lemierre's syndrome,D057831,Meningitis,D008581,C0343525,C0025289
+Lemierre's syndrome,D057831,Sepsis,D018805,C0343525,C0036690
+Lemierre's syndrome,D057831,Myalgia,D063806,C0343525,C0231528
+Lemierre's syndrome,D057831,Fever,D005334,C0343525,C0015967
+Lemierre's syndrome,D057831,Fatigue,D005221,C0343525,C0086525
+Lesch–Nyhan syndrome,D007926,Chorea,D002819,C0023374,C0393584
+Lesch–Nyhan syndrome,D007926,Hyperuricemia,D033461,C0023374,C0740394
+Lesch–Nyhan syndrome,D007926,Self-harm,D016728,C0023374,C0085271
+Lesch–Nyhan syndrome,D007926,Intellectual disability,D008607,C0023374,C0917816
+Lesch–Nyhan syndrome,D007926,Dystonia,D004421,C0023374,C0013421
+Lesch–Nyhan syndrome,D007926,Spasticity,D009128,C0023374,C0026838
+Leukemia,D007938,Bruise,D003288,C0023418,C0009938
+Leukemia,D007938,Fever,D005334,C0023418,C0015967
+Leukemia,D007938,Fatigue,D005221,C0023418,C0086525
+Lightheadedness,D013575,Vertigo,D014717,C0700200,C0155503
+Lipedema,D065134,Bruise,D003288,C3852998,C0009938
+Listeriosis,D008088,Headache,D006261,C0023860,C0877781
+Listeriosis,D008088,Diarrhea,D003967,C0023860,C0011991
+Listeriosis,D008088,Fever,D005334,C0023860,C0015967
+Liver cancer,D008113,Ascites,D001201,C0345904,C0003962
+Liver cancer,D008113,Jaundice,D007565,C0345904,C0242183
+Liver failure,D017093,Vomiting,D014839,C0085605,C0042963
+Liver failure,D017093,Nausea,D009325,C0085605,C0027497
+Liver failure,D017093,Respiratory alkalosis,D000472,C0085605,C0002064
+Liver failure,D017093,Acute liver failure,D017114,C0085605,C0162557
+Liver failure,D017093,Metabolic acidosis,D000138,C0085605,C0001122
+Liver failure,D017093,Hyperglycemia,D006943,C0085605,C1855520
+Liver failure,D017093,Cirrhosis,D008103,C0085605,C0023890
+Liver failure,D017093,Jaundice,D007565,C0085605,C0242183
+Liver failure,D017093,Itch,D011537,C0085605,C0033774
+Liver failure,D017093,Edema,D004487,C0085605,C0013604
+Liver failure,D017093,Hyponatremia,D007010,C0085605,C0020625
+Liver failure,D017093,Glycosuria,D006029,C0085605,C0017979
+Long QT syndrome,D008133,Lightheadedness,D013575,C0151878,C0700200
+Long QT syndrome,D008133,Hearing loss,D034381,C0151878,C1384666
+Long QT syndrome,D008133,Seizure,D012640,C0151878,C3495874
+Lung cancer,D002283,Chest pain,D002637,C0007121,C0008031
+Lung cancer,D002283,Cough,D003371,C0007121,C0010200
+Lung cancer,D002283,Shortness of breath,D004417,C0007121,C0085619
+Lupus,D008180,Arthritis,D001168,C0024141,C0003864
+Lupus,D008180,Hair loss,D000505,C0024141,C0002170
+Lupus,D008180,Rash,D005076,C0024141,C0015230
+Lupus,D008180,Chest pain,D002637,C0024141,C0008031
+Lupus,D008180,Lymphadenopathy,D008206,C0024141,C0024228
+Lupus,D008180,Mouth ulcer,D019226,C0024141,C0149745
+Lupus,D008180,Fever,D005334,C0024141,C0015967
+Lupus,D008180,Fatigue,D005221,C0024141,C0086525
+Lupus nephritis,D008181,Arthralgia,D018771,C0024143,C0003862
+Lymphadenopathy,D008206,Pharyngitis,D010612,C0024228,C0031350
+Lymphadenopathy,D008206,Fever,D005334,C0024228,C0015967
+Lymphadenopathy,D008206,Lymphoma,D008223,C0024228,C0024299
+Lymphoma,D008223,Perspiration,D013546,C0024299,C0038990
+Lymphoma,D008223,Itch,D011537,C0024299,C0033774
+Lymphoma,D008223,Lymphadenopathy,D008206,C0024299,C0024228
+Lymphoma,D008223,Fever,D005334,C0024299,C0015967
+Lymphoma,D008223,Fatigue,D005221,C0024299,C0086525
+Malignant hyperthermia,D008305,Tachycardia,D013610,C0024591,C0080203
+Malignant hyperthermia,D008305,Hyperthermia,D000084462,C0024591,C5232927
+Malnutrition,D044342,Ascites,D001201,C0162429,C0003962
+Malnutrition,D044342,Edema,D004487,C0162429,C0013604
+Mandibular fracture,D008337,Malocclusion,D008310,C0024692,C0242385
+Maroteaux–Lamy syndrome,D009087,Umbilical hernia,D006554,C0026709,C1306503
+Maroteaux–Lamy syndrome,D009087,Macrocephaly,D058627,C0026709,C0221355
+Mastitis,D008413,Fever,D005334,C0024894,C0015967
+Measles,D008457,Conjunctivitis,D003231,C0025007,C0009763
+Measles,D008457,Rash,D005076,C0025007,C0015230
+Measles,D008457,Rhinitis,D012220,C0025007,C0035455
+Measles,D008457,Cough,D003371,C0025007,C0010200
+Measles,D008457,Fever,D005334,C0025007,C0015967
+Meesmann corneal dystrophy,D053559,Photophobia,D020795,C0339277,C0085636
+Meesmann corneal dystrophy,D053559,Blepharospasm,D001764,C0339277,C0005747
+Melanoma,D008545,Ulcer (dermatology),D012883,C0025202,C0037299
+Melanoma,D008545,Nevus,D009506,C0025202,C0027960
+Meningioma,D008579,Dementia,D003704,C0281784,C0497327
+Meningioma,D008579,Seizure,D012640,C0281784,C3495874
+Meningitis,D008581,Headache,D006261,C0025289,C0877781
+Meningitis,D008581,Fever,D005334,C0025289,C0015967
+Mental disorder,D001523,Depression (mood),D003863,C0376338,C0086132
+Mental disorder,D001523,Psychomotor agitation,D011595,C0376338,C3887612
+Mental disorder,D001523,Anxiety,D001007,C0376338,C0027769
+Mental disorder,D001523,Bipolar disorder,D001714,C0376338,C0005586
+Mental disorder,D001523,Paranoia,D010259,C0376338,C1456784
+Mesothelioma,D008654,Shortness of breath,D004417,C0025500,C0085619
+Methemoglobinemia,D008708,Cyanosis,D003490,C0025637,C0010520
+Migraine,D008881,Nausea,D009325,C0270858,C0027497
+Migraine,D008881,Headache,D006261,C0270858,C0877781
+Migraine,D008881,Photophobia,D020795,C0270858,C0085636
+Migraine,D008881,Hyperacusis,D012001,C0270858,C0034880
+Mitral stenosis,D008946,Hemoptysis,D006469,C0026269,C0019079
+Mitral stenosis,D008946,Edema,D004487,C0026269,C0013604
+Mitral valve prolapse,D008945,Ventricular tachycardia,D017180,C0026267,C0030590
+Mitral valve prolapse,D008945,Lightheadedness,D013575,C0026267,C0700200
+Mitral valve prolapse,D008945,Dysautonomia,D001342,C0026267,C0393912
+Mitral valve prolapse,D008945,Hypotension,D007022,C0026267,C0020649
+Mitral valve prolapse,D008945,Shortness of breath,D004417,C0026267,C0085619
+Motion sickness,D009041,Vomiting,D014839,C0026603,C0042963
+Motion sickness,D009041,Nausea,D009325,C0026603,C0027497
+Mouth breathing,D009058,Snoring,D012913,C0026635,C0037384
+Mucormycosis,D009091,Diplopia,D004172,C0026718,C0271186
+Mucormycosis,D009091,Headache,D006261,C0026718,C0877781
+Mucormycosis,D009091,Fever,D005334,C0026718,C0015967
+Mucosal melanoma,D008546,Constipation,D003248,C0025205,C1257861
+Mucosal melanoma,D008546,Anosmia,D000857,C0025205,C0553757
+Mucosal melanoma,D008546,Aphthous stomatitis,D013281,C0025205,C0086789
+Mucosal melanoma,D008546,Itch,D011537,C0025205,C0033774
+Mucosal melanoma,D008546,Diarrhea,D003967,C0025205,C0011991
+Mucosal melanoma,D008546,Bleeding,D006470,C0025205,C0019080
+Mucosal melanoma,D008546,Periodontal disease,D010518,C0025205,C0031051
+Mucosal melanoma,D008546,Rosacea,D012393,C0025205,C0406486
+Mucosal melanoma,D008546,Fatigue,D005221,C0025205,C0086525
+Mucosal melanoma,D008546,Hematuria,D006417,C0025205,C0018965
+Mulibrey nanism,D050336,Infertility,D007246,C0524582,C4074771
+Myasthenia gravis,D009157,Muscle weakness,D018908,C0026896,C0151786
+Myasthenia gravis,D009157,Diplopia,D004172,C0026896,C0271186
+Myasthenia gravis,D009157,Ptosis (eyelid),D001763,C0026896,C0005745
+Myelodysplastic syndrome,D009190,Infection,D003141,C2713368,C0009450
+Myelodysplastic syndrome,D009190,Bleeding,D006470,C2713368,C0019080
+Myelodysplastic syndrome,D009190,Shortness of breath,D004417,C2713368,C0085619
+Myelodysplastic syndrome,D009190,Fatigue,D005221,C2713368,C0086525
+Myocardial infarction,D009203,Nausea,D009325,C0027051,C0027497
+Myocardial infarction,D009203,Perspiration,D013546,C0027051,C0038990
+Myocardial infarction,D009203,Chest pain,D002637,C0027051,C0008031
+Myocardial infarction,D009203,Lightheadedness,D013575,C0027051,C0700200
+Myocardial infarction,D009203,Shortness of breath,D004417,C0027051,C0085619
+Myocardial infarction,D009203,Fatigue,D005221,C0027051,C0086525
+Myocarditis,D009205,Arrhythmia,D001145,C0027059,C0003811
+Myocarditis,D009205,Chest pain,D002637,C0027059,C0008031
+Myocarditis,D009205,Shortness of breath,D004417,C0027059,C0085619
+Myopia,D009216,Headache,D006261,C0027092,C0877781
+Narcolepsy,D009290,Hallucination,D006212,C0027404,C0544668
+Narcolepsy,D009290,Cataplexy,D002385,C0027404,C0007384
+Narcolepsy,D009290,Excessive daytime sleepiness,D006970,C0027404,C0917799
+Necrotizing enterocolitis,D020345,Vomiting,D014839,C0520459,C0042963
+Necrotizing fasciitis,D019115,Fever,D005334,C0238124,C0015967
+Neonatal jaundice,D007567,Jaundice,D007565,C1565887,C0242183
+Neoplasm,D009369,Edema,D004487,C0027651,C0013604
+Neurofibromatosis,D017253,Hearing loss,D034381,C0917817,C1384666
+Neuroleptic malignant syndrome,D009459,Perspiration,D013546,C0027849,C0038990
+Neuroleptic malignant syndrome,D009459,Fever,D005334,C0027849,C0015967
+Non-Hodgkin lymphoma,D008228,Itch,D011537,C4721532,C0033774
+Non-Hodgkin lymphoma,D008228,Lymphadenopathy,D008206,C4721532,C0024228
+Non-Hodgkin lymphoma,D008228,Fever,D005334,C4721532,C0015967
+Non-Hodgkin lymphoma,D008228,Fatigue,D005221,C4721532,C0086525
+Nuchal cord,D053589,Purpura,D011693,C1721023,C0034150
+Obstetric fistula,D014624,Fecal incontinence,D005242,C0042253,C0015732
+Obstetric fistula,D014624,Urinary incontinence,D014549,C0042253,C0042024
+Oculopharyngeal muscular dystrophy,D039141,Dysphagia,D003680,C0270952,C0011168
+Onchocerciasis,D009855,Itch,D011537,C0029001,C0033774
+Opioid use disorder,D009293,Drug withdrawal,D013375,C0027412,C0086189
+Orthostatic hypotension,D007024,Vertigo,D014717,C0020651,C0155503
+Orthostatic hypotension,D007024,Lightheadedness,D013575,C0020651,C0700200
+Osteitis fibrosa cystica,D010002,Bone fracture,D050723,C0029405,C0332712
+Osteoarthritis,D010003,Arthralgia,D018771,C0086743,C0003862
+Osteomyelitis,D010019,Fever,D005334,C0029443,C0015967
+Osteoporosis,D010024,Bone fracture,D050723,C0001787,C0332712
+Otitis media,D010033,Hearing loss,D034381,C0029882,C1384666
+Otitis media,D010033,Fever,D005334,C0029882,C0015967
+Ovarian cancer,D010051,Constipation,D003248,C1140680,C1257861
+Ovarian cancer,D010051,Ascites,D001201,C1140680,C0003962
+Ovarian cancer,D010051,Pelvic pain,D017699,C1140680,C0030794
+Ovarian cancer,D010051,Anorexia (symptom),D000855,C1140680,C0003123
+Pancreatic cancer,D010190,Back pain,D001416,C0030297,C0750949
+Pancreatic cancer,D010190,Jaundice,D007565,C0030297,C0242183
+Pancreatic cancer,D010190,Abdominal pain,D015746,C0030297,C0000737
+Pancreatic cancer,D010190,Anorexia (symptom),D000855,C0030297,C0003123
+Pancreatic cancer,D010190,Cachexia,D002100,C0030297,C0006625
+Pancreatic pseudocyst,D010192,Vomiting,D014839,C0030299,C0042963
+Pancreatic pseudocyst,D010192,Nausea,D009325,C0030299,C0027497
+Pancreatic pseudocyst,D010192,Abdominal pain,D015746,C0030299,C0000737
+Pancreatic pseudocyst,D010192,Anorexia (symptom),D000855,C0030299,C0003123
+Pancreatitis,D010195,Vomiting,D014839,C0001339,C0042963
+Pancreatitis,D010195,Nausea,D009325,C0001339,C0027497
+Pancreatitis,D010195,Steatorrhea,D045602,C0001339,C0038238
+Pancreatitis,D010195,Fever,D005334,C0001339,C0015967
+Panic disorder,D016584,Perspiration,D013546,C0086769,C0038990
+Panic disorder,D016584,Shortness of breath,D004417,C0086769,C0085619
+Pantothenate kinase-associated neurodegeneration,D006211,Dementia,D003704,C0018523,C0497327
+Pantothenate kinase-associated neurodegeneration,D006211,Parkinsonism,D020734,C0018523,C0752097
+Pantothenate kinase-associated neurodegeneration,D006211,Dystonia,D004421,C0018523,C0013421
+Paracoccidioidomycosis,D010229,Lymphadenopathy,D008206,C0030409,C0024228
+Paracoccidioidomycosis,D010229,Mouth ulcer,D019226,C0030409,C0149745
+Paracoccidioidomycosis,D010229,Fever,D005334,C0030409,C0015967
+Paratyphoid fever,D010284,Headache,D006261,C0030528,C0877781
+Paratyphoid fever,D010284,Fever,D005334,C0030528,C0015967
+Supraventricular tachycardia,D013617,Chest pain,D002637,C0039240,C0008031
+Supraventricular tachycardia,D013617,Shortness of breath,D004417,C0039240,C0085619
+Peanut allergy,D021183,Dermatitis,D004485,C0559470,C0013595
+Peanut allergy,D021183,Asthma,D001249,C0559470,C0004096
+Peanut allergy,D021183,Angioedema,D000799,C0559470,C0002994
+Peanut allergy,D021183,Cardiac arrest,D006323,C0559470,C0018790
+Peanut allergy,D021183,Hives,D014581,C0559470,C0042109
+Peanut allergy,D021183,Abdominal pain,D015746,C0559470,C0000737
+Peanut allergy,D021183,Itch,D011537,C0559470,C0033774
+Peanut allergy,D021183,Hypotension,D007022,C0559470,C0020649
+Peanut allergy,D021183,Diarrhea,D003967,C0559470,C0011991
+Pelvic inflammatory disease,D000292,Vaginal discharge,D019522,C0001577,C0227791
+Pelvic inflammatory disease,D000292,Fever,D005334,C0001577,C0015967
+Pelvic inflammatory disease,D000292,Dysuria,D053159,C0001577,C0013428
+Peptic ulcer disease,D010437,Nausea,D009325,C0030920,C0027497
+Peptic ulcer disease,D010437,Abdominal pain,D015746,C0030920,C0000737
+Peptic ulcer disease,D010437,Anorexia (symptom),D000855,C0030920,C0003123
+Peptic ulcer disease,D010437,Heartburn,D006356,C0030920,C0018834
+Pericarditis,D010493,Chest pain,D002637,C1167732,C0008031
+Pericarditis,D010493,Fever,D005334,C1167732,C0015967
+Periodontal disease,D010518,Bad breath,D006209,C0031051,C0018520
+Peripheral artery disease,D016491,Cyanosis,D003490,C0085096,C0010520
+Peripheral artery disease,D016491,Intermittent claudication,D007383,C0085096,C0021775
+Peritonitis,D010538,Fever,D005334,C1449646,C0015967
+Peritonsillar abscess,D000039,Trismus,D014313,C0031157,C0343495
+Peritonsillar abscess,D000039,Fever,D005334,C0031157,C0015967
+Pernicious anemia,D000752,Confusion,D003221,C0002892,C0233407
+Pernicious anemia,D000752,Depression (mood),D003863,C0002892,C0086132
+Pernicious anemia,D000752,Lightheadedness,D013575,C0002892,C0700200
+Pernicious anemia,D000752,Shortness of breath,D004417,C0002892,C0085619
+Pernicious anemia,D000752,Paresthesia,D010292,C0002892,C0392699
+Pernicious anemia,D000752,Fatigue,D005221,C0002892,C0086525
+Pharyngitis,D010612,Pharyngitis,D010612,C0031350,C0031350
+Pharyngitis,D010612,Hoarse voice,D055154,C0031350,C0454545
+Pharyngitis,D010612,Cough,D003371,C0031350,C0010200
+Pharyngitis,D010612,Headache,D006261,C0031350,C0877781
+Pharyngitis,D010612,Fever,D005334,C0031350,C0015967
+Phenylketonuria,D010661,Mental disorder,D001523,C0031485,C0376338
+Phenylketonuria,D010661,Seizure,D012640,C0031485,C3495874
+Phenylketonuria,D010661,Intellectual disability,D008607,C0031485,C0917816
+Pheochromocytoma,D010673,Tachycardia,D013610,C0031511,C0080203
+Pheochromocytoma,D010673,Perspiration,D013546,C0031511,C0038990
+Pheochromocytoma,D010673,Headache,D006261,C0031511,C0877781
+Pheochromocytoma,D010673,Hypertension,D006973,C0031511,C0020538
+Pheochromocytoma,D010673,Pallor,D010167,C0031511,C0030232
+Pierre Robin sequence,D010855,Micrognathism,D008844,C0031900,C0025990
+Placental abruption,D000037,Abdominal pain,D015746,C0000832,C0000737
+Platelet storage pool deficiency,D010981,Anemia,D000740,C0032197,C0002871
+Pneumonia,D011014,Cough,D003371,C0032285,C0010200
+Pneumonia,D011014,Fever,D005334,C0032285,C0015967
+Pneumonia,D011014,Shortness of breath,D004417,C0032285,C0085619
+Pneumothorax,D011030,Chest pain,D002637,C0032326,C0008031
+Pneumothorax,D011030,Shortness of breath,D004417,C0032326,C0085619
+Pneumothorax,D011030,Fatigue,D005221,C0032326,C0086525
+Polycystic ovary syndrome,D011085,Heavy menstrual bleeding,D008595,C0032460,C0025323
+Polycystic ovary syndrome,D011085,Infertility,D007246,C0032460,C4074771
+Polycystic ovary syndrome,D011085,Acanthosis nigricans,D000052,C0032460,C0000889
+Polycystic ovary syndrome,D011085,Acne,D000152,C0032460,C0001144
+Polycystic ovary syndrome,D011085,Hirsutism,D006628,C0032460,C0019572
+Polyneuropathy,D011115,Ataxia,D001259,C0393851,C0750937
+Portal hypertension,D006975,Ascites,D001201,C0020541,C0003962
+Post-traumatic stress disorder,D013313,Mental disorder,D001523,C4505439,C0376338
+Posterior reversible encephalopathy syndrome,D054038,Headache,D006261,C0878576,C0877781
+Postpartum bleeding,D006473,Tachycardia,D013610,C0269899,C0080203
+Postpartum bleeding,D006473,Orthostatic hypotension,D007024,C0269899,C0020651
+Postpartum depression,D019052,Anxiety,D001007,C2909478,C0027769
+Postpartum depression,D019052,Fatigue,D005221,C2909478,C0086525
+Postpartum infections,D011645,Fever,D005334,C0034041,C0015967
+Prader–Willi syndrome,D011218,Developmental disability,D002658,C0265222,C0085996
+Prader–Willi syndrome,D011218,Hypotonia,D009123,C0265222,C0026825
+Pregnancy,D011247,Amenorrhea,D000568,C0032961,C0032796
+Primary aldosteronism,D006929,Headache,D006261,C1384514,C0877781
+Primary aldosteronism,D006929,Hypertension,D006973,C1384514,C0020538
+Primary biliary cholangitis,D008105,Cholestasis,D002779,C0023892,C0008370
+Primary biliary cholangitis,D008105,Itch,D011537,C0023892,C0033774
+Primary biliary cholangitis,D008105,Fatigue,D005221,C0023892,C0086525
+Primary polydipsia,D059607,Xerostomia,D014987,C0395005,C0043352
+Progeria,D011371,Hair loss,D000505,C0033300,C0002170
+Progressive supranuclear palsy,D013494,Dementia,D003704,C0038868,C0497327
+Progressive supranuclear palsy,D013494,Hypokinesia,D018476,C0038868,C0233565
+Progressive supranuclear palsy,D013494,Ophthalmoparesis,D009886,C0038868,C0339693
+Prostate cancer,D011471,Pelvic pain,D017699,C0376358,C0030794
+Protein S deficiency,D018455,Purpura fulminans,D011695,C0242666,C0034152
+Pulmonary embolism,D011655,Chest pain,D002637,C0524702,C0008031
+Pulmonary embolism,D011655,Hemoptysis,D006469,C0524702,C0019079
+Pulmonary embolism,D011655,Shortness of breath,D004417,C0524702,C0085619
+Pulmonary heart disease,D011660,Cyanosis,D003490,C0034072,C0010520
+Pulmonary hypertension,D006976,Chest pain,D002637,C0020542,C0008031
+Pulmonary hypertension,D006976,Fatigue,D005221,C0020542,C0086525
+Pulmonary valve stenosis,D011666,Dizziness,D004244,C1956257,C0220870
+Pulmonary valve stenosis,D011666,Cyanosis,D003490,C1956257,C0010520
+Pulmonary venoocclusive disease,D011668,Fatigue,D005221,C0034091,C0086525
+Dysautonomia,D001342,Orthostatic hypotension,D007024,C0393912,C0020651
+Pyelonephritis,D011704,Nausea,D009325,C0034186,C0027497
+Pyelonephritis,D011704,Fever,D005334,C0034186,C0015967
+Pyelonephritis,D011704,Dysuria,D053159,C0034186,C0013428
+Pyruvate carboxylase deficiency,D015324,Liver failure,D017093,C0034341,C0085605
+Pyruvate carboxylase deficiency,D015324,Lactic acidosis,D000140,C0034341,C0001125
+Rabies,D011818,Confusion,D003221,C0034494,C0233407
+Rabies,D011818,Drooling,D012798,C0034494,C0013132
+Rabies,D011818,Paralysis,D010243,C0034494,C0234544
+Rabies,D011818,Hallucination,D006212,C0034494,C0544668
+Rabies,D011818,Insomnia,D007319,C0034494,C0541798
+Rabies,D011818,Coma,D003128,C0034494,C0860634
+Rabies,D011818,Fever,D005334,C0034494,C0015967
+Hypoglycemia,D007003,Hypoglycemia,D007003,C0271708,C0271708
+Renal papillary necrosis,D007681,Back pain,D001416,C0022667,C0750949
+Respiratory alkalosis,D000472,Tetany,D013746,C0002064,C0917812
+Reye syndrome,D012202,Confusion,D003221,C0751485,C0233407
+Reye syndrome,D012202,Vomiting,D014839,C0751485,C0042963
+Reye syndrome,D012202,Seizure,D012640,C0751485,C3495874
+Rhabdomyolysis,D012206,Confusion,D003221,C0035410,C0233407
+Rhabdomyolysis,D012206,Vomiting,D014839,C0035410,C0042963
+Rhabdomyolysis,D012206,Arrhythmia,D001145,C0035410,C0003811
+Rhabdomyolysis,D012206,Muscle weakness,D018908,C0035410,C0151786
+Rhabdomyolysis,D012206,Myalgia,D063806,C0035410,C0231528
+Rheumatic fever,D012213,Chorea,D002819,C0035436,C0393584
+Rheumatic fever,D012213,Arthralgia,D018771,C0035436,C0003862
+Rheumatic fever,D012213,Fever,D005334,C0035436,C0015967
+Rift Valley fever,D012295,Myalgia,D063806,C0035613,C0231528
+Rift Valley fever,D012295,Headache,D006261,C0035613,C0877781
+Rift Valley fever,D012295,Fever,D005334,C0035613,C0015967
+Rocky Mountain spotted fever,D012373,Rash,D005076,C0035793,C0015230
+Rocky Mountain spotted fever,D012373,Headache,D006261,C0035793,C0877781
+Rocky Mountain spotted fever,D012373,Fever,D005334,C0035793,C0015967
+Romano–Ward syndrome,D029597,Seizure,D012640,C4551647,C3495874
+Rosacea,D012393,Telangiectasia,D013684,C0406486,C1138421
+Rosacea,D012393,Erythema,D004890,C0406486,C0041834
+Rosacea,D012393,Edema,D004487,C0406486,C0013604
+Rotaviral gastroenteritis,D012400,Vomiting,D014839,C0035869,C0042963
+Rotaviral gastroenteritis,D012400,Abdominal pain,D015746,C0035869,C0000737
+Rotaviral gastroenteritis,D012400,Diarrhea,D003967,C0035869,C0011991
+Rotaviral gastroenteritis,D012400,Fever,D005334,C0035869,C0015967
+Rotor syndrome,D006933,Jaundice,D007565,C0220991,C0242183
+Rubella,D012409,Lymphadenopathy,D008206,C0035920,C0024228
+Rubella,D012409,Fever,D005334,C0035920,C0015967
+Sanfilippo syndrome,D009084,Dementia,D003704,C0026706,C0497327
+Scabies,D012532,Itch,D011537,C0024710,C0033774
+Scheuermann's disease,D012544,Chronic pain,D059350,C0036310,C3178789
+Schistosomiasis,D012552,Abdominal pain,D015746,C0036323,C0000737
+Schistosomiasis,D012552,Diarrhea,D003967,C0036323,C0011991
+Schistosomiasis,D012552,Hematuria,D006417,C0036323,C0018965
+Schizoaffective disorder,D011618,Delusion,D003702,C0033958,C0011253
+Schizoaffective disorder,D011618,Depression (mood),D003863,C0033958,C0086132
+Schizoaffective disorder,D011618,Bipolar disorder,D001714,C0033958,C0005586
+Schizoaffective disorder,D011618,Hallucination,D006212,C0033958,C0544668
+Sciatica,D012585,Pain,D010146,C0036396,C0458257
+Scintillating scotoma,D012607,Dizziness,D004244,C0544679,C0220870
+Scintillating scotoma,D012607,Nausea,D009325,C0544679,C0027497
+Scurvy,D012614,Periodontal disease,D010518,C0036474,C0031051
+Sepsis,D018805,Anuria,D001002,C0036690,C0003460
+Sepsis,D018805,Confusion,D003221,C0036690,C0233407
+Sepsis,D018805,Tachycardia,D013610,C0036690,C0080203
+Sepsis,D018805,Pain,D010146,C0036690,C0458257
+Sepsis,D018805,Hypotension,D007022,C0036690,C0020649
+Sepsis,D018805,Hyperventilation,D006985,C0036690,C0020578
+Sepsis,D018805,Fever,D005334,C0036690,C0015967
+Sepsis,D018805,Oliguria,D009846,C0036690,C0028961
+Serum sickness,D012713,Rash,D005076,C0036830,C0015230
+Serum sickness,D012713,Arthralgia,D018771,C0036830,C0003862
+Serum sickness,D012713,Lymphadenopathy,D008206,C0036830,C0024228
+Serum sickness,D012713,Fever,D005334,C0036830,C0015967
+Shigellosis,D004405,Abdominal pain,D015746,C1257869,C0000737
+Shigellosis,D004405,Diarrhea,D003967,C1257869,C0011991
+Shigellosis,D004405,Fever,D005334,C1257869,C0015967
+Short bowel syndrome,D012778,Malnutrition,D044342,C0036992,C0162429
+Short bowel syndrome,D012778,Diarrhea,D003967,C0036992,C0011991
+Sinusitis,D012852,Pain,D010146,C0037199,C0458257
+Sinusitis,D012852,Fever,D005334,C0037199,C0015967
+Skin cancer,D012878,Telangiectasia,D013684,C0007114,C1138421
+Skin cancer,D012878,Melanocytic nevus,D009508,C0007114,C0027962
+Sleep apnea,D012891,Apnea,D001049,C0037315,C0003578
+Sleep apnea,D012891,Snoring,D012913,C0037315,C0037384
+Small intestine cancer,D007414,Gastrointestinal bleeding,D006471,C0021841,C0018932
+Snakebite,D012909,Edema,D004487,C0037379,C0013604
+Somatization disorder,D013001,Muscle weakness,D018908,C0037650,C0151786
+Somatization disorder,D013001,Headache,D006261,C0037650,C0877781
+Somatization disorder,D013001,Fatigue,D005221,C0037650,C0086525
+Spinal muscular atrophies,D009134,Muscle atrophy,D009133,C0026847,C0026846
+Spinocerebellar ataxia type 1,D020754,Ataxia,D001259,C0752120,C0750937
+Spinocerebellar ataxia type 1,D020754,Dysarthria,D004401,C0752120,C0454596
+Spinocerebellar ataxia type 1,D020754,Dysphagia,D003680,C0752120,C0011168
+Sprain,D013180,Pain,D010146,C0080194,C0458257
+Sprain,D013180,Bruise,D003288,C0080194,C0009938
+Sprain,D013180,Edema,D004487,C0080194,C0013604
+Stevens–Johnson syndrome,D013262,Blister,D001768,C0014518,C0005758
+Stevens–Johnson syndrome,D013262,Fever,D005334,C0014518,C0015967
+Stillbirth,D050497,Pregnancy,D011247,C0595939,C0032961
+Stomach cancer,D013274,Nausea,D009325,C0024623,C0027497
+Stomach cancer,D013274,Jaundice,D007565,C0024623,C0242183
+Stomach cancer,D013274,Abdominal pain,D015746,C0024623,C0000737
+Stomach cancer,D013274,Anorexia (symptom),D000855,C0024623,C0003123
+Stomach cancer,D013274,Heartburn,D006356,C0024623,C0018834
+Stomach cancer,D013274,Dysphagia,D003680,C0024623,C0011168
+Stroke,D020521,Dizziness,D004244,C0751956,C0220870
+Stroke,D020521,Expressive aphasia,D001039,C0751956,C0454573
+Stroke,D020521,Receptive aphasia,D001041,C0751956,C0454575
+Stroke,D020521,Hemiparesis,D006429,C0751956,C0392550
+Strongyloidiasis,D013322,Rash,D005076,C0085810,C0015230
+Strongyloidiasis,D013322,Abdominal pain,D015746,C0085810,C0000737
+Strongyloidiasis,D013322,Diarrhea,D003967,C0085810,C0011991
+Subacute bacterial endocarditis,D004698,Muscle weakness,D018908,C0014122,C0151786
+Subarachnoid hemorrhage,D013345,Vomiting,D014839,C0795688,C0042963
+Sulfhemoglobinemia,D013436,Constipation,D003248,C0038732,C1257861
+Sulfhemoglobinemia,D013436,Urinary tract infection,D014552,C0038732,C0042029
+Sulfhemoglobinemia,D013436,Cyanosis,D003490,C0038732,C0010520
+Sweating sickness,D018614,Muscle weakness,D018908,C0242843,C0151786
+Sweating sickness,D018614,Pain,D010146,C0242843,C0458257
+Sweating sickness,D018614,Chills,D023341,C0242843,C0085593
+Sympathetic ophthalmia,D009879,Photophobia,D020795,C0029077,C0085636
+Syndrome of inappropriate antidiuretic hormone secretion,D007177,Vomiting,D014839,C0021141,C0042963
+Syndrome of inappropriate antidiuretic hormone secretion,D007177,Nausea,D009325,C0021141,C0027497
+Syndrome of inappropriate antidiuretic hormone secretion,D007177,Seizure,D012640,C0021141,C3495874
+Syndrome of inappropriate antidiuretic hormone secretion,D007177,Abdominal pain,D015746,C0021141,C0000737
+Syndrome of inappropriate antidiuretic hormone secretion,D007177,Coma,D003128,C0021141,C0860634
+Syndrome of inappropriate antidiuretic hormone secretion,D007177,Anorexia (symptom),D000855,C0021141,C0003123
+Syphilis,D013587,Ulcer (dermatology),D012883,C0039128,C0037299
+T-cell lymphoma,D016399,Rash,D005076,C0079772,C0015230
+T-cell lymphoma,D016399,Fever,D005334,C0079772,C0015967
+Taeniasis,D013622,Abdominal pain,D015746,C5392955,C0000737
+Tay–Sachs disease,D013661,Paralysis,D010243,C1848922,C0234544
+Tay–Sachs disease,D013661,Hearing loss,D034381,C1848922,C1384666
+Tay–Sachs disease,D013661,Seizure,D012640,C1848922,C3495874
+Tendinopathy,D052256,Pain,D010146,C1568272,C0458257
+Testicular cancer,D013736,Edema,D004487,C1720811,C0013604
+Tetanus,D013742,Spasm,D013035,C0039614,C0235229
+Tetanus,D013742,Perspiration,D013546,C0039614,C0038990
+Tetanus,D013742,Seizure,D012640,C0039614,C3495874
+Tetanus,D013742,Headache,D006261,C0039614,C0877781
+Tetanus,D013742,Fever,D005334,C0039614,C0015967
+Thalassemia,D013789,Jaundice,D007565,C0039730,C0242183
+Thalassemia,D013789,Splenomegaly,D013163,C0039730,C0038002
+Thalassemia,D013789,Pallor,D010167,C0039730,C0030232
+Thalassemia,D013789,Fatigue,D005221,C0039730,C0086525
+Thiamine deficiency,D001602,Pain,D010146,C0005122,C0458257
+Thiamine deficiency,D001602,Edema,D004487,C0005122,C0013604
+Thiamine deficiency,D001602,Shortness of breath,D004417,C0005122,C0085619
+Thoracic outlet syndrome,D013901,Cyanosis,D003490,C1956395,C0010520
+Thoracic outlet syndrome,D013901,Edema,D004487,C1956395,C0013604
+Tonsillitis,D014069,Pharyngitis,D010612,C0040425,C0031350
+Tonsillitis,D014069,Lymphadenopathy,D008206,C0040425,C0024228
+Tonsillitis,D014069,Fever,D005334,C0040425,C0015967
+Toxic megacolon,D008532,Fever,D005334,C0025162,C0015967
+Toxic shock syndrome,D012772,Rash,D005076,C0036981,C0015230
+Toxic shock syndrome,D012772,Hypotension,D007022,C0036981,C0020649
+Toxic shock syndrome,D012772,Fever,D005334,C0036981,C0015967
+Toxoplasmosis,D014123,Pregnancy,D011247,C0040558,C0032961
+Transmissible spongiform encephalopathy,D017096,Dementia,D003704,C0162534,C0497327
+Transmissible spongiform encephalopathy,D017096,Insomnia,D007319,C0162534,C0541798
+Trench fever,D014205,Fever,D005334,C0040830,C0015967
+Trichinosis,D014235,Conjunctivitis,D003231,C2713585,C0009763
+Trichinosis,D014235,Vomiting,D014839,C2713585,C0042963
+Trichinosis,D014235,Rash,D005076,C2713585,C0015230
+Trichinosis,D014235,Abdominal pain,D015746,C2713585,C0000737
+Trichinosis,D014235,Myalgia,D063806,C2713585,C0231528
+Trichinosis,D014235,Diarrhea,D003967,C2713585,C0011991
+Trichinosis,D014235,Fever,D005334,C2713585,C0015967
+Trichinosis,D014235,Edema,D004487,C2713585,C0013604
+Trichomoniasis,D014246,Vaginal discharge,D019522,C0040922,C0227791
+Trichuriasis,D014257,Abdominal pain,D015746,C0040954,C0000737
+Trichuriasis,D014257,Diarrhea,D003967,C0040954,C0011991
+Tricuspid regurgitation,D014262,Ascites,D001201,C0040961,C0003962
+Trilogy of Fallot,D014286,Cyanosis,D003490,C0041022,C0010520
+Tropical sprue,D013182,Diarrhea,D003967,C0038054,C0011991
+Tuberculosis,D014376,Hemoptysis,D006469,C0041296,C0019079
+Tuberculosis,D014376,Fever,D005334,C0041296,C0015967
+Tuberculous meningitis,D014390,Fever,D005334,C0751568,C0015967
+Tularemia,D014406,Lymphadenopathy,D008206,C0041351,C0024228
+Tularemia,D014406,Ulcer (dermatology),D012883,C0041351,C0037299
+Tularemia,D014406,Fever,D005334,C0041351,C0015967
+Type 1 diabetes,D003922,Muscle weakness,D018908,C0342302,C0151786
+Type 1 diabetes,D003922,Polyphagia,D006963,C0342302,C0020505
+Type 1 diabetes,D003922,Polyuria,D011141,C0342302,C0032617
+Type 1 diabetes,D003922,Fatigue,D005221,C0342302,C0086525
+Type 2 diabetes,D003924,Polyphagia,D006963,C0011860,C0020505
+Type 2 diabetes,D003924,Polyuria,D011141,C0011860,C0032617
+Typhoid fever,D014435,Constipation,D003248,C0041466,C1257861
+Typhoid fever,D014435,Headache,D006261,C0041466,C0877781
+Typhoid fever,D014435,Diarrhea,D003967,C0041466,C0011991
+Ulcerative colitis,D003093,Anemia,D000740,C0009324,C0002871
+Ulcerative colitis,D003093,Abdominal pain,D015746,C0009324,C0000737
+Ulcerative colitis,D003093,Diarrhea,D003967,C0009324,C0011991
+Ulcerative colitis,D003093,Fever,D005334,C0009324,C0015967
+Ulcerative colitis,D003093,Fatigue,D005221,C0009324,C0086525
+Urethral cancer,D014523,Hematuria,D006417,C0700101,C0018965
+Urinary retention,D016055,Urinary tract infection,D014552,C0080274,C0042029
+Urinary retention,D016055,Urinary incontinence,D014549,C0080274,C0042024
+Uterine prolapse,D014596,Constipation,D003248,C0205990,C1257861
+Uterine prolapse,D014596,Urinary incontinence,D014549,C0205990,C0042024
+Uveitis,D014605,Photophobia,D020795,C0042164,C0085636
+Vaginal yeast infection,D002181,Vaginal discharge,D019522,C0006852,C0227791
+Vaginal yeast infection,D002181,Dysuria,D053159,C0006852,C0013428
+Vaginitis,D014627,Vaginal discharge,D019522,C0042267,C0227791
+Vaginitis,D014627,Itch,D011537,C0042267,C0033774
+Vasculitis,D014657,Purpura,D011693,C0042384,C0034150
+Vasculitis,D014657,Myalgia,D063806,C0042384,C0231528
+Vasculitis,D014657,Fever,D005334,C0042384,C0015967
+Ventricular fibrillation,D014693,Cardiac arrest,D006323,C0042510,C0018790
+Vertebral artery dissection,D020217,Aphasia,D001037,C0338586,C0234482
+Vertebral artery dissection,D020217,Ataxia,D001259,C0338586,C0750937
+Vertebral artery dissection,D020217,Headache,D006261,C0338586,C0877781
+Vertebral artery dissection,D020217,Dysphagia,D003680,C0338586,C0011168
+Vertigo,D014717,Vomiting,D014839,C0155503,C0042963
+Vestibular schwannoma,D009464,Tinnitus,D014012,C0027859,C0751557
+Vitamin K deficiency,D014813,Bruise,D003288,C0042880,C0009938
+Vitamin K deficiency,D014813,Purpura,D011693,C0042880,C0034150
+Volvulus,D045822,Constipation,D003248,C0042961,C1257861
+Volvulus,D045822,Abdominal pain,D015746,C0042961,C0000737
+Vomiting,D014839,Nausea,D009325,C0042963,C0027497
+West Nile fever,D014901,Vomiting,D014839,C0751583,C0042963
+West Nile fever,D014901,Diarrhea,D003967,C0751583,C0011991
+West Nile fever,D014901,Fever,D005334,C0751583,C0015967
+Williams syndrome,D018980,Intellectual disability,D008607,C0175702,C0917816
+X-linked lymphoproliferative disease,D008232,Vasculitis,D014657,C0549463,C0042384
+X-linked lymphoproliferative disease,D008232,Gastritis,D005756,C0549463,C0017152
+X-linked lymphoproliferative disease,D008232,Aplastic anemia,D000741,C0549463,C0178416
+X-linked lymphoproliferative disease,D008232,Non-Hodgkin lymphoma,D008228,C0549463,C4721532
+X-linked lymphoproliferative disease,D008232,Dysgammaglobulinemia,D004406,C0549463,C0013374
+XYY syndrome,D014997,Intellectual disability,D008607,C0043379,C0917816
+XYY syndrome,D014997,Acne,D000152,C0043379,C0001144
+Xeroderma pigmentosum,D014983,Freckle,D008548,C0043346,C0025209
+Xeroderma pigmentosum,D014983,Sunburn,D013471,C0043346,C0038814
+Yellow fever,D015004,Jaundice,D007565,C0043395,C0242183
+Yellow fever,D015004,Chills,D023341,C0043395,C0085593
+Yellow fever,D015004,Myalgia,D063806,C0043395,C0231528
+Yellow fever,D015004,Headache,D006261,C0043395,C0877781
+Yellow fever,D015004,Fever,D005334,C0043395,C0015967
