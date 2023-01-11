@@ -15,18 +15,18 @@ The three datasets are:
 
 ## Project Contents
 
-The main code for the project is contained within Jupyter notebooks, released under the MIT licence.
+The main code for the project is contained within Jupyter notebooks, released under the MIT licence.   
 
-Importing, processing and fixing the three datasets:  
-[1. DBPedia Dataset]()
-[2. PubMed Dataset]()
-[3. Hospital Dataset]()
+Importing, processing and fixing the three datasets:   
+[1. DBPedia Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/1.%20DBPedia%20Dataset.ipynb)  
+[2. PubMed Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/2.%20PubMed%20Dataset.ipynb)  
+[3. Hospital Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/3.%20Hospital%20Dataset.ipynb)  
 
-A supplemental exploration of an automated process to fix broken id codes
-[4. Example Approach to Fixing Missing Codes]()
+A supplemental exploration of an automated process to fix broken id codes:  
+[4. Example Approach to Fixing Missing Codes](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/4.%20Example%20Approach%20to%20Fixing%20Missing%20Codes.ipynb)  
 
-Comparing the three datasets and combining them:
-[5. Combining Datasets]()
-[6. Comparing the Health Knowledge Graphs]()
+Comparing the three datasets and combining them:   
+[5. Combining Datasets](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/5.%20Combining%20Datasets.ipynb)  
+[6. Comparing the Health Knowledge Graphs](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/6.%20Comparing%20the%20Health%20Knowledge%20Graphs.ipynb)
 
 The data are all contained in the relevant folders.
