@@ -23,8 +23,8 @@ Importing, processing and fixing the three datasets:
 [2. PubMed Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/2.%20PubMed%20Dataset.ipynb)  
 [3. Hospital Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/3.%20Hospital%20Dataset.ipynb)  
 
-A supplemental exploration of an automated process to fix broken id codes:  
-[4. Example Approach to Fixing Missing Codes](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/4.%20Example%20Approach%20to%20Fixing%20Missing%20Codes.ipynb)  
+A supplemental exploration of methods to fix missing MeSH codes and an approach to represent conditions by their "parent group":  
+[4. Example Methods to Fix Discrepancies](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha_Randall/blob/main/4.%20Example%20Methods%20to%20Fix%20Discrepancies.ipynb)  
 
 Comparing the three datasets and combining them:   
 [5. Combining Datasets](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/5.%20Combining%20Datasets.ipynb)  
