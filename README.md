@@ -30,4 +30,7 @@ Comparing the three datasets and combining them:
 [5. Combining Datasets](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/5.%20Combining%20Datasets.ipynb)  
 [6. Comparing the Health Knowledge Graphs](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/6.%20Comparing%20the%20Health%20Knowledge%20Graphs.ipynb)
 
+Network visualisations and calculating graph metrics in Gephi:
+[7. Work in Gephi](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha_Randall/tree/main/gephi_analysis)
+
 The data are all contained in the relevant folders.
