@@ -21,7 +21,7 @@
 
 The aim of this study was to examine the feasibility of creating a health knowledge graph using an automated process extracting data from hospital medical records, rather than constructing it manually. The knowledge graph uses nodes to represent diseases and symptoms, with edges representing the relationship between a particular symptom and disease, where the edge weight represents the strength of the connection. 
 
-> ![image info](./images/natasha_1.png)  
+> ![image info](./presentation_images/natasha_1.png)  
 
 ## Purpose 
 
@@ -31,7 +31,7 @@ Health knowledge graphs can serve two main purposes:
 
 * As a self-diagnosis system for patients. The Google Health Knowledge Graph (GHKG) is an end-user targeted model, which suggests possible diseases based on the symptoms that a user has googled. According to Google, in 2015, 1 in 20 of all searches were for health-related information. By getting that information from a curated Knowledge Graph rather than a dubious "health" website, the user receives much more reliable and less sensationalist results.
 
-> ![image info](./images/natasha_2.png)  
+> ![image info](./presentation_images/natasha_2.png)  
 > *Google results for symptoms and related diseases, taken from the Google Health Knowledge Graph.*
 
 ## Problems
@@ -44,7 +44,7 @@ This approach also means that the knowledge graphs cannot be kept completely up 
 
 Given these problems, this study aimed to test whether a reliable, effective health knowledge graph could be generated automatically, based on scraping data from hospital patient records. This approach would be contrasted to the traditional approach of manual construction based on common medical knowledge and definitive medical textbooks.
 
-> ![image info](./images/natasha_3.png)  
+> ![image info](./presentation_images/natasha_3.png)  
 *Belden, J (2012) "Index Card Doctor's Progress Note". Flickr. https://flic.kr/p/bgLBop. Distributed under CC BY-NC 2.0.*  
 *Connor, A (2012) "Oxford Textbook of Medicine". Flickr. https://flic.kr/p/dGQKQB. Distributed under CC BY-SA 2.0.*
 
@@ -64,7 +64,7 @@ Nevertheless, there are many **advantages** associated with automated methodolog
 
 The information firstly needed to be extracted from the digital medical records. At the hospital used by the study, each patient had a medical record describing their reported symptoms and final disease diagnosis. The information in the records was represented in both structured and unstructured forms.
 
-> ![image info](./images/natasha_4.jpg)  
+> ![image info](./presentation_images/natasha_4.jpg)  
 
 **Structured**: ICD-9 codes (International Classification of Diseases, 9th version) refer to a standardised system commonly used in the US, which assigns diseases to agreed upon codes. These codes were written on the records to represent different disease diagnoses.  
 
@@ -80,7 +80,7 @@ A model needed to be constructed to calculate the size of the edge weights betwe
 
 Three different algorithms which could calculate these edge weights were tested: **Logistic regression, Naïve Bayes,** and **Noisy OR.** Maximum likelihood estimation was used to estimate the parameters, with hyperparameters chosen to reduce overfitting; in reality, diseases should not lead to an overly large number of symptoms, therefore regularisation was used to restrict the number of symptoms highly associated with each disease.
 
-> ![image info](./images/natasha_5.png)  
+> ![image info](./presentation_images/natasha_5.png)  
 
 ### Logistic Regression 
 The logistic regression algorithm was chosen as it is a commonly used, well established machine learning classifier.
@@ -89,14 +89,14 @@ A separate logistic regression model was created for each disease, where the var
 
 The edge weights in the knowledge graph were taken from the coefficients in the model, thus if a particular symptom was a good predictor for the disease, it had a high edge weight association in the knowledge graph.
 
-> ![image info](./images/natasha_6.png)  
+> ![image info](./presentation_images/natasha_6.png)  
 
 ### Naïve Bayes
 The Naïve Bayes algorithm was chosen as a baseline, simple statistical model, that learns from basic associations and co-ocurrences of symptoms and diseases.
 
 The edge weights in the model were calculated as: what is the probability a symptom occurs given that the disease is present, minus the probability a symptom occurs given that the disease is not present. Thus the model calculates a higher edge weight when a disease and symptom occur often together, with an emphasis on whether the presence of a particular disease increases the likelihood of a presence of a particular symptom.
 
-> ![image info](./images/natasha_7.png)  
+> ![image info](./presentation_images/natasha_7.png)  
 
 ### Model problems
 A problem with both of these models is that they assumed independence between symptoms and diseases, however this is not at all true in reality. For example, if you have the symptom of "cough" then you are more likely to also have the symptom of "sore throat". If a patient is diagnosed with the disease "flu", then an additional diagnosis of "ear ache" is more likely than that of "broken foot".
@@ -110,7 +110,7 @@ The way it works is: in a "perfect" scenario, if a disease is present, then it a
 
 The edge weights in the model are calculated as 1-f, i.e. the probability that the disease does trigger the symptom to occur. In this way, the model is trying to capture causality, rather than just co-occurrences. As a result, noisy OR was found to be the best algorithm when evaluating the resulting knowledge graphs.
 
-> ![image info](./images/natasha_8.png)  
+> ![image info](./presentation_images/natasha_8.png)  
 
 ## Evaluating the Knowledge Graph <a name="evaluating"></a>
 
@@ -119,7 +119,7 @@ The knowledge graph was then generated, with the edge weights connecting symptom
 **Precision:** Given the associations identified, how many of them were correct?  
 **Recall**: Given all of the correct associations that exist, how many of them were identified?  
 
-> ![image info](./images/natasha_9.png)    
+> ![image info](./presentation_images/natasha_9.png)    
 > *FreeSVG (2022) "Precision, recall and false positive rate". https://freesvg.org/precision-recall-fpr. Distributed under CC Public Domain.*
 
 
@@ -131,11 +131,11 @@ The created knowledge graph was also **compared to the Google Health Knowledge G
 
 The knowledge graph was found to score more highly on recall (identifying lots of correct associations) when evaluated by the physicians, leading to the conclusion that the graph was able to identify many legitimate associations that the manually constructed Google Health Knowledge graph had failed to include.
 
-> ![image info](./images/natasha_10.png)  
+> ![image info](./presentation_images/natasha_10.png)  
 
 The evaluation showed that not only was the automatically generated Knowledge Graph able to correctly describe associations between symptoms and diseases, it was also able to identify associations that the Google Health Knowledge Graph had missed, thus revealing the benefit of utilising the real world medical reports.
 
-> ![image info](./images/natasha_11.png)  
+> ![image info](./presentation_images/natasha_11.png)  
 > *The stars represent the physicians' likelihood ratings that the given disease causes the particular symptom.*
 
 ## Further Development <a name="further"></a>
@@ -151,4 +151,4 @@ Finally, the data used in this study were 273,147 patient records from an Emerge
 
 Therefore, further development of this research should use a much broader scale of input data from different hospitals. However, even given the limitations of the study, the results from the Knowledge Graph generating algorithms were extremely impressive. The scale of what was achieved by a relatively easy-to-implement automated system, when compared to the laboriously manually constructed Google Health Knowledge Graph, reveals an incredibly promising result.
 
-> ![image info](./images/natasha_12.PNG)  
+> ![image info](./presentation_images/natasha_12.PNG)  
