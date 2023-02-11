@@ -21,7 +21,7 @@ The main code for the project is contained within Jupyter notebooks, released un
 Importing, processing and fixing the three datasets:   
 [1. DBPedia Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/1.%20DBPedia%20Dataset.ipynb)  
 [2. PubMed Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/2.%20PubMed%20Dataset.ipynb)  
-[3. Hospital Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/3.%20Hospital%20Dataset.ipynb)  
+[3. Medical Records Dataset](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/3.%20Medical%20Records%20Dataset.ipynb)  
 
 A supplemental exploration of methods to fix missing MeSH codes and an approach to represent conditions by their "parent group":  
 [4. Example Methods to Fix Discrepancies](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha_Randall/blob/main/4.%20Example%20Methods%20to%20Fix%20Discrepancies.ipynb)  
