@@ -5,7 +5,7 @@ This repository contains the final project of the course
 
 ## Project Description
 
-The goal of this project was to compare disease-symptom association health knowledge graphs created from three disparate data sources, and to explore the viability of combining the datasets into one large encompassing health knowledge graph.
+**The goal of this project was to compare disease-symptom association health knowledge graphs created from three disparate data sources, and to explore the viability of combining the datasets into one large encompassing health knowledge graph.**
 
 This project was inspired by the paper: Rotmensch et al., 2017. Learning a health knowledge graph from electronic medical records. Scientific reports, 7(1), 1-11. [A presentation of this paper](https://github.com/Natasha-R/DS_Linked_Open_Data_and_Knowledge_Graphs_2022_Natasha-Randall/blob/main/'Learning%20a%20Health%20Knowledge%20Graph'%20Presentation.md) is also provided.
 
